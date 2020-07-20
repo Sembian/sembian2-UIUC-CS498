@@ -1,0 +1,3457 @@
+Category,Cause of death,Year,Rate
+All,All causes,2000,869
+All,All causes,2001,858.8
+All,All causes,2002,855.9
+All,All causes,2003,843.5
+All,All causes,2004,813.7
+All,All causes,2005,815
+All,All causes,2006,791.8
+All,All causes,2007,775.3
+All,All causes,2008,774.9
+All,All causes,2009,749.6
+All,All causes,2010,747
+All,All causes,2011,741.3
+All,All causes,2012,732.8
+All,All causes,2013,731.9
+All,All causes,2014,724.6
+All,All causes,2015,733.1
+All,All causes,2016,728.8
+All,All causes,2017,731.9
+All,Diseases of heart,2000,257.6
+All,Diseases of heart,2001,249.5
+All,Diseases of heart,2002,244.6
+All,Diseases of heart,2003,236.3
+All,Diseases of heart,2004,221.6
+All,Diseases of heart,2005,216.8
+All,Diseases of heart,2006,205.5
+All,Diseases of heart,2007,196.1
+All,Diseases of heart,2008,192.1
+All,Diseases of heart,2009,182.8
+All,Diseases of heart,2010,179.1
+All,Diseases of heart,2011,173.7
+All,Diseases of heart,2012,170.5
+All,Diseases of heart,2013,169.8
+All,Diseases of heart,2014,167
+All,Diseases of heart,2015,168.5
+All,Diseases of heart,2016,165.5
+All,Diseases of heart,2017,165
+All,Ischemic heart disease,2000,186.8
+All,Ischemic heart disease,2001,179
+All,Ischemic heart disease,2002,173.5
+All,Ischemic heart disease,2003,165.6
+All,Ischemic heart disease,2004,153.2
+All,Ischemic heart disease,2005,148.2
+All,Ischemic heart disease,2006,138.3
+All,Ischemic heart disease,2007,129.2
+All,Ischemic heart disease,2008,126.1
+All,Ischemic heart disease,2009,117.7
+All,Ischemic heart disease,2010,113.6
+All,Ischemic heart disease,2011,109.2
+All,Ischemic heart disease,2012,105.4
+All,Ischemic heart disease,2013,102.6
+All,Ischemic heart disease,2014,98.8
+All,Ischemic heart disease,2015,97.2
+All,Ischemic heart disease,2016,94.3
+All,Ischemic heart disease,2017,92.9
+All,Cerebrovascular diseases,2000,60.9
+All,Cerebrovascular diseases,2001,58.4
+All,Cerebrovascular diseases,2002,57.2
+All,Cerebrovascular diseases,2003,54.6
+All,Cerebrovascular diseases,2004,51.2
+All,Cerebrovascular diseases,2005,48
+All,Cerebrovascular diseases,2006,44.8
+All,Cerebrovascular diseases,2007,43.5
+All,Cerebrovascular diseases,2008,42.1
+All,Cerebrovascular diseases,2009,39.6
+All,Cerebrovascular diseases,2010,39.1
+All,Cerebrovascular diseases,2011,37.9
+All,Cerebrovascular diseases,2012,36.9
+All,Cerebrovascular diseases,2013,36.2
+All,Cerebrovascular diseases,2014,36.5
+All,Cerebrovascular diseases,2015,37.6
+All,Cerebrovascular diseases,2016,37.3
+All,Cerebrovascular diseases,2017,37.6
+All,Malignant neoplasms,2000,199.6
+All,Malignant neoplasms,2001,196.5
+All,Malignant neoplasms,2002,194.3
+All,Malignant neoplasms,2003,190.9
+All,Malignant neoplasms,2004,186.8
+All,Malignant neoplasms,2005,185.1
+All,Malignant neoplasms,2006,181.8
+All,Malignant neoplasms,2007,179.3
+All,Malignant neoplasms,2008,176.4
+All,Malignant neoplasms,2009,173.5
+All,Malignant neoplasms,2010,172.8
+All,Malignant neoplasms,2011,169
+All,Malignant neoplasms,2012,166.5
+All,Malignant neoplasms,2013,163.2
+All,Malignant neoplasms,2014,161.2
+All,Malignant neoplasms,2015,158.5
+All,Malignant neoplasms,2016,155.8
+All,Malignant neoplasms,2017,152.5
+All,"Trachea, bronchus, and lung",2000,56.1
+All,"Trachea, bronchus, and lung",2001,55.4
+All,"Trachea, bronchus, and lung",2002,55
+All,"Trachea, bronchus, and lung",2003,54.1
+All,"Trachea, bronchus, and lung",2004,53.3
+All,"Trachea, bronchus, and lung",2005,52.7
+All,"Trachea, bronchus, and lung",2006,51.5
+All,"Trachea, bronchus, and lung",2007,50.6
+All,"Trachea, bronchus, and lung",2008,49.5
+All,"Trachea, bronchus, and lung",2009,48.4
+All,"Trachea, bronchus, and lung",2010,47.6
+All,"Trachea, bronchus, and lung",2011,46
+All,"Trachea, bronchus, and lung",2012,44.9
+All,"Trachea, bronchus, and lung",2013,43.4
+All,"Trachea, bronchus, and lung",2014,42.1
+All,"Trachea, bronchus, and lung",2015,40.5
+All,"Trachea, bronchus, and lung",2016,38.4
+All,"Trachea, bronchus, and lung",2017,36.6
+All,"Colon, rectum, and anus",2000,20.8
+All,"Colon, rectum, and anus",2001,20.2
+All,"Colon, rectum, and anus",2002,19.8
+All,"Colon, rectum, and anus",2003,19.2
+All,"Colon, rectum, and anus",2004,18.2
+All,"Colon, rectum, and anus",2005,17.7
+All,"Colon, rectum, and anus",2006,17.4
+All,"Colon, rectum, and anus",2007,17
+All,"Colon, rectum, and anus",2008,16.6
+All,"Colon, rectum, and anus",2009,16
+All,"Colon, rectum, and anus",2010,15.8
+All,"Colon, rectum, and anus",2011,15.3
+All,"Colon, rectum, and anus",2012,14.9
+All,"Colon, rectum, and anus",2013,14.6
+All,"Colon, rectum, and anus",2014,14.3
+All,"Colon, rectum, and anus",2015,14.2
+All,"Colon, rectum, and anus",2016,13.9
+All,"Colon, rectum, and anus",2017,13.7
+All,Chronic lower respiratory diseases,2000,44.2
+All,Chronic lower respiratory diseases,2001,43.9
+All,Chronic lower respiratory diseases,2002,43.9
+All,Chronic lower respiratory diseases,2003,43.7
+All,Chronic lower respiratory diseases,2004,41.6
+All,Chronic lower respiratory diseases,2005,43.9
+All,Chronic lower respiratory diseases,2006,41
+All,Chronic lower respiratory diseases,2007,41.4
+All,Chronic lower respiratory diseases,2008,44.7
+All,Chronic lower respiratory diseases,2009,42.7
+All,Chronic lower respiratory diseases,2010,42.2
+All,Chronic lower respiratory diseases,2011,42.5
+All,Chronic lower respiratory diseases,2012,41.5
+All,Chronic lower respiratory diseases,2013,42.1
+All,Chronic lower respiratory diseases,2014,40.5
+All,Chronic lower respiratory diseases,2015,41.6
+All,Chronic lower respiratory diseases,2016,40.6
+All,Chronic lower respiratory diseases,2017,40.9
+All,Influenza and pneumonia,2000,23.7
+All,Influenza and pneumonia,2001,22.2
+All,Influenza and pneumonia,2002,23.2
+All,Influenza and pneumonia,2003,22.6
+All,Influenza and pneumonia,2004,20.4
+All,Influenza and pneumonia,2005,21
+All,Influenza and pneumonia,2006,18.4
+All,Influenza and pneumonia,2007,16.8
+All,Influenza and pneumonia,2008,17.6
+All,Influenza and pneumonia,2009,16.5
+All,Influenza and pneumonia,2010,15.1
+All,Influenza and pneumonia,2011,15.7
+All,Influenza and pneumonia,2012,14.4
+All,Influenza and pneumonia,2013,15.9
+All,Influenza and pneumonia,2014,15.1
+All,Influenza and pneumonia,2015,15.2
+All,Influenza and pneumonia,2016,13.5
+All,Influenza and pneumonia,2017,14.3
+All,Chronic liver disease and cirrhosis,2000,9.5
+All,Chronic liver disease and cirrhosis,2001,9.5
+All,Chronic liver disease and cirrhosis,2002,9.4
+All,Chronic liver disease and cirrhosis,2003,9.3
+All,Chronic liver disease and cirrhosis,2004,9
+All,Chronic liver disease and cirrhosis,2005,8.9
+All,Chronic liver disease and cirrhosis,2006,8.8
+All,Chronic liver disease and cirrhosis,2007,9.1
+All,Chronic liver disease and cirrhosis,2008,9.2
+All,Chronic liver disease and cirrhosis,2009,9.1
+All,Chronic liver disease and cirrhosis,2010,9.4
+All,Chronic liver disease and cirrhosis,2011,9.7
+All,Chronic liver disease and cirrhosis,2012,9.9
+All,Chronic liver disease and cirrhosis,2013,10.2
+All,Chronic liver disease and cirrhosis,2014,10.4
+All,Chronic liver disease and cirrhosis,2015,10.8
+All,Chronic liver disease and cirrhosis,2016,10.7
+All,Chronic liver disease and cirrhosis,2017,10.9
+All,Diabetes mellitus,2000,25
+All,Diabetes mellitus,2001,25.4
+All,Diabetes mellitus,2002,25.6
+All,Diabetes mellitus,2003,25.5
+All,Diabetes mellitus,2004,24.7
+All,Diabetes mellitus,2005,24.9
+All,Diabetes mellitus,2006,23.6
+All,Diabetes mellitus,2007,22.8
+All,Diabetes mellitus,2008,22
+All,Diabetes mellitus,2009,21
+All,Diabetes mellitus,2010,20.8
+All,Diabetes mellitus,2011,21.6
+All,Diabetes mellitus,2012,21.2
+All,Diabetes mellitus,2013,21.2
+All,Diabetes mellitus,2014,20.9
+All,Diabetes mellitus,2015,21.3
+All,Diabetes mellitus,2016,21
+All,Diabetes mellitus,2017,21.5
+All,Alzheimer's disease,2000,18.1
+All,Alzheimer's disease,2001,19.3
+All,Alzheimer's disease,2002,20.8
+All,Alzheimer's disease,2003,22.1
+All,Alzheimer's disease,2004,22.6
+All,Alzheimer's disease,2005,24
+All,Alzheimer's disease,2006,23.7
+All,Alzheimer's disease,2007,23.8
+All,Alzheimer's disease,2008,25.8
+All,Alzheimer's disease,2009,24.2
+All,Alzheimer's disease,2010,25.1
+All,Alzheimer's disease,2011,24.7
+All,Alzheimer's disease,2012,23.8
+All,Alzheimer's disease,2013,23.5
+All,Alzheimer's disease,2014,25.4
+All,Alzheimer's disease,2015,29.4
+All,Alzheimer's disease,2016,30.3
+All,Alzheimer's disease,2017,31
+All,Human immunodeficiency virus (HIV) disease,2000,5.2
+All,Human immunodeficiency virus (HIV) disease,2001,5
+All,Human immunodeficiency virus (HIV) disease,2002,4.9
+All,Human immunodeficiency virus (HIV) disease,2003,4.7
+All,Human immunodeficiency virus (HIV) disease,2004,4.5
+All,Human immunodeficiency virus (HIV) disease,2005,4.2
+All,Human immunodeficiency virus (HIV) disease,2006,4
+All,Human immunodeficiency virus (HIV) disease,2007,3.7
+All,Human immunodeficiency virus (HIV) disease,2008,3.3
+All,Human immunodeficiency virus (HIV) disease,2009,3
+All,Human immunodeficiency virus (HIV) disease,2010,2.6
+All,Human immunodeficiency virus (HIV) disease,2011,2.4
+All,Human immunodeficiency virus (HIV) disease,2012,2.2
+All,Human immunodeficiency virus (HIV) disease,2013,2.1
+All,Human immunodeficiency virus (HIV) disease,2014,2
+All,Human immunodeficiency virus (HIV) disease,2015,1.9
+All,Human immunodeficiency virus (HIV) disease,2016,1.8
+All,Human immunodeficiency virus (HIV) disease,2017,1.6
+All,Unintentional injuries,2000,34.9
+All,Unintentional injuries,2001,35.7
+All,Unintentional injuries,2002,37.1
+All,Unintentional injuries,2003,37.6
+All,Unintentional injuries,2004,38.1
+All,Unintentional injuries,2005,39.5
+All,Unintentional injuries,2006,40.2
+All,Unintentional injuries,2007,40.4
+All,Unintentional injuries,2008,39.2
+All,Unintentional injuries,2009,37.5
+All,Unintentional injuries,2010,38
+All,Unintentional injuries,2011,39.1
+All,Unintentional injuries,2012,39.1
+All,Unintentional injuries,2013,39.4
+All,Unintentional injuries,2014,40.5
+All,Unintentional injuries,2015,43.2
+All,Unintentional injuries,2016,47.4
+All,Unintentional injuries,2017,49.4
+All,Motor vehicle-related injuries,2000,15.4
+All,Motor vehicle-related injuries,2001,15.3
+All,Motor vehicle-related injuries,2002,15.7
+All,Motor vehicle-related injuries,2003,15.3
+All,Motor vehicle-related injuries,2004,15.2
+All,Motor vehicle-related injuries,2005,15.2
+All,Motor vehicle-related injuries,2006,15
+All,Motor vehicle-related injuries,2007,14.4
+All,Motor vehicle-related injuries,2008,12.9
+All,Motor vehicle-related injuries,2009,11.6
+All,Motor vehicle-related injuries,2010,11.3
+All,Motor vehicle-related injuries,2011,11.1
+All,Motor vehicle-related injuries,2012,11.4
+All,Motor vehicle-related injuries,2013,10.9
+All,Motor vehicle-related injuries,2014,10.8
+All,Motor vehicle-related injuries,2015,11.4
+All,Motor vehicle-related injuries,2016,12.1
+All,Motor vehicle-related injuries,2017,12
+All,Poisoning,2000,4.5
+All,Poisoning,2001,4.9
+All,Poisoning,2002,6.1
+All,Poisoning,2003,6.7
+All,Poisoning,2004,7.2
+All,Poisoning,2005,8
+All,Poisoning,2006,9.2
+All,Poisoning,2007,9.9
+All,Poisoning,2008,10.2
+All,Poisoning,2009,10.3
+All,Poisoning,2010,10.6
+All,Poisoning,2011,11.6
+All,Poisoning,2012,11.5
+All,Poisoning,2013,12.2
+All,Poisoning,2014,13.1
+All,Poisoning,2015,14.8
+All,Poisoning,2016,18.2
+All,Poisoning,2017,20.1
+All,"Nephritis, nephrotic syndrome and nephrosis",2000,13.5
+All,"Nephritis, nephrotic syndrome and nephrosis",2001,14.1
+All,"Nephritis, nephrotic syndrome and nephrosis",2002,14.4
+All,"Nephritis, nephrotic syndrome and nephrosis",2003,14.7
+All,"Nephritis, nephrotic syndrome and nephrosis",2004,14.5
+All,"Nephritis, nephrotic syndrome and nephrosis",2005,14.7
+All,"Nephritis, nephrotic syndrome and nephrosis",2006,14.8
+All,"Nephritis, nephrotic syndrome and nephrosis",2007,14.9
+All,"Nephritis, nephrotic syndrome and nephrosis",2008,15.1
+All,"Nephritis, nephrotic syndrome and nephrosis",2009,15.1
+All,"Nephritis, nephrotic syndrome and nephrosis",2010,15.3
+All,"Nephritis, nephrotic syndrome and nephrosis",2011,13.4
+All,"Nephritis, nephrotic syndrome and nephrosis",2012,13.1
+All,"Nephritis, nephrotic syndrome and nephrosis",2013,13.2
+All,"Nephritis, nephrotic syndrome and nephrosis",2014,13.2
+All,"Nephritis, nephrotic syndrome and nephrosis",2015,13.4
+All,"Nephritis, nephrotic syndrome and nephrosis",2016,13.1
+All,"Nephritis, nephrotic syndrome and nephrosis",2017,13
+All,Suicide,2000,10.4
+All,Suicide,2001,10.7
+All,Suicide,2002,10.9
+All,Suicide,2003,10.8
+All,Suicide,2004,11
+All,Suicide,2005,10.9
+All,Suicide,2006,11
+All,Suicide,2007,11.3
+All,Suicide,2008,11.6
+All,Suicide,2009,11.8
+All,Suicide,2010,12.1
+All,Suicide,2011,12.3
+All,Suicide,2012,12.6
+All,Suicide,2013,12.6
+All,Suicide,2014,13
+All,Suicide,2015,13.3
+All,Suicide,2016,13.5
+All,Suicide,2017,14
+All,Homicide,2000,5.9
+All,Homicide,2001,7.1
+All,Homicide,2002,6.1
+All,Homicide,2003,6.1
+All,Homicide,2004,5.9
+All,Homicide,2005,6.1
+All,Homicide,2006,6.2
+All,Homicide,2007,6.1
+All,Homicide,2008,5.9
+All,Homicide,2009,5.5
+All,Homicide,2010,5.3
+All,Homicide,2011,5.3
+All,Homicide,2012,5.4
+All,Homicide,2013,5.2
+All,Homicide,2014,5.1
+All,Homicide,2015,5.7
+All,Homicide,2016,6.2
+All,Homicide,2017,6.2
+Male,All causes,2000,"1,053.80"
+Male,All causes,2001,"1,035.40"
+Male,All causes,2002,"1,030.60"
+Male,All causes,2003,"1,010.30"
+Male,All causes,2004,973.3
+Male,All causes,2005,971.9
+Male,All causes,2006,943.5
+Male,All causes,2007,922.9
+Male,All causes,2008,918.8
+Male,All causes,2009,890.9
+Male,All causes,2010,887.1
+Male,All causes,2011,875.3
+Male,All causes,2012,865.1
+Male,All causes,2013,863.6
+Male,All causes,2014,855.1
+Male,All causes,2015,863.2
+Male,All causes,2016,861
+Male,All causes,2017,864.5
+Male,Diseases of heart,2000,320
+Male,Diseases of heart,2001,307.8
+Male,Diseases of heart,2002,303.4
+Male,Diseases of heart,2003,292.3
+Male,Diseases of heart,2004,274.1
+Male,Diseases of heart,2005,268.2
+Male,Diseases of heart,2006,254.9
+Male,Diseases of heart,2007,243.7
+Male,Diseases of heart,2008,238.5
+Male,Diseases of heart,2009,229.4
+Male,Diseases of heart,2010,225.1
+Male,Diseases of heart,2011,218.1
+Male,Diseases of heart,2012,214.7
+Male,Diseases of heart,2013,214.5
+Male,Diseases of heart,2014,210.9
+Male,Diseases of heart,2015,211.8
+Male,Diseases of heart,2016,209.1
+Male,Diseases of heart,2017,209
+Male,Ischemic heart disease,2000,241.4
+Male,Ischemic heart disease,2001,230.2
+Male,Ischemic heart disease,2002,224.7
+Male,Ischemic heart disease,2003,213.9
+Male,Ischemic heart disease,2004,198.4
+Male,Ischemic heart disease,2005,192.3
+Male,Ischemic heart disease,2006,180.7
+Male,Ischemic heart disease,2007,169.2
+Male,Ischemic heart disease,2008,165.1
+Male,Ischemic heart disease,2009,156.2
+Male,Ischemic heart disease,2010,151.3
+Male,Ischemic heart disease,2011,145.6
+Male,Ischemic heart disease,2012,141.1
+Male,Ischemic heart disease,2013,138.2
+Male,Ischemic heart disease,2014,133.5
+Male,Ischemic heart disease,2015,131.2
+Male,Ischemic heart disease,2016,128.3
+Male,Ischemic heart disease,2017,126.8
+Male,Cerebrovascular diseases,2000,62.4
+Male,Cerebrovascular diseases,2001,59.5
+Male,Cerebrovascular diseases,2002,57.9
+Male,Cerebrovascular diseases,2003,55.4
+Male,Cerebrovascular diseases,2004,51.7
+Male,Cerebrovascular diseases,2005,48.4
+Male,Cerebrovascular diseases,2006,45.2
+Male,Cerebrovascular diseases,2007,43.7
+Male,Cerebrovascular diseases,2008,42.2
+Male,Cerebrovascular diseases,2009,39.9
+Male,Cerebrovascular diseases,2010,39.3
+Male,Cerebrovascular diseases,2011,37.9
+Male,Cerebrovascular diseases,2012,37.1
+Male,Cerebrovascular diseases,2013,36.7
+Male,Cerebrovascular diseases,2014,36.9
+Male,Cerebrovascular diseases,2015,37.8
+Male,Cerebrovascular diseases,2016,37.5
+Male,Cerebrovascular diseases,2017,38
+Male,Malignant neoplasms,2000,248.9
+Male,Malignant neoplasms,2001,244.5
+Male,Malignant neoplasms,2002,240.9
+Male,Malignant neoplasms,2003,235.1
+Male,Malignant neoplasms,2004,229.5
+Male,Malignant neoplasms,2005,227.2
+Male,Malignant neoplasms,2006,221.7
+Male,Malignant neoplasms,2007,218.8
+Male,Malignant neoplasms,2008,214.9
+Male,Malignant neoplasms,2009,210.9
+Male,Malignant neoplasms,2010,209.9
+Male,Malignant neoplasms,2011,204
+Male,Malignant neoplasms,2012,200.3
+Male,Malignant neoplasms,2013,196
+Male,Malignant neoplasms,2014,192.9
+Male,Malignant neoplasms,2015,189.2
+Male,Malignant neoplasms,2016,185.4
+Male,Malignant neoplasms,2017,181.1
+Male,"Trachea, bronchus, and lung",2000,76.7
+Male,"Trachea, bronchus, and lung",2001,75.3
+Male,"Trachea, bronchus, and lung",2002,73.5
+Male,"Trachea, bronchus, and lung",2003,71.8
+Male,"Trachea, bronchus, and lung",2004,70.2
+Male,"Trachea, bronchus, and lung",2005,69.1
+Male,"Trachea, bronchus, and lung",2006,67
+Male,"Trachea, bronchus, and lung",2007,64.9
+Male,"Trachea, bronchus, and lung",2008,63.5
+Male,"Trachea, bronchus, and lung",2009,61.4
+Male,"Trachea, bronchus, and lung",2010,60.3
+Male,"Trachea, bronchus, and lung",2011,57.7
+Male,"Trachea, bronchus, and lung",2012,56.1
+Male,"Trachea, bronchus, and lung",2013,53.7
+Male,"Trachea, bronchus, and lung",2014,51.7
+Male,"Trachea, bronchus, and lung",2015,49.5
+Male,"Trachea, bronchus, and lung",2016,46.7
+Male,"Trachea, bronchus, and lung",2017,44.4
+Male,"Colon, rectum, and anus",2000,25.1
+Male,"Colon, rectum, and anus",2001,24.3
+Male,"Colon, rectum, and anus",2002,23.9
+Male,"Colon, rectum, and anus",2003,23.1
+Male,"Colon, rectum, and anus",2004,21.8
+Male,"Colon, rectum, and anus",2005,21.2
+Male,"Colon, rectum, and anus",2006,20.7
+Male,"Colon, rectum, and anus",2007,20.3
+Male,"Colon, rectum, and anus",2008,19.7
+Male,"Colon, rectum, and anus",2009,19.1
+Male,"Colon, rectum, and anus",2010,19
+Male,"Colon, rectum, and anus",2011,18.1
+Male,"Colon, rectum, and anus",2012,17.7
+Male,"Colon, rectum, and anus",2013,17.4
+Male,"Colon, rectum, and anus",2014,16.9
+Male,"Colon, rectum, and anus",2015,16.8
+Male,"Colon, rectum, and anus",2016,16.4
+Male,"Colon, rectum, and anus",2017,16.2
+Male,Prostate,2000,30.4
+Male,Prostate,2001,29.4
+Male,Prostate,2002,28.6
+Male,Prostate,2003,27.1
+Male,Prostate,2004,26.1
+Male,Prostate,2005,25.3
+Male,Prostate,2006,24.2
+Male,Prostate,2007,24.2
+Male,Prostate,2008,23
+Male,Prostate,2009,22.1
+Male,Prostate,2010,21.9
+Male,Prostate,2011,20.7
+Male,Prostate,2012,19.5
+Male,Prostate,2013,19.2
+Male,Prostate,2014,19
+Male,Prostate,2015,18.8
+Male,Prostate,2016,19.3
+Male,Prostate,2017,18.7
+Male,Chronic lower respiratory diseases,2000,55.8
+Male,Chronic lower respiratory diseases,2001,54.3
+Male,Chronic lower respiratory diseases,2002,54.3
+Male,Chronic lower respiratory diseases,2003,53.1
+Male,Chronic lower respiratory diseases,2004,50.3
+Male,Chronic lower respiratory diseases,2005,52.2
+Male,Chronic lower respiratory diseases,2006,48.4
+Male,Chronic lower respiratory diseases,2007,48.8
+Male,Chronic lower respiratory diseases,2008,52.3
+Male,Chronic lower respiratory diseases,2009,49.5
+Male,Chronic lower respiratory diseases,2010,48.7
+Male,Chronic lower respiratory diseases,2011,48.6
+Male,Chronic lower respiratory diseases,2012,47.2
+Male,Chronic lower respiratory diseases,2013,47.5
+Male,Chronic lower respiratory diseases,2014,45.4
+Male,Chronic lower respiratory diseases,2015,46
+Male,Chronic lower respiratory diseases,2016,45.1
+Male,Chronic lower respiratory diseases,2017,45
+Male,Influenza and pneumonia,2000,28.9
+Male,Influenza and pneumonia,2001,26.9
+Male,Influenza and pneumonia,2002,27.9
+Male,Influenza and pneumonia,2003,27
+Male,Influenza and pneumonia,2004,24.6
+Male,Influenza and pneumonia,2005,24.9
+Male,Influenza and pneumonia,2006,22.1
+Male,Influenza and pneumonia,2007,20.2
+Male,Influenza and pneumonia,2008,20.7
+Male,Influenza and pneumonia,2009,19.6
+Male,Influenza and pneumonia,2010,18.2
+Male,Influenza and pneumonia,2011,18.8
+Male,Influenza and pneumonia,2012,17.3
+Male,Influenza and pneumonia,2013,18.6
+Male,Influenza and pneumonia,2014,17.8
+Male,Influenza and pneumonia,2015,17.7
+Male,Influenza and pneumonia,2016,15.9
+Male,Influenza and pneumonia,2017,16.5
+Male,Chronic liver disease and cirrhosis,2000,13.4
+Male,Chronic liver disease and cirrhosis,2001,13.2
+Male,Chronic liver disease and cirrhosis,2002,12.9
+Male,Chronic liver disease and cirrhosis,2003,13
+Male,Chronic liver disease and cirrhosis,2004,12.4
+Male,Chronic liver disease and cirrhosis,2005,12.4
+Male,Chronic liver disease and cirrhosis,2006,12.1
+Male,Chronic liver disease and cirrhosis,2007,12.7
+Male,Chronic liver disease and cirrhosis,2008,12.7
+Male,Chronic liver disease and cirrhosis,2009,12.5
+Male,Chronic liver disease and cirrhosis,2010,12.9
+Male,Chronic liver disease and cirrhosis,2011,13.1
+Male,Chronic liver disease and cirrhosis,2012,13.4
+Male,Chronic liver disease and cirrhosis,2013,13.8
+Male,Chronic liver disease and cirrhosis,2014,14.1
+Male,Chronic liver disease and cirrhosis,2015,14.5
+Male,Chronic liver disease and cirrhosis,2016,14.3
+Male,Chronic liver disease and cirrhosis,2017,14.5
+Male,Diabetes mellitus,2000,27.8
+Male,Diabetes mellitus,2001,28.2
+Male,Diabetes mellitus,2002,28.9
+Male,Diabetes mellitus,2003,29.2
+Male,Diabetes mellitus,2004,28.5
+Male,Diabetes mellitus,2005,28.8
+Male,Diabetes mellitus,2006,27.7
+Male,Diabetes mellitus,2007,26.6
+Male,Diabetes mellitus,2008,25.9
+Male,Diabetes mellitus,2009,25
+Male,Diabetes mellitus,2010,24.9
+Male,Diabetes mellitus,2011,26
+Male,Diabetes mellitus,2012,25.5
+Male,Diabetes mellitus,2013,25.6
+Male,Diabetes mellitus,2014,25.6
+Male,Diabetes mellitus,2015,26.2
+Male,Diabetes mellitus,2016,26
+Male,Diabetes mellitus,2017,26.8
+Male,Alzheimer's disease,2000,15.2
+Male,Alzheimer's disease,2001,16.3
+Male,Alzheimer's disease,2002,17.3
+Male,Alzheimer's disease,2003,18.2
+Male,Alzheimer's disease,2004,18.5
+Male,Alzheimer's disease,2005,19.5
+Male,Alzheimer's disease,2006,19.4
+Male,Alzheimer's disease,2007,19.5
+Male,Alzheimer's disease,2008,21.3
+Male,Alzheimer's disease,2009,20.2
+Male,Alzheimer's disease,2010,21
+Male,Alzheimer's disease,2011,20.4
+Male,Alzheimer's disease,2012,19.8
+Male,Alzheimer's disease,2013,19.3
+Male,Alzheimer's disease,2014,20.6
+Male,Alzheimer's disease,2015,23.7
+Male,Alzheimer's disease,2016,24.3
+Male,Alzheimer's disease,2017,24.9
+Male,Human immunodeficiency virus (HIV) disease,2000,7.9
+Male,Human immunodeficiency virus (HIV) disease,2001,7.6
+Male,Human immunodeficiency virus (HIV) disease,2002,7.4
+Male,Human immunodeficiency virus (HIV) disease,2003,7.1
+Male,Human immunodeficiency virus (HIV) disease,2004,6.6
+Male,Human immunodeficiency virus (HIV) disease,2005,6.3
+Male,Human immunodeficiency virus (HIV) disease,2006,5.9
+Male,Human immunodeficiency virus (HIV) disease,2007,5.4
+Male,Human immunodeficiency virus (HIV) disease,2008,4.8
+Male,Human immunodeficiency virus (HIV) disease,2009,4.4
+Male,Human immunodeficiency virus (HIV) disease,2010,3.8
+Male,Human immunodeficiency virus (HIV) disease,2011,3.4
+Male,Human immunodeficiency virus (HIV) disease,2012,3.2
+Male,Human immunodeficiency virus (HIV) disease,2013,3.1
+Male,Human immunodeficiency virus (HIV) disease,2014,3
+Male,Human immunodeficiency virus (HIV) disease,2015,2.8
+Male,Human immunodeficiency virus (HIV) disease,2016,2.7
+Male,Human immunodeficiency virus (HIV) disease,2017,2.4
+Male,Unintentional injuries,2000,49.3
+Male,Unintentional injuries,2001,50.3
+Male,Unintentional injuries,2002,52
+Male,Unintentional injuries,2003,52.4
+Male,Unintentional injuries,2004,52.7
+Male,Unintentional injuries,2005,55
+Male,Unintentional injuries,2006,56
+Male,Unintentional injuries,2007,55.9
+Male,Unintentional injuries,2008,54.3
+Male,Unintentional injuries,2009,51.4
+Male,Unintentional injuries,2010,51.5
+Male,Unintentional injuries,2011,52.8
+Male,Unintentional injuries,2012,52.6
+Male,Unintentional injuries,2013,53.1
+Male,Unintentional injuries,2014,54.6
+Male,Unintentional injuries,2015,58.7
+Male,Unintentional injuries,2016,65
+Male,Unintentional injuries,2017,67.8
+Male,Motor vehicle-related injuries,2000,21.7
+Male,Motor vehicle-related injuries,2001,21.8
+Male,Motor vehicle-related injuries,2002,22.2
+Male,Motor vehicle-related injuries,2003,21.7
+Male,Motor vehicle-related injuries,2004,21.6
+Male,Motor vehicle-related injuries,2005,21.9
+Male,Motor vehicle-related injuries,2006,21.5
+Male,Motor vehicle-related injuries,2007,21
+Male,Motor vehicle-related injuries,2008,18.9
+Male,Motor vehicle-related injuries,2009,16.8
+Male,Motor vehicle-related injuries,2010,16.2
+Male,Motor vehicle-related injuries,2011,16.1
+Male,Motor vehicle-related injuries,2012,16.5
+Male,Motor vehicle-related injuries,2013,15.9
+Male,Motor vehicle-related injuries,2014,15.8
+Male,Motor vehicle-related injuries,2015,16.7
+Male,Motor vehicle-related injuries,2016,17.6
+Male,Motor vehicle-related injuries,2017,17.5
+Male,Poisoning,2000,6.6
+Male,Poisoning,2001,7
+Male,Poisoning,2002,8.5
+Male,Poisoning,2003,9.2
+Male,Poisoning,2004,9.6
+Male,Poisoning,2005,10.8
+Male,Poisoning,2006,12.6
+Male,Poisoning,2007,13.1
+Male,Poisoning,2008,13.6
+Male,Poisoning,2009,13.5
+Male,Poisoning,2010,13.8
+Male,Poisoning,2011,15.1
+Male,Poisoning,2012,15
+Male,Poisoning,2013,16
+Male,Poisoning,2014,17.3
+Male,Poisoning,2015,19.8
+Male,Poisoning,2016,25.1
+Male,Poisoning,2017,27.9
+Male,"Nephritis, nephrotic syndrome and nephrosis",2000,16.9
+Male,"Nephritis, nephrotic syndrome and nephrosis",2001,17.6
+Male,"Nephritis, nephrotic syndrome and nephrosis",2002,18
+Male,"Nephritis, nephrotic syndrome and nephrosis",2003,18.2
+Male,"Nephritis, nephrotic syndrome and nephrosis",2004,17.8
+Male,"Nephritis, nephrotic syndrome and nephrosis",2005,18.1
+Male,"Nephritis, nephrotic syndrome and nephrosis",2006,18.3
+Male,"Nephritis, nephrotic syndrome and nephrosis",2007,18.3
+Male,"Nephritis, nephrotic syndrome and nephrosis",2008,18.5
+Male,"Nephritis, nephrotic syndrome and nephrosis",2009,18.4
+Male,"Nephritis, nephrotic syndrome and nephrosis",2010,18.7
+Male,"Nephritis, nephrotic syndrome and nephrosis",2011,16.5
+Male,"Nephritis, nephrotic syndrome and nephrosis",2012,16
+Male,"Nephritis, nephrotic syndrome and nephrosis",2013,16.1
+Male,"Nephritis, nephrotic syndrome and nephrosis",2014,16.2
+Male,"Nephritis, nephrotic syndrome and nephrosis",2015,16.3
+Male,"Nephritis, nephrotic syndrome and nephrosis",2016,15.9
+Male,"Nephritis, nephrotic syndrome and nephrosis",2017,15.7
+Male,Suicide,2000,17.7
+Male,Suicide,2001,18.2
+Male,Suicide,2002,18.5
+Male,Suicide,2003,18.1
+Male,Suicide,2004,18.1
+Male,Suicide,2005,18.1
+Male,Suicide,2006,18.1
+Male,Suicide,2007,18.5
+Male,Suicide,2008,19
+Male,Suicide,2009,19.2
+Male,Suicide,2010,19.8
+Male,Suicide,2011,20
+Male,Suicide,2012,20.4
+Male,Suicide,2013,20.3
+Male,Suicide,2014,20.7
+Male,Suicide,2015,21.1
+Male,Suicide,2016,21.4
+Male,Suicide,2017,22.4
+Male,Homicide,2000,9
+Male,Homicide,2001,10.8
+Male,Homicide,2002,9.4
+Male,Homicide,2003,9.5
+Male,Homicide,2004,9.2
+Male,Homicide,2005,9.7
+Male,Homicide,2006,9.8
+Male,Homicide,2007,9.7
+Male,Homicide,2008,9.3
+Male,Homicide,2009,8.6
+Male,Homicide,2010,8.4
+Male,Homicide,2011,8.3
+Male,Homicide,2012,8.5
+Male,Homicide,2013,8.2
+Male,Homicide,2014,8
+Male,Homicide,2015,9.1
+Male,Homicide,2016,9.9
+Male,Homicide,2017,9.8
+Female,All causes,2000,731.4
+Female,All causes,2001,725.6
+Female,All causes,2002,723.6
+Female,All causes,2003,715.2
+Female,All causes,2004,690.5
+Female,All causes,2005,692.3
+Female,All causes,2006,672.2
+Female,All causes,2007,658.1
+Female,All causes,2008,659.9
+Female,All causes,2009,636.8
+Female,All causes,2010,634.9
+Female,All causes,2011,632.4
+Female,All causes,2012,624.7
+Female,All causes,2013,623.5
+Female,All causes,2014,616.7
+Female,All causes,2015,624.2
+Female,All causes,2016,617.5
+Female,All causes,2017,619.7
+Female,Diseases of heart,2000,210.9
+Female,Diseases of heart,2001,205.4
+Female,Diseases of heart,2002,200.3
+Female,Diseases of heart,2003,193.7
+Female,Diseases of heart,2004,181.5
+Female,Diseases of heart,2005,177.5
+Female,Diseases of heart,2006,167.2
+Female,Diseases of heart,2007,159
+Female,Diseases of heart,2008,155.9
+Female,Diseases of heart,2009,146.6
+Female,Diseases of heart,2010,143.3
+Female,Diseases of heart,2011,138.7
+Female,Diseases of heart,2012,135.5
+Female,Diseases of heart,2013,134.3
+Female,Diseases of heart,2014,131.8
+Female,Diseases of heart,2015,133.6
+Female,Diseases of heart,2016,130.4
+Female,Diseases of heart,2017,129.6
+Female,Ischemic heart disease,2000,146.5
+Female,Ischemic heart disease,2001,140.9
+Female,Ischemic heart disease,2002,135.7
+Female,Ischemic heart disease,2003,129.4
+Female,Ischemic heart disease,2004,119.4
+Female,Ischemic heart disease,2005,115
+Female,Ischemic heart disease,2006,106.3
+Female,Ischemic heart disease,2007,98.8
+Female,Ischemic heart disease,2008,96.3
+Female,Ischemic heart disease,2009,88.4
+Female,Ischemic heart disease,2010,84.9
+Female,Ischemic heart disease,2011,81
+Female,Ischemic heart disease,2012,77.8
+Female,Ischemic heart disease,2013,74.9
+Female,Ischemic heart disease,2014,71.6
+Female,Ischemic heart disease,2015,70.5
+Female,Ischemic heart disease,2016,67.5
+Female,Ischemic heart disease,2017,66
+Female,Cerebrovascular diseases,2000,59.1
+Female,Cerebrovascular diseases,2001,56.8
+Female,Cerebrovascular diseases,2002,56.1
+Female,Cerebrovascular diseases,2003,53.2
+Female,Cerebrovascular diseases,2004,50.1
+Female,Cerebrovascular diseases,2005,47
+Female,Cerebrovascular diseases,2006,43.9
+Female,Cerebrovascular diseases,2007,42.7
+Female,Cerebrovascular diseases,2008,41.4
+Female,Cerebrovascular diseases,2009,38.8
+Female,Cerebrovascular diseases,2010,38.3
+Female,Cerebrovascular diseases,2011,37.2
+Female,Cerebrovascular diseases,2012,36.1
+Female,Cerebrovascular diseases,2013,35.2
+Female,Cerebrovascular diseases,2014,35.6
+Female,Cerebrovascular diseases,2015,36.9
+Female,Cerebrovascular diseases,2016,36.5
+Female,Cerebrovascular diseases,2017,36.6
+Female,Malignant neoplasms,2000,167.6
+Female,Malignant neoplasms,2001,165.1
+Female,Malignant neoplasms,2002,163.7
+Female,Malignant neoplasms,2003,161.5
+Female,Malignant neoplasms,2004,158.2
+Female,Malignant neoplasms,2005,156.7
+Female,Malignant neoplasms,2006,154.7
+Female,Malignant neoplasms,2007,152.3
+Female,Malignant neoplasms,2008,149.6
+Female,Malignant neoplasms,2009,147.4
+Female,Malignant neoplasms,2010,146.7
+Female,Malignant neoplasms,2011,144
+Female,Malignant neoplasms,2012,142.1
+Female,Malignant neoplasms,2013,139.5
+Female,Malignant neoplasms,2014,138.1
+Female,Malignant neoplasms,2015,135.9
+Female,Malignant neoplasms,2016,134
+Female,Malignant neoplasms,2017,131.4
+Female,"Trachea, bronchus, and lung",2000,41.3
+Female,"Trachea, bronchus, and lung",2001,41.1
+Female,"Trachea, bronchus, and lung",2002,41.6
+Female,"Trachea, bronchus, and lung",2003,41.3
+Female,"Trachea, bronchus, and lung",2004,40.9
+Female,"Trachea, bronchus, and lung",2005,40.6
+Female,"Trachea, bronchus, and lung",2006,40.1
+Female,"Trachea, bronchus, and lung",2007,40.1
+Female,"Trachea, bronchus, and lung",2008,39.1
+Female,"Trachea, bronchus, and lung",2009,38.6
+Female,"Trachea, bronchus, and lung",2010,38.1
+Female,"Trachea, bronchus, and lung",2011,37.1
+Female,"Trachea, bronchus, and lung",2012,36.4
+Female,"Trachea, bronchus, and lung",2013,35.5
+Female,"Trachea, bronchus, and lung",2014,34.7
+Female,"Trachea, bronchus, and lung",2015,33.5
+Female,"Trachea, bronchus, and lung",2016,31.9
+Female,"Trachea, bronchus, and lung",2017,30.6
+Female,"Colon, rectum, and anus",2000,17.7
+Female,"Colon, rectum, and anus",2001,17.3
+Female,"Colon, rectum, and anus",2002,16.8
+Female,"Colon, rectum, and anus",2003,16.4
+Female,"Colon, rectum, and anus",2004,15.5
+Female,"Colon, rectum, and anus",2005,15
+Female,"Colon, rectum, and anus",2006,14.9
+Female,"Colon, rectum, and anus",2007,14.6
+Female,"Colon, rectum, and anus",2008,14.2
+Female,"Colon, rectum, and anus",2009,13.5
+Female,"Colon, rectum, and anus",2010,13.3
+Female,"Colon, rectum, and anus",2011,13
+Female,"Colon, rectum, and anus",2012,12.6
+Female,"Colon, rectum, and anus",2013,12.3
+Female,"Colon, rectum, and anus",2014,12.1
+Female,"Colon, rectum, and anus",2015,12.1
+Female,"Colon, rectum, and anus",2016,11.8
+Female,"Colon, rectum, and anus",2017,11.7
+Female,Breast,2000,26.8
+Female,Breast,2001,26.1
+Female,Breast,2002,25.7
+Female,Breast,2003,25.3
+Female,Breast,2004,24.6
+Female,Breast,2005,24.2
+Female,Breast,2006,23.6
+Female,Breast,2007,23
+Female,Breast,2008,22.6
+Female,Breast,2009,22.3
+Female,Breast,2010,22.1
+Female,Breast,2011,21.6
+Female,Breast,2012,21.3
+Female,Breast,2013,20.8
+Female,Breast,2014,20.6
+Female,Breast,2015,20.3
+Female,Breast,2016,20.1
+Female,Breast,2017,19.9
+Female,Chronic lower respiratory diseases,2000,37.4
+Female,Chronic lower respiratory diseases,2001,37.7
+Female,Chronic lower respiratory diseases,2002,37.7
+Female,Chronic lower respiratory diseases,2003,38.1
+Female,Chronic lower respiratory diseases,2004,36.4
+Female,Chronic lower respiratory diseases,2005,38.7
+Female,Chronic lower respiratory diseases,2006,36.4
+Female,Chronic lower respiratory diseases,2007,36.6
+Female,Chronic lower respiratory diseases,2008,39.8
+Female,Chronic lower respiratory diseases,2009,38.3
+Female,Chronic lower respiratory diseases,2010,38
+Female,Chronic lower respiratory diseases,2011,38.5
+Female,Chronic lower respiratory diseases,2012,37.8
+Female,Chronic lower respiratory diseases,2013,38.5
+Female,Chronic lower respiratory diseases,2014,37.1
+Female,Chronic lower respiratory diseases,2015,38.6
+Female,Chronic lower respiratory diseases,2016,37.4
+Female,Chronic lower respiratory diseases,2017,38.1
+Female,Influenza and pneumonia,2000,20.7
+Female,Influenza and pneumonia,2001,19.3
+Female,Influenza and pneumonia,2002,20.3
+Female,Influenza and pneumonia,2003,19.8
+Female,Influenza and pneumonia,2004,17.8
+Female,Influenza and pneumonia,2005,18.6
+Female,Influenza and pneumonia,2006,16.1
+Female,Influenza and pneumonia,2007,14.7
+Female,Influenza and pneumonia,2008,15.6
+Female,Influenza and pneumonia,2009,14.5
+Female,Influenza and pneumonia,2010,13.1
+Female,Influenza and pneumonia,2011,13.7
+Female,Influenza and pneumonia,2012,12.5
+Female,Influenza and pneumonia,2013,14
+Female,Influenza and pneumonia,2014,13.2
+Female,Influenza and pneumonia,2015,13.5
+Female,Influenza and pneumonia,2016,11.8
+Female,Influenza and pneumonia,2017,12.7
+Female,Chronic liver disease and cirrhosis,2000,6.2
+Female,Chronic liver disease and cirrhosis,2001,6.3
+Female,Chronic liver disease and cirrhosis,2002,6.3
+Female,Chronic liver disease and cirrhosis,2003,6
+Female,Chronic liver disease and cirrhosis,2004,5.9
+Female,Chronic liver disease and cirrhosis,2005,5.8
+Female,Chronic liver disease and cirrhosis,2006,5.8
+Female,Chronic liver disease and cirrhosis,2007,5.9
+Female,Chronic liver disease and cirrhosis,2008,6
+Female,Chronic liver disease and cirrhosis,2009,6.1
+Female,Chronic liver disease and cirrhosis,2010,6.2
+Female,Chronic liver disease and cirrhosis,2011,6.6
+Female,Chronic liver disease and cirrhosis,2012,6.7
+Female,Chronic liver disease and cirrhosis,2013,6.8
+Female,Chronic liver disease and cirrhosis,2014,7.1
+Female,Chronic liver disease and cirrhosis,2015,7.6
+Female,Chronic liver disease and cirrhosis,2016,7.5
+Female,Chronic liver disease and cirrhosis,2017,7.6
+Female,Diabetes mellitus,2000,23
+Female,Diabetes mellitus,2001,23.2
+Female,Diabetes mellitus,2002,23.1
+Female,Diabetes mellitus,2003,22.7
+Female,Diabetes mellitus,2004,21.9
+Female,Diabetes mellitus,2005,21.9
+Female,Diabetes mellitus,2006,20.4
+Female,Diabetes mellitus,2007,19.8
+Female,Diabetes mellitus,2008,19.1
+Female,Diabetes mellitus,2009,17.9
+Female,Diabetes mellitus,2010,17.6
+Female,Diabetes mellitus,2011,18.2
+Female,Diabetes mellitus,2012,17.7
+Female,Diabetes mellitus,2013,17.6
+Female,Diabetes mellitus,2014,17.2
+Female,Diabetes mellitus,2015,17.3
+Female,Diabetes mellitus,2016,16.9
+Female,Diabetes mellitus,2017,17.1
+Female,Alzheimer's disease,2000,19.3
+Female,Alzheimer's disease,2001,20.7
+Female,Alzheimer's disease,2002,22.5
+Female,Alzheimer's disease,2003,23.9
+Female,Alzheimer's disease,2004,24.7
+Female,Alzheimer's disease,2005,26.2
+Female,Alzheimer's disease,2006,25.9
+Female,Alzheimer's disease,2007,26.2
+Female,Alzheimer's disease,2008,28.2
+Female,Alzheimer's disease,2009,26.3
+Female,Alzheimer's disease,2010,27.3
+Female,Alzheimer's disease,2011,27.1
+Female,Alzheimer's disease,2012,26.1
+Female,Alzheimer's disease,2013,25.9
+Female,Alzheimer's disease,2014,28.3
+Female,Alzheimer's disease,2015,32.8
+Female,Alzheimer's disease,2016,33.9
+Female,Alzheimer's disease,2017,34.8
+Female,Human immunodeficiency virus (HIV) disease,2000,2.5
+Female,Human immunodeficiency virus (HIV) disease,2001,2.5
+Female,Human immunodeficiency virus (HIV) disease,2002,2.5
+Female,Human immunodeficiency virus (HIV) disease,2003,2.4
+Female,Human immunodeficiency virus (HIV) disease,2004,2.4
+Female,Human immunodeficiency virus (HIV) disease,2005,2.3
+Female,Human immunodeficiency virus (HIV) disease,2006,2.2
+Female,Human immunodeficiency virus (HIV) disease,2007,2.1
+Female,Human immunodeficiency virus (HIV) disease,2008,1.9
+Female,Human immunodeficiency virus (HIV) disease,2009,1.7
+Female,Human immunodeficiency virus (HIV) disease,2010,1.4
+Female,Human immunodeficiency virus (HIV) disease,2011,1.3
+Female,Human immunodeficiency virus (HIV) disease,2012,1.2
+Female,Human immunodeficiency virus (HIV) disease,2013,1.1
+Female,Human immunodeficiency virus (HIV) disease,2014,1.1
+Female,Human immunodeficiency virus (HIV) disease,2015,1
+Female,Human immunodeficiency virus (HIV) disease,2016,0.9
+Female,Human immunodeficiency virus (HIV) disease,2017,0.8
+Female,Unintentional injuries,2000,22
+Female,Unintentional injuries,2001,22.5
+Female,Unintentional injuries,2002,23.6
+Female,Unintentional injuries,2003,24.2
+Female,Unintentional injuries,2004,24.7
+Female,Unintentional injuries,2005,25.3
+Female,Unintentional injuries,2006,25.8
+Female,Unintentional injuries,2007,26.1
+Female,Unintentional injuries,2008,25.4
+Female,Unintentional injuries,2009,24.8
+Female,Unintentional injuries,2010,25.6
+Female,Unintentional injuries,2011,26.5
+Female,Unintentional injuries,2012,26.4
+Female,Unintentional injuries,2013,26.6
+Female,Unintentional injuries,2014,27.3
+Female,Unintentional injuries,2015,28.7
+Female,Unintentional injuries,2016,30.8
+Female,Unintentional injuries,2017,32
+Female,Motor vehicle-related injuries,2000,9.5
+Female,Motor vehicle-related injuries,2001,9.3
+Female,Motor vehicle-related injuries,2002,9.6
+Female,Motor vehicle-related injuries,2003,9.3
+Female,Motor vehicle-related injuries,2004,9.2
+Female,Motor vehicle-related injuries,2005,8.9
+Female,Motor vehicle-related injuries,2006,8.8
+Female,Motor vehicle-related injuries,2007,8.2
+Female,Motor vehicle-related injuries,2008,7.2
+Female,Motor vehicle-related injuries,2009,6.7
+Female,Motor vehicle-related injuries,2010,6.5
+Female,Motor vehicle-related injuries,2011,6.3
+Female,Motor vehicle-related injuries,2012,6.5
+Female,Motor vehicle-related injuries,2013,6.2
+Female,Motor vehicle-related injuries,2014,6.1
+Female,Motor vehicle-related injuries,2015,6.4
+Female,Motor vehicle-related injuries,2016,6.9
+Female,Motor vehicle-related injuries,2017,6.7
+Female,Poisoning,2000,2.5
+Female,Poisoning,2001,2.9
+Female,Poisoning,2002,3.8
+Female,Poisoning,2003,4.2
+Female,Poisoning,2004,4.7
+Female,Poisoning,2005,5.1
+Female,Poisoning,2006,5.9
+Female,Poisoning,2007,6.6
+Female,Poisoning,2008,6.8
+Female,Poisoning,2009,7.1
+Female,Poisoning,2010,7.5
+Female,Poisoning,2011,8.2
+Female,Poisoning,2012,8.1
+Female,Poisoning,2013,8.5
+Female,Poisoning,2014,9.1
+Female,Poisoning,2015,9.8
+Female,Poisoning,2016,11.4
+Female,Poisoning,2017,12.4
+Female,"Nephritis, nephrotic syndrome and nephrosis",2000,11.5
+Female,"Nephritis, nephrotic syndrome and nephrosis",2001,12.1
+Female,"Nephritis, nephrotic syndrome and nephrosis",2002,12.3
+Female,"Nephritis, nephrotic syndrome and nephrosis",2003,12.5
+Female,"Nephritis, nephrotic syndrome and nephrosis",2004,12.5
+Female,"Nephritis, nephrotic syndrome and nephrosis",2005,12.6
+Female,"Nephritis, nephrotic syndrome and nephrosis",2006,12.6
+Female,"Nephritis, nephrotic syndrome and nephrosis",2007,12.8
+Female,"Nephritis, nephrotic syndrome and nephrosis",2008,13
+Female,"Nephritis, nephrotic syndrome and nephrosis",2009,13
+Female,"Nephritis, nephrotic syndrome and nephrosis",2010,13
+Female,"Nephritis, nephrotic syndrome and nephrosis",2011,11.4
+Female,"Nephritis, nephrotic syndrome and nephrosis",2012,11.1
+Female,"Nephritis, nephrotic syndrome and nephrosis",2013,11.3
+Female,"Nephritis, nephrotic syndrome and nephrosis",2014,11.1
+Female,"Nephritis, nephrotic syndrome and nephrosis",2015,11.3
+Female,"Nephritis, nephrotic syndrome and nephrosis",2016,11.2
+Female,"Nephritis, nephrotic syndrome and nephrosis",2017,11.1
+Female,Suicide,2000,4
+Female,Suicide,2001,4.1
+Female,Suicide,2002,4.2
+Female,Suicide,2003,4.2
+Female,Suicide,2004,4.5
+Female,Suicide,2005,4.4
+Female,Suicide,2006,4.5
+Female,Suicide,2007,4.6
+Female,Suicide,2008,4.8
+Female,Suicide,2009,4.9
+Female,Suicide,2010,5
+Female,Suicide,2011,5.2
+Female,Suicide,2012,5.4
+Female,Suicide,2013,5.5
+Female,Suicide,2014,5.8
+Female,Suicide,2015,6
+Female,Suicide,2016,6
+Female,Suicide,2017,6.1
+Female,Homicide,2000,2.8
+Female,Homicide,2001,3.3
+Female,Homicide,2002,2.7
+Female,Homicide,2003,2.6
+Female,Homicide,2004,2.6
+Female,Homicide,2005,2.5
+Female,Homicide,2006,2.6
+Female,Homicide,2007,2.5
+Female,Homicide,2008,2.4
+Female,Homicide,2009,2.4
+Female,Homicide,2010,2.3
+Female,Homicide,2011,2.2
+Female,Homicide,2012,2.2
+Female,Homicide,2013,2.1
+Female,Homicide,2014,2.1
+Female,Homicide,2015,2.2
+Female,Homicide,2016,2.5
+Female,Homicide,2017,2.5
+White,All causes,2000,849.8
+White,All causes,2001,840.7
+White,All causes,2002,839
+White,All causes,2003,827.1
+White,All causes,2004,798.5
+White,All causes,2005,801.1
+White,All causes,2006,779.3
+White,All causes,2007,764.3
+White,All causes,2008,767.2
+White,All causes,2009,742.8
+White,All causes,2010,741.8
+White,All causes,2011,738.8
+White,All causes,2012,730.9
+White,All causes,2013,731
+White,All causes,2014,725.4
+White,All causes,2015,735
+White,All causes,2016,729.9
+White,All causes,2017,734.5
+White,Diseases of heart,2000,253.4
+White,Diseases of heart,2001,245.1
+White,Diseases of heart,2002,240.4
+White,Diseases of heart,2003,231.9
+White,Diseases of heart,2004,217.6
+White,Diseases of heart,2005,213.2
+White,Diseases of heart,2006,202
+White,Diseases of heart,2007,192.8
+White,Diseases of heart,2008,189.3
+White,Diseases of heart,2009,180.1
+White,Diseases of heart,2010,176.9
+White,Diseases of heart,2011,172.2
+White,Diseases of heart,2012,168.9
+White,Diseases of heart,2013,168.2
+White,Diseases of heart,2014,165.9
+White,Diseases of heart,2015,167.9
+White,Diseases of heart,2016,164.5
+White,Diseases of heart,2017,164.4
+White,Ischemic heart disease,2000,185.6
+White,Ischemic heart disease,2001,177.6
+White,Ischemic heart disease,2002,172.3
+White,Ischemic heart disease,2003,164.2
+White,Ischemic heart disease,2004,152.1
+White,Ischemic heart disease,2005,147.3
+White,Ischemic heart disease,2006,137.4
+White,Ischemic heart disease,2007,128.5
+White,Ischemic heart disease,2008,125.8
+White,Ischemic heart disease,2009,117.4
+White,Ischemic heart disease,2010,113.5
+White,Ischemic heart disease,2011,109.3
+White,Ischemic heart disease,2012,105.6
+White,Ischemic heart disease,2013,102.9
+White,Ischemic heart disease,2014,99.3
+White,Ischemic heart disease,2015,98
+White,Ischemic heart disease,2016,94.8
+White,Ischemic heart disease,2017,93.5
+White,Cerebrovascular diseases,2000,58.8
+White,Cerebrovascular diseases,2001,56.2
+White,Cerebrovascular diseases,2002,55.2
+White,Cerebrovascular diseases,2003,52.4
+White,Cerebrovascular diseases,2004,49.2
+White,Cerebrovascular diseases,2005,46
+White,Cerebrovascular diseases,2006,42.9
+White,Cerebrovascular diseases,2007,41.6
+White,Cerebrovascular diseases,2008,40.4
+White,Cerebrovascular diseases,2009,38.1
+White,Cerebrovascular diseases,2010,37.7
+White,Cerebrovascular diseases,2011,36.5
+White,Cerebrovascular diseases,2012,35.6
+White,Cerebrovascular diseases,2013,34.9
+White,Cerebrovascular diseases,2014,35.2
+White,Cerebrovascular diseases,2015,36.4
+White,Cerebrovascular diseases,2016,36.1
+White,Cerebrovascular diseases,2017,36.3
+White,Malignant neoplasms,2000,197.2
+White,Malignant neoplasms,2001,194.3
+White,Malignant neoplasms,2002,192.5
+White,Malignant neoplasms,2003,189.2
+White,Malignant neoplasms,2004,185.3
+White,Malignant neoplasms,2005,183.9
+White,Malignant neoplasms,2006,181
+White,Malignant neoplasms,2007,178.5
+White,Malignant neoplasms,2008,175.9
+White,Malignant neoplasms,2009,173.3
+White,Malignant neoplasms,2010,172.4
+White,Malignant neoplasms,2011,168.8
+White,Malignant neoplasms,2012,166.6
+White,Malignant neoplasms,2013,163.7
+White,Malignant neoplasms,2014,161.9
+White,Malignant neoplasms,2015,159.4
+White,Malignant neoplasms,2016,156.6
+White,Malignant neoplasms,2017,153.7
+White,"Trachea, bronchus, and lung",2000,56.2
+White,"Trachea, bronchus, and lung",2001,55.6
+White,"Trachea, bronchus, and lung",2002,55.3
+White,"Trachea, bronchus, and lung",2003,54.5
+White,"Trachea, bronchus, and lung",2004,53.6
+White,"Trachea, bronchus, and lung",2005,53.2
+White,"Trachea, bronchus, and lung",2006,52.1
+White,"Trachea, bronchus, and lung",2007,51.2
+White,"Trachea, bronchus, and lung",2008,50.2
+White,"Trachea, bronchus, and lung",2009,49.1
+White,"Trachea, bronchus, and lung",2010,48.3
+White,"Trachea, bronchus, and lung",2011,46.7
+White,"Trachea, bronchus, and lung",2012,45.6
+White,"Trachea, bronchus, and lung",2013,44.1
+White,"Trachea, bronchus, and lung",2014,42.9
+White,"Trachea, bronchus, and lung",2015,41.4
+White,"Trachea, bronchus, and lung",2016,39.2
+White,"Trachea, bronchus, and lung",2017,37.5
+White,"Colon, rectum, and anus",2000,20.3
+White,"Colon, rectum, and anus",2001,19.7
+White,"Colon, rectum, and anus",2002,19.3
+White,"Colon, rectum, and anus",2003,18.7
+White,"Colon, rectum, and anus",2004,17.7
+White,"Colon, rectum, and anus",2005,17.1
+White,"Colon, rectum, and anus",2006,16.9
+White,"Colon, rectum, and anus",2007,16.6
+White,"Colon, rectum, and anus",2008,16.1
+White,"Colon, rectum, and anus",2009,15.6
+White,"Colon, rectum, and anus",2010,15.3
+White,"Colon, rectum, and anus",2011,14.8
+White,"Colon, rectum, and anus",2012,14.5
+White,"Colon, rectum, and anus",2013,14.3
+White,"Colon, rectum, and anus",2014,14
+White,"Colon, rectum, and anus",2015,13.9
+White,"Colon, rectum, and anus",2016,13.6
+White,"Colon, rectum, and anus",2017,13.5
+White,Chronic lower respiratory diseases,2000,46
+White,Chronic lower respiratory diseases,2001,45.8
+White,Chronic lower respiratory diseases,2002,45.8
+White,Chronic lower respiratory diseases,2003,45.8
+White,Chronic lower respiratory diseases,2004,43.7
+White,Chronic lower respiratory diseases,2005,46
+White,Chronic lower respiratory diseases,2006,43.1
+White,Chronic lower respiratory diseases,2007,43.5
+White,Chronic lower respiratory diseases,2008,47.1
+White,Chronic lower respiratory diseases,2009,45.1
+White,Chronic lower respiratory diseases,2010,44.6
+White,Chronic lower respiratory diseases,2011,45.1
+White,Chronic lower respiratory diseases,2012,44.1
+White,Chronic lower respiratory diseases,2013,44.8
+White,Chronic lower respiratory diseases,2014,43.1
+White,Chronic lower respiratory diseases,2015,44.5
+White,Chronic lower respiratory diseases,2016,43.3
+White,Chronic lower respiratory diseases,2017,43.8
+White,Influenza and pneumonia,2000,23.5
+White,Influenza and pneumonia,2001,21.9
+White,Influenza and pneumonia,2002,23
+White,Influenza and pneumonia,2003,22.4
+White,Influenza and pneumonia,2004,20.1
+White,Influenza and pneumonia,2005,20.9
+White,Influenza and pneumonia,2006,18.2
+White,Influenza and pneumonia,2007,16.6
+White,Influenza and pneumonia,2008,17.4
+White,Influenza and pneumonia,2009,16.3
+White,Influenza and pneumonia,2010,14.9
+White,Influenza and pneumonia,2011,15.6
+White,Influenza and pneumonia,2012,14.3
+White,Influenza and pneumonia,2013,15.8
+White,Influenza and pneumonia,2014,15.1
+White,Influenza and pneumonia,2015,15.2
+White,Influenza and pneumonia,2016,13.4
+White,Influenza and pneumonia,2017,14.2
+White,Chronic liver disease and cirrhosis,2000,9.6
+White,Chronic liver disease and cirrhosis,2001,9.6
+White,Chronic liver disease and cirrhosis,2002,9.6
+White,Chronic liver disease and cirrhosis,2003,9.6
+White,Chronic liver disease and cirrhosis,2004,9.2
+White,Chronic liver disease and cirrhosis,2005,9.2
+White,Chronic liver disease and cirrhosis,2006,9.1
+White,Chronic liver disease and cirrhosis,2007,9.5
+White,Chronic liver disease and cirrhosis,2008,9.6
+White,Chronic liver disease and cirrhosis,2009,9.6
+White,Chronic liver disease and cirrhosis,2010,9.9
+White,Chronic liver disease and cirrhosis,2011,10.2
+White,Chronic liver disease and cirrhosis,2012,10.5
+White,Chronic liver disease and cirrhosis,2013,10.7
+White,Chronic liver disease and cirrhosis,2014,11.2
+White,Chronic liver disease and cirrhosis,2015,11.7
+White,Chronic liver disease and cirrhosis,2016,11.6
+White,Chronic liver disease and cirrhosis,2017,11.7
+White,Diabetes mellitus,2000,22.8
+White,Diabetes mellitus,2001,23.1
+White,Diabetes mellitus,2002,23.3
+White,Diabetes mellitus,2003,23.2
+White,Diabetes mellitus,2004,22.5
+White,Diabetes mellitus,2005,22.8
+White,Diabetes mellitus,2006,21.4
+White,Diabetes mellitus,2007,20.7
+White,Diabetes mellitus,2008,20.2
+White,Diabetes mellitus,2009,19.2
+White,Diabetes mellitus,2010,19
+White,Diabetes mellitus,2011,19.8
+White,Diabetes mellitus,2012,19.4
+White,Diabetes mellitus,2013,19.4
+White,Diabetes mellitus,2014,19.3
+White,Diabetes mellitus,2015,19.6
+White,Diabetes mellitus,2016,19.3
+White,Diabetes mellitus,2017,19.6
+White,Alzheimer's disease,2000,18.8
+White,Alzheimer's disease,2001,20
+White,Alzheimer's disease,2002,21.6
+White,Alzheimer's disease,2003,22.9
+White,Alzheimer's disease,2004,23.3
+White,Alzheimer's disease,2005,24.7
+White,Alzheimer's disease,2006,24.5
+White,Alzheimer's disease,2007,24.6
+White,Alzheimer's disease,2008,26.7
+White,Alzheimer's disease,2009,25
+White,Alzheimer's disease,2010,26
+White,Alzheimer's disease,2011,25.7
+White,Alzheimer's disease,2012,24.7
+White,Alzheimer's disease,2013,24.4
+White,Alzheimer's disease,2014,26.4
+White,Alzheimer's disease,2015,30.5
+White,Alzheimer's disease,2016,31.4
+White,Alzheimer's disease,2017,32.3
+White,Human immunodeficiency virus (HIV) disease,2000,2.8
+White,Human immunodeficiency virus (HIV) disease,2001,2.6
+White,Human immunodeficiency virus (HIV) disease,2002,2.6
+White,Human immunodeficiency virus (HIV) disease,2003,2.5
+White,Human immunodeficiency virus (HIV) disease,2004,2.3
+White,Human immunodeficiency virus (HIV) disease,2005,2.2
+White,Human immunodeficiency virus (HIV) disease,2006,2.1
+White,Human immunodeficiency virus (HIV) disease,2007,1.9
+White,Human immunodeficiency virus (HIV) disease,2008,1.7
+White,Human immunodeficiency virus (HIV) disease,2009,1.5
+White,Human immunodeficiency virus (HIV) disease,2010,1.4
+White,Human immunodeficiency virus (HIV) disease,2011,1.3
+White,Human immunodeficiency virus (HIV) disease,2012,1.2
+White,Human immunodeficiency virus (HIV) disease,2013,1.2
+White,Human immunodeficiency virus (HIV) disease,2014,1.1
+White,Human immunodeficiency virus (HIV) disease,2015,1.1
+White,Human immunodeficiency virus (HIV) disease,2016,1
+White,Human immunodeficiency virus (HIV) disease,2017,0.9
+White,Unintentional injuries,2000,35.1
+White,Unintentional injuries,2001,36.1
+White,Unintentional injuries,2002,37.9
+White,Unintentional injuries,2003,38.6
+White,Unintentional injuries,2004,39.2
+White,Unintentional injuries,2005,40.7
+White,Unintentional injuries,2006,41.7
+White,Unintentional injuries,2007,42.1
+White,Unintentional injuries,2008,41.4
+White,Unintentional injuries,2009,39.5
+White,Unintentional injuries,2010,40.3
+White,Unintentional injuries,2011,41.6
+White,Unintentional injuries,2012,41.5
+White,Unintentional injuries,2013,41.9
+White,Unintentional injuries,2014,43.1
+White,Unintentional injuries,2015,46
+White,Unintentional injuries,2016,50.4
+White,Unintentional injuries,2017,52.4
+White,Motor vehicle-related injuries,2000,15.6
+White,Motor vehicle-related injuries,2001,15.6
+White,Motor vehicle-related injuries,2002,16.1
+White,Motor vehicle-related injuries,2003,15.7
+White,Motor vehicle-related injuries,2004,15.7
+White,Motor vehicle-related injuries,2005,15.7
+White,Motor vehicle-related injuries,2006,15.5
+White,Motor vehicle-related injuries,2007,14.9
+White,Motor vehicle-related injuries,2008,13.4
+White,Motor vehicle-related injuries,2009,12
+White,Motor vehicle-related injuries,2010,11.7
+White,Motor vehicle-related injuries,2011,11.5
+White,Motor vehicle-related injuries,2012,11.8
+White,Motor vehicle-related injuries,2013,11.3
+White,Motor vehicle-related injuries,2014,11.1
+White,Motor vehicle-related injuries,2015,11.7
+White,Motor vehicle-related injuries,2016,12.4
+White,Motor vehicle-related injuries,2017,12.2
+White,Poisoning,2000,4.5
+White,Poisoning,2001,5
+White,Poisoning,2002,6.4
+White,Poisoning,2003,7.1
+White,Poisoning,2004,7.6
+White,Poisoning,2005,8.5
+White,Poisoning,2006,9.8
+White,Poisoning,2007,10.7
+White,Poisoning,2008,11.3
+White,Poisoning,2009,11.4
+White,Poisoning,2010,11.9
+White,Poisoning,2011,13
+White,Poisoning,2012,12.9
+White,Poisoning,2013,13.7
+White,Poisoning,2014,14.8
+White,Poisoning,2015,16.7
+White,Poisoning,2016,20.3
+White,Poisoning,2017,22.2
+White,"Nephritis, nephrotic syndrome and nephrosis",2000,12.1
+White,"Nephritis, nephrotic syndrome and nephrosis",2001,12.6
+White,"Nephritis, nephrotic syndrome and nephrosis",2002,12.9
+White,"Nephritis, nephrotic syndrome and nephrosis",2003,13.2
+White,"Nephritis, nephrotic syndrome and nephrosis",2004,13
+White,"Nephritis, nephrotic syndrome and nephrosis",2005,13.2
+White,"Nephritis, nephrotic syndrome and nephrosis",2006,13.3
+White,"Nephritis, nephrotic syndrome and nephrosis",2007,13.5
+White,"Nephritis, nephrotic syndrome and nephrosis",2008,13.8
+White,"Nephritis, nephrotic syndrome and nephrosis",2009,13.7
+White,"Nephritis, nephrotic syndrome and nephrosis",2010,14
+White,"Nephritis, nephrotic syndrome and nephrosis",2011,12.2
+White,"Nephritis, nephrotic syndrome and nephrosis",2012,12
+White,"Nephritis, nephrotic syndrome and nephrosis",2013,12.1
+White,"Nephritis, nephrotic syndrome and nephrosis",2014,12.1
+White,"Nephritis, nephrotic syndrome and nephrosis",2015,12.2
+White,"Nephritis, nephrotic syndrome and nephrosis",2016,12
+White,"Nephritis, nephrotic syndrome and nephrosis",2017,11.8
+White,Suicide,2000,11.3
+White,Suicide,2001,11.7
+White,Suicide,2002,12.1
+White,Suicide,2003,11.9
+White,Suicide,2004,12.1
+White,Suicide,2005,12.1
+White,Suicide,2006,12.2
+White,Suicide,2007,12.6
+White,Suicide,2008,13
+White,Suicide,2009,13.2
+White,Suicide,2010,13.6
+White,Suicide,2011,13.9
+White,Suicide,2012,14.1
+White,Suicide,2013,14.2
+White,Suicide,2014,14.7
+White,Suicide,2015,15.1
+White,Suicide,2016,15.2
+White,Suicide,2017,15.8
+White,Homicide,2000,3.6
+White,Homicide,2001,4.9
+White,Homicide,2002,3.7
+White,Homicide,2003,3.7
+White,Homicide,2004,3.6
+White,Homicide,2005,3.7
+White,Homicide,2006,3.7
+White,Homicide,2007,3.7
+White,Homicide,2008,3.7
+White,Homicide,2009,3.4
+White,Homicide,2010,3.3
+White,Homicide,2011,3.2
+White,Homicide,2012,3.2
+White,Homicide,2013,3.1
+White,Homicide,2014,3
+White,Homicide,2015,3.3
+White,Homicide,2016,3.5
+White,Homicide,2017,3.6
+Black or African American,All causes,2000,"1,121.40"
+Black or African American,All causes,2001,"1,106.20"
+Black or African American,All causes,2002,"1,097.30"
+Black or African American,All causes,2003,"1,080.50"
+Black or African American,All causes,2004,"1,043.80"
+Black or African American,All causes,2005,"1,035.10"
+Black or African American,All causes,2006,997.9
+Black or African American,All causes,2007,972
+Black or African American,All causes,2008,947.7
+Black or African American,All causes,2009,912.8
+Black or African American,All causes,2010,898.2
+Black or African American,All causes,2011,877.1
+Black or African American,All causes,2012,864.8
+Black or African American,All causes,2013,860.8
+Black or African American,All causes,2014,849.3
+Black or African American,All causes,2015,851.9
+Black or African American,All causes,2016,857.2
+Black or African American,All causes,2017,854.1
+Black or African American,Diseases of heart,2000,324.8
+Black or African American,Diseases of heart,2001,318.9
+Black or African American,Diseases of heart,2002,313.2
+Black or African American,Diseases of heart,2003,305.4
+Black or African American,Diseases of heart,2004,286.6
+Black or African American,Diseases of heart,2005,278
+Black or African American,Diseases of heart,2006,263.5
+Black or African American,Diseases of heart,2007,252.5
+Black or African American,Diseases of heart,2008,243.4
+Black or African American,Diseases of heart,2009,231.8
+Black or African American,Diseases of heart,2010,224.9
+Black or African American,Diseases of heart,2011,214.1
+Black or African American,Diseases of heart,2012,211.7
+Black or African American,Diseases of heart,2013,210.4
+Black or African American,Diseases of heart,2014,206.3
+Black or African American,Diseases of heart,2015,205.1
+Black or African American,Diseases of heart,2016,205.3
+Black or African American,Diseases of heart,2017,202.4
+Black or African American,Ischemic heart disease,2000,218.3
+Black or African American,Ischemic heart disease,2001,212.9
+Black or African American,Ischemic heart disease,2002,206.3
+Black or African American,Ischemic heart disease,2003,198.6
+Black or African American,Ischemic heart disease,2004,183.8
+Black or African American,Ischemic heart disease,2005,175.7
+Black or African American,Ischemic heart disease,2006,165.4
+Black or African American,Ischemic heart disease,2007,154
+Black or African American,Ischemic heart disease,2008,146.8
+Black or African American,Ischemic heart disease,2009,137.4
+Black or African American,Ischemic heart disease,2010,131.2
+Black or African American,Ischemic heart disease,2011,125.3
+Black or African American,Ischemic heart disease,2012,121.3
+Black or African American,Ischemic heart disease,2013,117.5
+Black or African American,Ischemic heart disease,2014,112.8
+Black or African American,Ischemic heart disease,2015,108.9
+Black or African American,Ischemic heart disease,2016,108.3
+Black or African American,Ischemic heart disease,2017,104.7
+Black or African American,Cerebrovascular diseases,2000,81.9
+Black or African American,Cerebrovascular diseases,2001,79.4
+Black or African American,Cerebrovascular diseases,2002,77.7
+Black or African American,Cerebrovascular diseases,2003,75.8
+Black or African American,Cerebrovascular diseases,2004,71.6
+Black or African American,Cerebrovascular diseases,2005,67
+Black or African American,Cerebrovascular diseases,2006,63.1
+Black or African American,Cerebrovascular diseases,2007,61.7
+Black or African American,Cerebrovascular diseases,2008,58.8
+Black or African American,Cerebrovascular diseases,2009,54
+Black or African American,Cerebrovascular diseases,2010,53
+Black or African American,Cerebrovascular diseases,2011,50.9
+Black or African American,Cerebrovascular diseases,2012,49.3
+Black or African American,Cerebrovascular diseases,2013,49
+Black or African American,Cerebrovascular diseases,2014,49.7
+Black or African American,Cerebrovascular diseases,2015,50.8
+Black or African American,Cerebrovascular diseases,2016,50.5
+Black or African American,Cerebrovascular diseases,2017,51.2
+Black or African American,Malignant neoplasms,2000,248.5
+Black or African American,Malignant neoplasms,2001,243.3
+Black or African American,Malignant neoplasms,2002,239.7
+Black or African American,Malignant neoplasms,2003,234
+Black or African American,Malignant neoplasms,2004,227.8
+Black or African American,Malignant neoplasms,2005,223.5
+Black or African American,Malignant neoplasms,2006,217.6
+Black or African American,Malignant neoplasms,2007,215.1
+Black or African American,Malignant neoplasms,2008,208.5
+Black or African American,Malignant neoplasms,2009,204.5
+Black or African American,Malignant neoplasms,2010,203.8
+Black or African American,Malignant neoplasms,2011,198.8
+Black or African American,Malignant neoplasms,2012,193.8
+Black or African American,Malignant neoplasms,2013,189.2
+Black or African American,Malignant neoplasms,2014,185.6
+Black or African American,Malignant neoplasms,2015,180.1
+Black or African American,Malignant neoplasms,2016,177.9
+Black or African American,Malignant neoplasms,2017,172.8
+Black or African American,"Trachea, bronchus, and lung",2000,64
+Black or African American,"Trachea, bronchus, and lung",2001,62.4
+Black or African American,"Trachea, bronchus, and lung",2002,61.8
+Black or African American,"Trachea, bronchus, and lung",2003,60.6
+Black or African American,"Trachea, bronchus, and lung",2004,59.5
+Black or African American,"Trachea, bronchus, and lung",2005,58.1
+Black or African American,"Trachea, bronchus, and lung",2006,56.3
+Black or African American,"Trachea, bronchus, and lung",2007,55.1
+Black or African American,"Trachea, bronchus, and lung",2008,52.9
+Black or African American,"Trachea, bronchus, and lung",2009,51.3
+Black or African American,"Trachea, bronchus, and lung",2010,51.4
+Black or African American,"Trachea, bronchus, and lung",2011,49.2
+Black or African American,"Trachea, bronchus, and lung",2012,48.3
+Black or African American,"Trachea, bronchus, and lung",2013,46.8
+Black or African American,"Trachea, bronchus, and lung",2014,44.5
+Black or African American,"Trachea, bronchus, and lung",2015,42
+Black or African American,"Trachea, bronchus, and lung",2016,40
+Black or African American,"Trachea, bronchus, and lung",2017,37.7
+Black or African American,"Colon, rectum, and anus",2000,28.2
+Black or African American,"Colon, rectum, and anus",2001,27.6
+Black or African American,"Colon, rectum, and anus",2002,27
+Black or African American,"Colon, rectum, and anus",2003,26.6
+Black or African American,"Colon, rectum, and anus",2004,24.9
+Black or African American,"Colon, rectum, and anus",2005,25.1
+Black or African American,"Colon, rectum, and anus",2006,24.4
+Black or African American,"Colon, rectum, and anus",2007,23.6
+Black or African American,"Colon, rectum, and anus",2008,22.9
+Black or African American,"Colon, rectum, and anus",2009,22
+Black or African American,"Colon, rectum, and anus",2010,21.8
+Black or African American,"Colon, rectum, and anus",2011,21.2
+Black or African American,"Colon, rectum, and anus",2012,20
+Black or African American,"Colon, rectum, and anus",2013,19.4
+Black or African American,"Colon, rectum, and anus",2014,18.6
+Black or African American,"Colon, rectum, and anus",2015,18.8
+Black or African American,"Colon, rectum, and anus",2016,18.5
+Black or African American,"Colon, rectum, and anus",2017,17.9
+Black or African American,Chronic lower respiratory diseases,2000,31.6
+Black or African American,Chronic lower respiratory diseases,2001,31
+Black or African American,Chronic lower respiratory diseases,2002,31.5
+Black or African American,Chronic lower respiratory diseases,2003,30.4
+Black or African American,Chronic lower respiratory diseases,2004,28.6
+Black or African American,Chronic lower respiratory diseases,2005,31.1
+Black or African American,Chronic lower respiratory diseases,2006,28.5
+Black or African American,Chronic lower respiratory diseases,2007,28.5
+Black or African American,Chronic lower respiratory diseases,2008,30.8
+Black or African American,Chronic lower respiratory diseases,2009,28.9
+Black or African American,Chronic lower respiratory diseases,2010,29
+Black or African American,Chronic lower respiratory diseases,2011,29.2
+Black or African American,Chronic lower respiratory diseases,2012,29
+Black or African American,Chronic lower respiratory diseases,2013,29.5
+Black or African American,Chronic lower respiratory diseases,2014,28.4
+Black or African American,Chronic lower respiratory diseases,2015,28.9
+Black or African American,Chronic lower respiratory diseases,2016,29.3
+Black or African American,Chronic lower respiratory diseases,2017,29.4
+Black or African American,Influenza and pneumonia,2000,25.6
+Black or African American,Influenza and pneumonia,2001,24.4
+Black or African American,Influenza and pneumonia,2002,24.6
+Black or African American,Influenza and pneumonia,2003,24
+Black or African American,Influenza and pneumonia,2004,23.1
+Black or African American,Influenza and pneumonia,2005,22.6
+Black or African American,Influenza and pneumonia,2006,20.4
+Black or African American,Influenza and pneumonia,2007,19.2
+Black or African American,Influenza and pneumonia,2008,19.5
+Black or African American,Influenza and pneumonia,2009,18
+Black or African American,Influenza and pneumonia,2010,16.8
+Black or African American,Influenza and pneumonia,2011,16.8
+Black or African American,Influenza and pneumonia,2012,15.7
+Black or African American,Influenza and pneumonia,2013,16.7
+Black or African American,Influenza and pneumonia,2014,16.1
+Black or African American,Influenza and pneumonia,2015,15.9
+Black or African American,Influenza and pneumonia,2016,15
+Black or African American,Influenza and pneumonia,2017,14.9
+Black or African American,Chronic liver disease and cirrhosis,2000,9.4
+Black or African American,Chronic liver disease and cirrhosis,2001,9.3
+Black or African American,Chronic liver disease and cirrhosis,2002,8.4
+Black or African American,Chronic liver disease and cirrhosis,2003,8.3
+Black or African American,Chronic liver disease and cirrhosis,2004,7.8
+Black or African American,Chronic liver disease and cirrhosis,2005,7.6
+Black or African American,Chronic liver disease and cirrhosis,2006,6.8
+Black or African American,Chronic liver disease and cirrhosis,2007,7.2
+Black or African American,Chronic liver disease and cirrhosis,2008,6.8
+Black or African American,Chronic liver disease and cirrhosis,2009,6.8
+Black or African American,Chronic liver disease and cirrhosis,2010,6.7
+Black or African American,Chronic liver disease and cirrhosis,2011,7
+Black or African American,Chronic liver disease and cirrhosis,2012,6.9
+Black or African American,Chronic liver disease and cirrhosis,2013,7.3
+Black or African American,Chronic liver disease and cirrhosis,2014,7.2
+Black or African American,Chronic liver disease and cirrhosis,2015,7.4
+Black or African American,Chronic liver disease and cirrhosis,2016,7.1
+Black or African American,Chronic liver disease and cirrhosis,2017,7.3
+Black or African American,Diabetes mellitus,2000,49.5
+Black or African American,Diabetes mellitus,2001,49.3
+Black or African American,Diabetes mellitus,2002,49.9
+Black or African American,Diabetes mellitus,2003,49.6
+Black or African American,Diabetes mellitus,2004,48.5
+Black or African American,Diabetes mellitus,2005,47.5
+Black or African American,Diabetes mellitus,2006,45.5
+Black or African American,Diabetes mellitus,2007,43.1
+Black or African American,Diabetes mellitus,2008,40.8
+Black or African American,Diabetes mellitus,2009,39.1
+Black or African American,Diabetes mellitus,2010,38.7
+Black or African American,Diabetes mellitus,2011,39.6
+Black or African American,Diabetes mellitus,2012,38.7
+Black or African American,Diabetes mellitus,2013,38.4
+Black or African American,Diabetes mellitus,2014,37.3
+Black or African American,Diabetes mellitus,2015,37
+Black or African American,Diabetes mellitus,2016,36.8
+Black or African American,Diabetes mellitus,2017,37.5
+Black or African American,Alzheimer's disease,2000,13
+Black or African American,Alzheimer's disease,2001,14.8
+Black or African American,Alzheimer's disease,2002,15.8
+Black or African American,Alzheimer's disease,2003,17.4
+Black or African American,Alzheimer's disease,2004,19.6
+Black or African American,Alzheimer's disease,2005,20.8
+Black or African American,Alzheimer's disease,2006,19.7
+Black or African American,Alzheimer's disease,2007,20.5
+Black or African American,Alzheimer's disease,2008,21.2
+Black or African American,Alzheimer's disease,2009,20.6
+Black or African American,Alzheimer's disease,2010,20.6
+Black or African American,Alzheimer's disease,2011,20.8
+Black or African American,Alzheimer's disease,2012,19.9
+Black or African American,Alzheimer's disease,2013,20.1
+Black or African American,Alzheimer's disease,2014,22.3
+Black or African American,Alzheimer's disease,2015,26.6
+Black or African American,Alzheimer's disease,2016,27.5
+Black or African American,Alzheimer's disease,2017,27.8
+Black or African American,Human immunodeficiency virus (HIV) disease,2000,23.3
+Black or African American,Human immunodeficiency virus (HIV) disease,2001,22.7
+Black or African American,Human immunodeficiency virus (HIV) disease,2002,22.4
+Black or African American,Human immunodeficiency virus (HIV) disease,2003,21.2
+Black or African American,Human immunodeficiency virus (HIV) disease,2004,20.2
+Black or African American,Human immunodeficiency virus (HIV) disease,2005,19.2
+Black or African American,Human immunodeficiency virus (HIV) disease,2006,18.3
+Black or African American,Human immunodeficiency virus (HIV) disease,2007,17
+Black or African American,Human immunodeficiency virus (HIV) disease,2008,14.9
+Black or African American,Human immunodeficiency virus (HIV) disease,2009,13.7
+Black or African American,Human immunodeficiency virus (HIV) disease,2010,11.6
+Black or African American,Human immunodeficiency virus (HIV) disease,2011,10.3
+Black or African American,Human immunodeficiency virus (HIV) disease,2012,9.5
+Black or African American,Human immunodeficiency virus (HIV) disease,2013,8.9
+Black or African American,Human immunodeficiency virus (HIV) disease,2014,8.3
+Black or African American,Human immunodeficiency virus (HIV) disease,2015,7.9
+Black or African American,Human immunodeficiency virus (HIV) disease,2016,7.2
+Black or African American,Human immunodeficiency virus (HIV) disease,2017,6.6
+Black or African American,Unintentional injuries,2000,37.7
+Black or African American,Unintentional injuries,2001,37.6
+Black or African American,Unintentional injuries,2002,37
+Black or African American,Unintentional injuries,2003,36.2
+Black or African American,Unintentional injuries,2004,36.4
+Black or African American,Unintentional injuries,2005,38.8
+Black or African American,Unintentional injuries,2006,38.2
+Black or African American,Unintentional injuries,2007,36.5
+Black or African American,Unintentional injuries,2008,33.1
+Black or African American,Unintentional injuries,2009,31.6
+Black or African American,Unintentional injuries,2010,31.3
+Black or African American,Unintentional injuries,2011,31.6
+Black or African American,Unintentional injuries,2012,31.4
+Black or African American,Unintentional injuries,2013,32.6
+Black or African American,Unintentional injuries,2014,33.7
+Black or African American,Unintentional injuries,2015,36.8
+Black or African American,Unintentional injuries,2016,42.7
+Black or African American,Unintentional injuries,2017,45.7
+Black or African American,Motor vehicle-related injuries,2000,15.7
+Black or African American,Motor vehicle-related injuries,2001,15.3
+Black or African American,Motor vehicle-related injuries,2002,15
+Black or African American,Motor vehicle-related injuries,2003,14.9
+Black or African American,Motor vehicle-related injuries,2004,14.7
+Black or African American,Motor vehicle-related injuries,2005,14.4
+Black or African American,Motor vehicle-related injuries,2006,14.5
+Black or African American,Motor vehicle-related injuries,2007,14
+Black or African American,Motor vehicle-related injuries,2008,12.1
+Black or African American,Motor vehicle-related injuries,2009,11.5
+Black or African American,Motor vehicle-related injuries,2010,10.9
+Black or African American,Motor vehicle-related injuries,2011,10.7
+Black or African American,Motor vehicle-related injuries,2012,11.3
+Black or African American,Motor vehicle-related injuries,2013,10.9
+Black or African American,Motor vehicle-related injuries,2014,11.1
+Black or African American,Motor vehicle-related injuries,2015,12.2
+Black or African American,Motor vehicle-related injuries,2016,13.5
+Black or African American,Motor vehicle-related injuries,2017,13.7
+Black or African American,Poisoning,2000,6
+Black or African American,Poisoning,2001,6.3
+Black or African American,Poisoning,2002,6.8
+Black or African American,Poisoning,2003,6.7
+Black or African American,Poisoning,2004,6.9
+Black or African American,Poisoning,2005,8.1
+Black or African American,Poisoning,2006,9.3
+Black or African American,Poisoning,2007,8.4
+Black or African American,Poisoning,2008,7.7
+Black or African American,Poisoning,2009,7.4
+Black or African American,Poisoning,2010,7.3
+Black or African American,Poisoning,2011,8
+Black or African American,Poisoning,2012,8.1
+Black or African American,Poisoning,2013,8.9
+Black or African American,Poisoning,2014,9.6
+Black or African American,Poisoning,2015,11.1
+Black or African American,Poisoning,2016,15.4
+Black or African American,Poisoning,2017,18.6
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2000,28.7
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2001,29.7
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2002,30.1
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2003,30.8
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2004,30.1
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2005,30.3
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2006,30.8
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2007,29.9
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2008,29.9
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2009,29.9
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2010,29.3
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2011,25.9
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2012,25.2
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2013,25
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2014,24.6
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2015,25.4
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2016,25.1
+Black or African American,"Nephritis, nephrotic syndrome and nephrosis",2017,24.9
+Black or African American,Suicide,2000,5.5
+Black or African American,Suicide,2001,5.5
+Black or African American,Suicide,2002,5.3
+Black or African American,Suicide,2003,5.2
+Black or African American,Suicide,2004,5.4
+Black or African American,Suicide,2005,5.2
+Black or African American,Suicide,2006,5
+Black or African American,Suicide,2007,4.9
+Black or African American,Suicide,2008,5.2
+Black or African American,Suicide,2009,5.1
+Black or African American,Suicide,2010,5.2
+Black or African American,Suicide,2011,5.4
+Black or African American,Suicide,2012,5.6
+Black or African American,Suicide,2013,5.4
+Black or African American,Suicide,2014,5.5
+Black or African American,Suicide,2015,5.6
+Black or African American,Suicide,2016,6.1
+Black or African American,Suicide,2017,6.6
+Black or African American,Homicide,2000,20.5
+Black or African American,Homicide,2001,21.2
+Black or African American,Homicide,2002,21
+Black or African American,Homicide,2003,21
+Black or African American,Homicide,2004,20.1
+Black or African American,Homicide,2005,21.1
+Black or African American,Homicide,2006,21.5
+Black or African American,Homicide,2007,20.9
+Black or African American,Homicide,2008,19.3
+Black or African American,Homicide,2009,18.1
+Black or African American,Homicide,2010,17.7
+Black or African American,Homicide,2011,17.6
+Black or African American,Homicide,2012,18.4
+Black or African American,Homicide,2013,17.8
+Black or African American,Homicide,2014,17.2
+Black or African American,Homicide,2015,19.8
+Black or African American,Homicide,2016,21.4
+Black or African American,Homicide,2017,21.4
+American Indian or Alaska Native,All causes,2000,709.3
+American Indian or Alaska Native,All causes,2001,714.1
+American Indian or Alaska Native,All causes,2002,713
+American Indian or Alaska Native,All causes,2003,726.3
+American Indian or Alaska Native,All causes,2004,691.8
+American Indian or Alaska Native,All causes,2005,701.1
+American Indian or Alaska Native,All causes,2006,676.6
+American Indian or Alaska Native,All causes,2007,661.3
+American Indian or Alaska Native,All causes,2008,644
+American Indian or Alaska Native,All causes,2009,616
+American Indian or Alaska Native,All causes,2010,628.3
+American Indian or Alaska Native,All causes,2011,600.9
+American Indian or Alaska Native,All causes,2012,595.3
+American Indian or Alaska Native,All causes,2013,591.7
+American Indian or Alaska Native,All causes,2014,594.1
+American Indian or Alaska Native,All causes,2015,596.9
+American Indian or Alaska Native,All causes,2016,591.2
+American Indian or Alaska Native,All causes,2017,587.5
+American Indian or Alaska Native,Diseases of heart,2000,178.2
+American Indian or Alaska Native,Diseases of heart,2001,167.6
+American Indian or Alaska Native,Diseases of heart,2002,169.9
+American Indian or Alaska Native,Diseases of heart,2003,174.7
+American Indian or Alaska Native,Diseases of heart,2004,164.8
+American Indian or Alaska Native,Diseases of heart,2005,156.6
+American Indian or Alaska Native,Diseases of heart,2006,153.2
+American Indian or Alaska Native,Diseases of heart,2007,140.5
+American Indian or Alaska Native,Diseases of heart,2008,132.6
+American Indian or Alaska Native,Diseases of heart,2009,130.7
+American Indian or Alaska Native,Diseases of heart,2010,128.6
+American Indian or Alaska Native,Diseases of heart,2011,124.2
+American Indian or Alaska Native,Diseases of heart,2012,119.6
+American Indian or Alaska Native,Diseases of heart,2013,120.6
+American Indian or Alaska Native,Diseases of heart,2014,119.1
+American Indian or Alaska Native,Diseases of heart,2015,118.5
+American Indian or Alaska Native,Diseases of heart,2016,115.4
+American Indian or Alaska Native,Diseases of heart,2017,115.8
+American Indian or Alaska Native,Ischemic heart disease,2000,129.1
+American Indian or Alaska Native,Ischemic heart disease,2001,119.6
+American Indian or Alaska Native,Ischemic heart disease,2002,122.8
+American Indian or Alaska Native,Ischemic heart disease,2003,124.4
+American Indian or Alaska Native,Ischemic heart disease,2004,118.8
+American Indian or Alaska Native,Ischemic heart disease,2005,106.1
+American Indian or Alaska Native,Ischemic heart disease,2006,107.2
+American Indian or Alaska Native,Ischemic heart disease,2007,95.9
+American Indian or Alaska Native,Ischemic heart disease,2008,88
+American Indian or Alaska Native,Ischemic heart disease,2009,86.5
+American Indian or Alaska Native,Ischemic heart disease,2010,84.9
+American Indian or Alaska Native,Ischemic heart disease,2011,81.4
+American Indian or Alaska Native,Ischemic heart disease,2012,79.2
+American Indian or Alaska Native,Ischemic heart disease,2013,78.2
+American Indian or Alaska Native,Ischemic heart disease,2014,76.4
+American Indian or Alaska Native,Ischemic heart disease,2015,73.4
+American Indian or Alaska Native,Ischemic heart disease,2016,71.3
+American Indian or Alaska Native,Ischemic heart disease,2017,67.8
+American Indian or Alaska Native,Cerebrovascular diseases,2000,45
+American Indian or Alaska Native,Cerebrovascular diseases,2001,43.6
+American Indian or Alaska Native,Cerebrovascular diseases,2002,40.8
+American Indian or Alaska Native,Cerebrovascular diseases,2003,38
+American Indian or Alaska Native,Cerebrovascular diseases,2004,39.8
+American Indian or Alaska Native,Cerebrovascular diseases,2005,38.8
+American Indian or Alaska Native,Cerebrovascular diseases,2006,33.4
+American Indian or Alaska Native,Cerebrovascular diseases,2007,34.2
+American Indian or Alaska Native,Cerebrovascular diseases,2008,27.7
+American Indian or Alaska Native,Cerebrovascular diseases,2009,29.2
+American Indian or Alaska Native,Cerebrovascular diseases,2010,28.1
+American Indian or Alaska Native,Cerebrovascular diseases,2011,27.1
+American Indian or Alaska Native,Cerebrovascular diseases,2012,25.2
+American Indian or Alaska Native,Cerebrovascular diseases,2013,24.6
+American Indian or Alaska Native,Cerebrovascular diseases,2014,25.4
+American Indian or Alaska Native,Cerebrovascular diseases,2015,24.7
+American Indian or Alaska Native,Cerebrovascular diseases,2016,23.8
+American Indian or Alaska Native,Cerebrovascular diseases,2017,26.2
+American Indian or Alaska Native,Malignant neoplasms,2000,127.8
+American Indian or Alaska Native,Malignant neoplasms,2001,136.1
+American Indian or Alaska Native,Malignant neoplasms,2002,131.7
+American Indian or Alaska Native,Malignant neoplasms,2003,126.1
+American Indian or Alaska Native,Malignant neoplasms,2004,132.2
+American Indian or Alaska Native,Malignant neoplasms,2005,128.8
+American Indian or Alaska Native,Malignant neoplasms,2006,125.4
+American Indian or Alaska Native,Malignant neoplasms,2007,124.1
+American Indian or Alaska Native,Malignant neoplasms,2008,125
+American Indian or Alaska Native,Malignant neoplasms,2009,114.9
+American Indian or Alaska Native,Malignant neoplasms,2010,122.4
+American Indian or Alaska Native,Malignant neoplasms,2011,109.4
+American Indian or Alaska Native,Malignant neoplasms,2012,111.4
+American Indian or Alaska Native,Malignant neoplasms,2013,110.2
+American Indian or Alaska Native,Malignant neoplasms,2014,106.7
+American Indian or Alaska Native,Malignant neoplasms,2015,107.9
+American Indian or Alaska Native,Malignant neoplasms,2016,103.4
+American Indian or Alaska Native,Malignant neoplasms,2017,99.2
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2000,32.3
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2001,35.6
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2002,34.7
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2003,32.8
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2004,37.8
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2005,35.3
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2006,32.3
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2007,34.1
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2008,34.8
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2009,29.5
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2010,33.1
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2011,30
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2012,30.1
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2013,27.7
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2014,27.8
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2015,26.7
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2016,25.1
+American Indian or Alaska Native,"Trachea, bronchus, and lung",2017,23.5
+American Indian or Alaska Native,"Colon, rectum, and anus",2000,13.4
+American Indian or Alaska Native,"Colon, rectum, and anus",2001,12.5
+American Indian or Alaska Native,"Colon, rectum, and anus",2002,15
+American Indian or Alaska Native,"Colon, rectum, and anus",2003,12.6
+American Indian or Alaska Native,"Colon, rectum, and anus",2004,12.9
+American Indian or Alaska Native,"Colon, rectum, and anus",2005,12.6
+American Indian or Alaska Native,"Colon, rectum, and anus",2006,11.7
+American Indian or Alaska Native,"Colon, rectum, and anus",2007,12.1
+American Indian or Alaska Native,"Colon, rectum, and anus",2008,14.6
+American Indian or Alaska Native,"Colon, rectum, and anus",2009,13
+American Indian or Alaska Native,"Colon, rectum, and anus",2010,11.7
+American Indian or Alaska Native,"Colon, rectum, and anus",2011,12.3
+American Indian or Alaska Native,"Colon, rectum, and anus",2012,11.1
+American Indian or Alaska Native,"Colon, rectum, and anus",2013,12.6
+American Indian or Alaska Native,"Colon, rectum, and anus",2014,10.9
+American Indian or Alaska Native,"Colon, rectum, and anus",2015,11.1
+American Indian or Alaska Native,"Colon, rectum, and anus",2016,9.9
+American Indian or Alaska Native,"Colon, rectum, and anus",2017,10.9
+American Indian or Alaska Native,Chronic lower respiratory diseases,2000,32.8
+American Indian or Alaska Native,Chronic lower respiratory diseases,2001,31.6
+American Indian or Alaska Native,Chronic lower respiratory diseases,2002,32.3
+American Indian or Alaska Native,Chronic lower respiratory diseases,2003,34.4
+American Indian or Alaska Native,Chronic lower respiratory diseases,2004,31
+American Indian or Alaska Native,Chronic lower respiratory diseases,2005,31.6
+American Indian or Alaska Native,Chronic lower respiratory diseases,2006,29.8
+American Indian or Alaska Native,Chronic lower respiratory diseases,2007,33.9
+American Indian or Alaska Native,Chronic lower respiratory diseases,2008,31.9
+American Indian or Alaska Native,Chronic lower respiratory diseases,2009,30.7
+American Indian or Alaska Native,Chronic lower respiratory diseases,2010,33.8
+American Indian or Alaska Native,Chronic lower respiratory diseases,2011,28.7
+American Indian or Alaska Native,Chronic lower respiratory diseases,2012,29.8
+American Indian or Alaska Native,Chronic lower respiratory diseases,2013,30.8
+American Indian or Alaska Native,Chronic lower respiratory diseases,2014,29.9
+American Indian or Alaska Native,Chronic lower respiratory diseases,2015,30.9
+American Indian or Alaska Native,Chronic lower respiratory diseases,2016,29.7
+American Indian or Alaska Native,Chronic lower respiratory diseases,2017,31.1
+American Indian or Alaska Native,Influenza and pneumonia,2000,22.3
+American Indian or Alaska Native,Influenza and pneumonia,2001,23.9
+American Indian or Alaska Native,Influenza and pneumonia,2002,22.7
+American Indian or Alaska Native,Influenza and pneumonia,2003,27
+American Indian or Alaska Native,Influenza and pneumonia,2004,19.9
+American Indian or Alaska Native,Influenza and pneumonia,2005,23.6
+American Indian or Alaska Native,Influenza and pneumonia,2006,16.3
+American Indian or Alaska Native,Influenza and pneumonia,2007,15.9
+American Indian or Alaska Native,Influenza and pneumonia,2008,19.6
+American Indian or Alaska Native,Influenza and pneumonia,2009,17.9
+American Indian or Alaska Native,Influenza and pneumonia,2010,15.9
+American Indian or Alaska Native,Influenza and pneumonia,2011,15.5
+American Indian or Alaska Native,Influenza and pneumonia,2012,13.1
+American Indian or Alaska Native,Influenza and pneumonia,2013,15
+American Indian or Alaska Native,Influenza and pneumonia,2014,15.1
+American Indian or Alaska Native,Influenza and pneumonia,2015,12.5
+American Indian or Alaska Native,Influenza and pneumonia,2016,12.7
+American Indian or Alaska Native,Influenza and pneumonia,2017,13.1
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2000,24.3
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2001,22.7
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2002,22.8
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2003,22.3
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2004,22.3
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2005,21.6
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2006,20.9
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2007,23.1
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2008,23.6
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2009,21.3
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2010,22.8
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2011,22.9
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2012,25.3
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2013,24.8
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2014,24.2
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2015,26.4
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2016,26.7
+American Indian or Alaska Native,Chronic liver disease and cirrhosis,2017,26.1
+American Indian or Alaska Native,Diabetes mellitus,2000,41.5
+American Indian or Alaska Native,Diabetes mellitus,2001,42.1
+American Indian or Alaska Native,Diabetes mellitus,2002,45.3
+American Indian or Alaska Native,Diabetes mellitus,2003,46.3
+American Indian or Alaska Native,Diabetes mellitus,2004,41.4
+American Indian or Alaska Native,Diabetes mellitus,2005,44.1
+American Indian or Alaska Native,Diabetes mellitus,2006,42.2
+American Indian or Alaska Native,Diabetes mellitus,2007,40
+American Indian or Alaska Native,Diabetes mellitus,2008,36.3
+American Indian or Alaska Native,Diabetes mellitus,2009,34.9
+American Indian or Alaska Native,Diabetes mellitus,2010,36.4
+American Indian or Alaska Native,Diabetes mellitus,2011,36.5
+American Indian or Alaska Native,Diabetes mellitus,2012,36.9
+American Indian or Alaska Native,Diabetes mellitus,2013,34.1
+American Indian or Alaska Native,Diabetes mellitus,2014,31.3
+American Indian or Alaska Native,Diabetes mellitus,2015,34.2
+American Indian or Alaska Native,Diabetes mellitus,2016,34.3
+American Indian or Alaska Native,Diabetes mellitus,2017,34.4
+American Indian or Alaska Native,Alzheimer's disease,2000,9.1
+American Indian or Alaska Native,Alzheimer's disease,2001,8.9
+American Indian or Alaska Native,Alzheimer's disease,2002,10.9
+American Indian or Alaska Native,Alzheimer's disease,2003,11.2
+American Indian or Alaska Native,Alzheimer's disease,2004,9.9
+American Indian or Alaska Native,Alzheimer's disease,2005,15
+American Indian or Alaska Native,Alzheimer's disease,2006,13.6
+American Indian or Alaska Native,Alzheimer's disease,2007,14.3
+American Indian or Alaska Native,Alzheimer's disease,2008,15.1
+American Indian or Alaska Native,Alzheimer's disease,2009,13.1
+American Indian or Alaska Native,Alzheimer's disease,2010,17.2
+American Indian or Alaska Native,Alzheimer's disease,2011,13.4
+American Indian or Alaska Native,Alzheimer's disease,2012,12.3
+American Indian or Alaska Native,Alzheimer's disease,2013,12.7
+American Indian or Alaska Native,Alzheimer's disease,2014,15.2
+American Indian or Alaska Native,Alzheimer's disease,2015,15.4
+American Indian or Alaska Native,Alzheimer's disease,2016,17.3
+American Indian or Alaska Native,Alzheimer's disease,2017,16.5
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2000,2.2
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2001,2.7
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2002,2.1
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2003,2.4
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2004,2.7
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2005,2.5
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2006,2.1
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2007,2.3
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2008,1.8
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2009,1.7
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2010,1.6
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2011,1.2
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2012,1
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2013,1.3
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2014,1.2
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2015,1.4
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2016,1
+American Indian or Alaska Native,Human immunodeficiency virus (HIV) disease,2017,0.9
+American Indian or Alaska Native,Unintentional injuries,2000,51.3
+American Indian or Alaska Native,Unintentional injuries,2001,51.6
+American Indian or Alaska Native,Unintentional injuries,2002,53.4
+American Indian or Alaska Native,Unintentional injuries,2003,55.5
+American Indian or Alaska Native,Unintentional injuries,2004,51.5
+American Indian or Alaska Native,Unintentional injuries,2005,51.3
+American Indian or Alaska Native,Unintentional injuries,2006,52.6
+American Indian or Alaska Native,Unintentional injuries,2007,50.8
+American Indian or Alaska Native,Unintentional injuries,2008,49
+American Indian or Alaska Native,Unintentional injuries,2009,48.7
+American Indian or Alaska Native,Unintentional injuries,2010,46.9
+American Indian or Alaska Native,Unintentional injuries,2011,48.3
+American Indian or Alaska Native,Unintentional injuries,2012,49.5
+American Indian or Alaska Native,Unintentional injuries,2013,47.1
+American Indian or Alaska Native,Unintentional injuries,2014,49.5
+American Indian or Alaska Native,Unintentional injuries,2015,50.7
+American Indian or Alaska Native,Unintentional injuries,2016,53.9
+American Indian or Alaska Native,Unintentional injuries,2017,55.8
+American Indian or Alaska Native,Motor vehicle-related injuries,2000,27.3
+American Indian or Alaska Native,Motor vehicle-related injuries,2001,25.8
+American Indian or Alaska Native,Motor vehicle-related injuries,2002,28.2
+American Indian or Alaska Native,Motor vehicle-related injuries,2003,27
+American Indian or Alaska Native,Motor vehicle-related injuries,2004,24.7
+American Indian or Alaska Native,Motor vehicle-related injuries,2005,22.6
+American Indian or Alaska Native,Motor vehicle-related injuries,2006,24.1
+American Indian or Alaska Native,Motor vehicle-related injuries,2007,20.8
+American Indian or Alaska Native,Motor vehicle-related injuries,2008,18.4
+American Indian or Alaska Native,Motor vehicle-related injuries,2009,17.2
+American Indian or Alaska Native,Motor vehicle-related injuries,2010,15.7
+American Indian or Alaska Native,Motor vehicle-related injuries,2011,16.6
+American Indian or Alaska Native,Motor vehicle-related injuries,2012,16.3
+American Indian or Alaska Native,Motor vehicle-related injuries,2013,15.4
+American Indian or Alaska Native,Motor vehicle-related injuries,2014,16.6
+American Indian or Alaska Native,Motor vehicle-related injuries,2015,16.9
+American Indian or Alaska Native,Motor vehicle-related injuries,2016,17.8
+American Indian or Alaska Native,Motor vehicle-related injuries,2017,18.5
+American Indian or Alaska Native,Poisoning,2000,4.7
+American Indian or Alaska Native,Poisoning,2001,5.1
+American Indian or Alaska Native,Poisoning,2002,6.2
+American Indian or Alaska Native,Poisoning,2003,7.5
+American Indian or Alaska Native,Poisoning,2004,8
+American Indian or Alaska Native,Poisoning,2005,8.6
+American Indian or Alaska Native,Poisoning,2006,9.4
+American Indian or Alaska Native,Poisoning,2007,10.3
+American Indian or Alaska Native,Poisoning,2008,12.4
+American Indian or Alaska Native,Poisoning,2009,13.8
+American Indian or Alaska Native,Poisoning,2010,13
+American Indian or Alaska Native,Poisoning,2011,14
+American Indian or Alaska Native,Poisoning,2012,15.1
+American Indian or Alaska Native,Poisoning,2013,14.2
+American Indian or Alaska Native,Poisoning,2014,15.5
+American Indian or Alaska Native,Poisoning,2015,16.1
+American Indian or Alaska Native,Poisoning,2016,18.1
+American Indian or Alaska Native,Poisoning,2017,18.8
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2000,15
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2001,15.4
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2002,14.1
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2003,16.8
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2004,14.9
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2005,15.6
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2006,15.1
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2007,15.9
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2008,17.2
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2009,14.4
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2010,16.4
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2011,12.5
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2012,12.6
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2013,11.4
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2014,12.4
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2015,12.2
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2016,11.6
+American Indian or Alaska Native,"Nephritis, nephrotic syndrome and nephrosis",2017,10.9
+American Indian or Alaska Native,Suicide,2000,9.8
+American Indian or Alaska Native,Suicide,2001,10.5
+American Indian or Alaska Native,Suicide,2002,10
+American Indian or Alaska Native,Suicide,2003,9.5
+American Indian or Alaska Native,Suicide,2004,11.5
+American Indian or Alaska Native,Suicide,2005,10.7
+American Indian or Alaska Native,Suicide,2006,10.4
+American Indian or Alaska Native,Suicide,2007,10.1
+American Indian or Alaska Native,Suicide,2008,10.1
+American Indian or Alaska Native,Suicide,2009,10
+American Indian or Alaska Native,Suicide,2010,10.8
+American Indian or Alaska Native,Suicide,2011,10.6
+American Indian or Alaska Native,Suicide,2012,10.8
+American Indian or Alaska Native,Suicide,2013,11.7
+American Indian or Alaska Native,Suicide,2014,10.9
+American Indian or Alaska Native,Suicide,2015,12.6
+American Indian or Alaska Native,Suicide,2016,13.5
+American Indian or Alaska Native,Suicide,2017,13.5
+American Indian or Alaska Native,Homicide,2000,6.8
+American Indian or Alaska Native,Homicide,2001,6.7
+American Indian or Alaska Native,Homicide,2002,8.1
+American Indian or Alaska Native,Homicide,2003,6.8
+American Indian or Alaska Native,Homicide,2004,6.5
+American Indian or Alaska Native,Homicide,2005,6.8
+American Indian or Alaska Native,Homicide,2006,6.6
+American Indian or Alaska Native,Homicide,2007,5.6
+American Indian or Alaska Native,Homicide,2008,6.2
+American Indian or Alaska Native,Homicide,2009,5.9
+American Indian or Alaska Native,Homicide,2010,5.7
+American Indian or Alaska Native,Homicide,2011,5.9
+American Indian or Alaska Native,Homicide,2012,5.8
+American Indian or Alaska Native,Homicide,2013,5.3
+American Indian or Alaska Native,Homicide,2014,5.8
+American Indian or Alaska Native,Homicide,2015,6.2
+American Indian or Alaska Native,Homicide,2016,6.7
+American Indian or Alaska Native,Homicide,2017,6.3
+Asian or Pacific Islander,All causes,2000,506.4
+Asian or Pacific Islander,All causes,2001,495.4
+Asian or Pacific Islander,All causes,2002,486.5
+Asian or Pacific Islander,All causes,2003,480.5
+Asian or Pacific Islander,All causes,2004,460.7
+Asian or Pacific Islander,All causes,2005,459.6
+Asian or Pacific Islander,All causes,2006,450.7
+Asian or Pacific Islander,All causes,2007,436.2
+Asian or Pacific Islander,All causes,2008,435.1
+Asian or Pacific Islander,All causes,2009,424.6
+Asian or Pacific Islander,All causes,2010,424.3
+Asian or Pacific Islander,All causes,2011,410.3
+Asian or Pacific Islander,All causes,2012,407.1
+Asian or Pacific Islander,All causes,2013,405.4
+Asian or Pacific Islander,All causes,2014,388.3
+Asian or Pacific Islander,All causes,2015,394.8
+Asian or Pacific Islander,All causes,2016,392.6
+Asian or Pacific Islander,All causes,2017,393.6
+Asian or Pacific Islander,Diseases of heart,2000,146
+Asian or Pacific Islander,Diseases of heart,2001,139.1
+Asian or Pacific Islander,Diseases of heart,2002,139
+Asian or Pacific Islander,Diseases of heart,2003,133
+Asian or Pacific Islander,Diseases of heart,2004,123.7
+Asian or Pacific Islander,Diseases of heart,2005,119.7
+Asian or Pacific Islander,Diseases of heart,2006,115.8
+Asian or Pacific Islander,Diseases of heart,2007,108.3
+Asian or Pacific Islander,Diseases of heart,2008,107.7
+Asian or Pacific Islander,Diseases of heart,2009,103.8
+Asian or Pacific Islander,Diseases of heart,2010,100.9
+Asian or Pacific Islander,Diseases of heart,2011,93.2
+Asian or Pacific Islander,Diseases of heart,2012,92.2
+Asian or Pacific Islander,Diseases of heart,2013,92.8
+Asian or Pacific Islander,Diseases of heart,2014,86.1
+Asian or Pacific Islander,Diseases of heart,2015,86.5
+Asian or Pacific Islander,Diseases of heart,2016,85.2
+Asian or Pacific Islander,Diseases of heart,2017,85.4
+Asian or Pacific Islander,Ischemic heart disease,2000,109.6
+Asian or Pacific Islander,Ischemic heart disease,2001,104.1
+Asian or Pacific Islander,Ischemic heart disease,2002,101.9
+Asian or Pacific Islander,Ischemic heart disease,2003,96.7
+Asian or Pacific Islander,Ischemic heart disease,2004,88.3
+Asian or Pacific Islander,Ischemic heart disease,2005,85.6
+Asian or Pacific Islander,Ischemic heart disease,2006,82.2
+Asian or Pacific Islander,Ischemic heart disease,2007,75.9
+Asian or Pacific Islander,Ischemic heart disease,2008,75.9
+Asian or Pacific Islander,Ischemic heart disease,2009,70.7
+Asian or Pacific Islander,Ischemic heart disease,2010,68.7
+Asian or Pacific Islander,Ischemic heart disease,2011,62.7
+Asian or Pacific Islander,Ischemic heart disease,2012,60.5
+Asian or Pacific Islander,Ischemic heart disease,2013,59.9
+Asian or Pacific Islander,Ischemic heart disease,2014,55.1
+Asian or Pacific Islander,Ischemic heart disease,2015,54.9
+Asian or Pacific Islander,Ischemic heart disease,2016,53
+Asian or Pacific Islander,Ischemic heart disease,2017,53.9
+Asian or Pacific Islander,Cerebrovascular diseases,2000,52.9
+Asian or Pacific Islander,Cerebrovascular diseases,2001,51.8
+Asian or Pacific Islander,Cerebrovascular diseases,2002,49.2
+Asian or Pacific Islander,Cerebrovascular diseases,2003,47
+Asian or Pacific Islander,Cerebrovascular diseases,2004,43.2
+Asian or Pacific Islander,Cerebrovascular diseases,2005,40.8
+Asian or Pacific Islander,Cerebrovascular diseases,2006,39.3
+Asian or Pacific Islander,Cerebrovascular diseases,2007,36.6
+Asian or Pacific Islander,Cerebrovascular diseases,2008,35.2
+Asian or Pacific Islander,Cerebrovascular diseases,2009,33
+Asian or Pacific Islander,Cerebrovascular diseases,2010,33.2
+Asian or Pacific Islander,Cerebrovascular diseases,2011,31.6
+Asian or Pacific Islander,Cerebrovascular diseases,2012,30.8
+Asian or Pacific Islander,Cerebrovascular diseases,2013,29.4
+Asian or Pacific Islander,Cerebrovascular diseases,2014,28.3
+Asian or Pacific Islander,Cerebrovascular diseases,2015,29.8
+Asian or Pacific Islander,Cerebrovascular diseases,2016,30.7
+Asian or Pacific Islander,Cerebrovascular diseases,2017,30.1
+Asian or Pacific Islander,Malignant neoplasms,2000,121.9
+Asian or Pacific Islander,Malignant neoplasms,2001,119.9
+Asian or Pacific Islander,Malignant neoplasms,2002,115.3
+Asian or Pacific Islander,Malignant neoplasms,2003,115.7
+Asian or Pacific Islander,Malignant neoplasms,2004,112.9
+Asian or Pacific Islander,Malignant neoplasms,2005,113.2
+Asian or Pacific Islander,Malignant neoplasms,2006,109.6
+Asian or Pacific Islander,Malignant neoplasms,2007,109.5
+Asian or Pacific Islander,Malignant neoplasms,2008,108.8
+Asian or Pacific Islander,Malignant neoplasms,2009,106.8
+Asian or Pacific Islander,Malignant neoplasms,2010,108.9
+Asian or Pacific Islander,Malignant neoplasms,2011,105.6
+Asian or Pacific Islander,Malignant neoplasms,2012,104.2
+Asian or Pacific Islander,Malignant neoplasms,2013,100.5
+Asian or Pacific Islander,Malignant neoplasms,2014,98.9
+Asian or Pacific Islander,Malignant neoplasms,2015,99
+Asian or Pacific Islander,Malignant neoplasms,2016,97.1
+Asian or Pacific Islander,Malignant neoplasms,2017,94.4
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2000,28.1
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2001,28.3
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2002,25.9
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2003,27.4
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2004,26.6
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2005,26.3
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2006,25.9
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2007,26
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2008,25.6
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2009,25.2
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2010,24.8
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2011,24.6
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2012,24
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2013,23.3
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2014,22.7
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2015,22.2
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2016,21.5
+Asian or Pacific Islander,"Trachea, bronchus, and lung",2017,20.3
+Asian or Pacific Islander,"Colon, rectum, and anus",2000,12.7
+Asian or Pacific Islander,"Colon, rectum, and anus",2001,13.2
+Asian or Pacific Islander,"Colon, rectum, and anus",2002,12.7
+Asian or Pacific Islander,"Colon, rectum, and anus",2003,12.3
+Asian or Pacific Islander,"Colon, rectum, and anus",2004,11.6
+Asian or Pacific Islander,"Colon, rectum, and anus",2005,11.5
+Asian or Pacific Islander,"Colon, rectum, and anus",2006,11.3
+Asian or Pacific Islander,"Colon, rectum, and anus",2007,11.2
+Asian or Pacific Islander,"Colon, rectum, and anus",2008,11.6
+Asian or Pacific Islander,"Colon, rectum, and anus",2009,10.5
+Asian or Pacific Islander,"Colon, rectum, and anus",2010,11.4
+Asian or Pacific Islander,"Colon, rectum, and anus",2011,10.8
+Asian or Pacific Islander,"Colon, rectum, and anus",2012,10.8
+Asian or Pacific Islander,"Colon, rectum, and anus",2013,9.8
+Asian or Pacific Islander,"Colon, rectum, and anus",2014,9.5
+Asian or Pacific Islander,"Colon, rectum, and anus",2015,9.8
+Asian or Pacific Islander,"Colon, rectum, and anus",2016,9.3
+Asian or Pacific Islander,"Colon, rectum, and anus",2017,9.3
+Asian or Pacific Islander,Chronic lower respiratory diseases,2000,18.6
+Asian or Pacific Islander,Chronic lower respiratory diseases,2001,17.9
+Asian or Pacific Islander,Chronic lower respiratory diseases,2002,16.3
+Asian or Pacific Islander,Chronic lower respiratory diseases,2003,16.8
+Asian or Pacific Islander,Chronic lower respiratory diseases,2004,15.5
+Asian or Pacific Islander,Chronic lower respiratory diseases,2005,15.9
+Asian or Pacific Islander,Chronic lower respiratory diseases,2006,15.4
+Asian or Pacific Islander,Chronic lower respiratory diseases,2007,14.3
+Asian or Pacific Islander,Chronic lower respiratory diseases,2008,15.2
+Asian or Pacific Islander,Chronic lower respiratory diseases,2009,14.3
+Asian or Pacific Islander,Chronic lower respiratory diseases,2010,13.9
+Asian or Pacific Islander,Chronic lower respiratory diseases,2011,14.5
+Asian or Pacific Islander,Chronic lower respiratory diseases,2012,12.8
+Asian or Pacific Islander,Chronic lower respiratory diseases,2013,13.6
+Asian or Pacific Islander,Chronic lower respiratory diseases,2014,12.5
+Asian or Pacific Islander,Chronic lower respiratory diseases,2015,12.2
+Asian or Pacific Islander,Chronic lower respiratory diseases,2016,11.7
+Asian or Pacific Islander,Chronic lower respiratory diseases,2017,11.9
+Asian or Pacific Islander,Influenza and pneumonia,2000,19.7
+Asian or Pacific Islander,Influenza and pneumonia,2001,19.3
+Asian or Pacific Islander,Influenza and pneumonia,2002,18.2
+Asian or Pacific Islander,Influenza and pneumonia,2003,18.2
+Asian or Pacific Islander,Influenza and pneumonia,2004,17
+Asian or Pacific Islander,Influenza and pneumonia,2005,16.8
+Asian or Pacific Islander,Influenza and pneumonia,2006,16.1
+Asian or Pacific Islander,Influenza and pneumonia,2007,14.9
+Asian or Pacific Islander,Influenza and pneumonia,2008,15.7
+Asian or Pacific Islander,Influenza and pneumonia,2009,15
+Asian or Pacific Islander,Influenza and pneumonia,2010,14.4
+Asian or Pacific Islander,Influenza and pneumonia,2011,14.2
+Asian or Pacific Islander,Influenza and pneumonia,2012,14
+Asian or Pacific Islander,Influenza and pneumonia,2013,15
+Asian or Pacific Islander,Influenza and pneumonia,2014,12.9
+Asian or Pacific Islander,Influenza and pneumonia,2015,14
+Asian or Pacific Islander,Influenza and pneumonia,2016,12.9
+Asian or Pacific Islander,Influenza and pneumonia,2017,13
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2000,3.5
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2001,3.5
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2002,3.2
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2003,3
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2004,3.2
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2005,3.6
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2006,3.5
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2007,3.3
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2008,3.4
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2009,3.3
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2010,3.2
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2011,3.3
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2012,3.3
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2013,3.3
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2014,3.5
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2015,3.3
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2016,3.4
+Asian or Pacific Islander,Chronic liver disease and cirrhosis,2017,3.7
+Asian or Pacific Islander,Diabetes mellitus,2000,16.4
+Asian or Pacific Islander,Diabetes mellitus,2001,17
+Asian or Pacific Islander,Diabetes mellitus,2002,17.8
+Asian or Pacific Islander,Diabetes mellitus,2003,17.8
+Asian or Pacific Islander,Diabetes mellitus,2004,17.2
+Asian or Pacific Islander,Diabetes mellitus,2005,17.3
+Asian or Pacific Islander,Diabetes mellitus,2006,16.6
+Asian or Pacific Islander,Diabetes mellitus,2007,17
+Asian or Pacific Islander,Diabetes mellitus,2008,16.8
+Asian or Pacific Islander,Diabetes mellitus,2009,16.2
+Asian or Pacific Islander,Diabetes mellitus,2010,15.5
+Asian or Pacific Islander,Diabetes mellitus,2011,15.9
+Asian or Pacific Islander,Diabetes mellitus,2012,15.7
+Asian or Pacific Islander,Diabetes mellitus,2013,15.8
+Asian or Pacific Islander,Diabetes mellitus,2014,15
+Asian or Pacific Islander,Diabetes mellitus,2015,15.7
+Asian or Pacific Islander,Diabetes mellitus,2016,15.5
+Asian or Pacific Islander,Diabetes mellitus,2017,16.4
+Asian or Pacific Islander,Alzheimer's disease,2000,5.5
+Asian or Pacific Islander,Alzheimer's disease,2001,5.4
+Asian or Pacific Islander,Alzheimer's disease,2002,5.9
+Asian or Pacific Islander,Alzheimer's disease,2003,6.8
+Asian or Pacific Islander,Alzheimer's disease,2004,7.9
+Asian or Pacific Islander,Alzheimer's disease,2005,8.5
+Asian or Pacific Islander,Alzheimer's disease,2006,9.4
+Asian or Pacific Islander,Alzheimer's disease,2007,9.1
+Asian or Pacific Islander,Alzheimer's disease,2008,10.1
+Asian or Pacific Islander,Alzheimer's disease,2009,10.9
+Asian or Pacific Islander,Alzheimer's disease,2010,10.9
+Asian or Pacific Islander,Alzheimer's disease,2011,11.1
+Asian or Pacific Islander,Alzheimer's disease,2012,11.7
+Asian or Pacific Islander,Alzheimer's disease,2013,11.1
+Asian or Pacific Islander,Alzheimer's disease,2014,12.1
+Asian or Pacific Islander,Alzheimer's disease,2015,14.7
+Asian or Pacific Islander,Alzheimer's disease,2016,15
+Asian or Pacific Islander,Alzheimer's disease,2017,15.2
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2000,0.6
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2001,0.7
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2002,0.8
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2003,0.7
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2004,0.7
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2005,0.6
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2006,0.6
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2007,0.5
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2008,0.6
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2009,0.4
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2010,0.4
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2011,0.4
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2012,0.4
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2013,0.4
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2014,0.3
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2015,0.4
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2016,0.4
+Asian or Pacific Islander,Human immunodeficiency virus (HIV) disease,2017,0.3
+Asian or Pacific Islander,Unintentional injuries,2000,17.9
+Asian or Pacific Islander,Unintentional injuries,2001,17.3
+Asian or Pacific Islander,Unintentional injuries,2002,18
+Asian or Pacific Islander,Unintentional injuries,2003,18.1
+Asian or Pacific Islander,Unintentional injuries,2004,16.8
+Asian or Pacific Islander,Unintentional injuries,2005,18.1
+Asian or Pacific Islander,Unintentional injuries,2006,17.1
+Asian or Pacific Islander,Unintentional injuries,2007,16.9
+Asian or Pacific Islander,Unintentional injuries,2008,15.3
+Asian or Pacific Islander,Unintentional injuries,2009,14.9
+Asian or Pacific Islander,Unintentional injuries,2010,15
+Asian or Pacific Islander,Unintentional injuries,2011,15.7
+Asian or Pacific Islander,Unintentional injuries,2012,15.1
+Asian or Pacific Islander,Unintentional injuries,2013,15.2
+Asian or Pacific Islander,Unintentional injuries,2014,15.1
+Asian or Pacific Islander,Unintentional injuries,2015,16.1
+Asian or Pacific Islander,Unintentional injuries,2016,16.8
+Asian or Pacific Islander,Unintentional injuries,2017,16.8
+Asian or Pacific Islander,Motor vehicle-related injuries,2000,8.6
+Asian or Pacific Islander,Motor vehicle-related injuries,2001,8
+Asian or Pacific Islander,Motor vehicle-related injuries,2002,8.3
+Asian or Pacific Islander,Motor vehicle-related injuries,2003,8.3
+Asian or Pacific Islander,Motor vehicle-related injuries,2004,7.6
+Asian or Pacific Islander,Motor vehicle-related injuries,2005,7.5
+Asian or Pacific Islander,Motor vehicle-related injuries,2006,7.3
+Asian or Pacific Islander,Motor vehicle-related injuries,2007,6.9
+Asian or Pacific Islander,Motor vehicle-related injuries,2008,6
+Asian or Pacific Islander,Motor vehicle-related injuries,2009,4.9
+Asian or Pacific Islander,Motor vehicle-related injuries,2010,5.1
+Asian or Pacific Islander,Motor vehicle-related injuries,2011,4.8
+Asian or Pacific Islander,Motor vehicle-related injuries,2012,4.6
+Asian or Pacific Islander,Motor vehicle-related injuries,2013,4.8
+Asian or Pacific Islander,Motor vehicle-related injuries,2014,4.6
+Asian or Pacific Islander,Motor vehicle-related injuries,2015,4.9
+Asian or Pacific Islander,Motor vehicle-related injuries,2016,5.2
+Asian or Pacific Islander,Motor vehicle-related injuries,2017,4.7
+Asian or Pacific Islander,Poisoning,2000,0.7
+Asian or Pacific Islander,Poisoning,2001,0.8
+Asian or Pacific Islander,Poisoning,2002,1
+Asian or Pacific Islander,Poisoning,2003,1
+Asian or Pacific Islander,Poisoning,2004,1.1
+Asian or Pacific Islander,Poisoning,2005,1.3
+Asian or Pacific Islander,Poisoning,2006,1.4
+Asian or Pacific Islander,Poisoning,2007,1.4
+Asian or Pacific Islander,Poisoning,2008,1.3
+Asian or Pacific Islander,Poisoning,2009,1.5
+Asian or Pacific Islander,Poisoning,2010,1.4
+Asian or Pacific Islander,Poisoning,2011,1.7
+Asian or Pacific Islander,Poisoning,2012,1.8
+Asian or Pacific Islander,Poisoning,2013,2
+Asian or Pacific Islander,Poisoning,2014,2
+Asian or Pacific Islander,Poisoning,2015,2.4
+Asian or Pacific Islander,Poisoning,2016,2.9
+Asian or Pacific Islander,Poisoning,2017,3.1
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2000,8.4
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2001,9
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2002,8.9
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2003,8.1
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2004,8.6
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2005,8.7
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2006,9.4
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2007,9.2
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2008,8.9
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2009,9.8
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2010,9.6
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2011,7.7
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2012,8
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2013,8.1
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2014,8.2
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2015,8.3
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2016,8.1
+Asian or Pacific Islander,"Nephritis, nephrotic syndrome and nephrosis",2017,8.5
+Asian or Pacific Islander,Suicide,2000,5.5
+Asian or Pacific Islander,Suicide,2001,5.4
+Asian or Pacific Islander,Suicide,2002,5.3
+Asian or Pacific Islander,Suicide,2003,5.6
+Asian or Pacific Islander,Suicide,2004,5.7
+Asian or Pacific Islander,Suicide,2005,5.1
+Asian or Pacific Islander,Suicide,2006,5.4
+Asian or Pacific Islander,Suicide,2007,5.9
+Asian or Pacific Islander,Suicide,2008,5.5
+Asian or Pacific Islander,Suicide,2009,5.9
+Asian or Pacific Islander,Suicide,2010,6.2
+Asian or Pacific Islander,Suicide,2011,5.9
+Asian or Pacific Islander,Suicide,2012,6.3
+Asian or Pacific Islander,Suicide,2013,5.9
+Asian or Pacific Islander,Suicide,2014,6
+Asian or Pacific Islander,Suicide,2015,6.4
+Asian or Pacific Islander,Suicide,2016,6.7
+Asian or Pacific Islander,Suicide,2017,6.6
+Asian or Pacific Islander,Homicide,2000,3
+Asian or Pacific Islander,Homicide,2001,4.1
+Asian or Pacific Islander,Homicide,2002,2.9
+Asian or Pacific Islander,Homicide,2003,2.8
+Asian or Pacific Islander,Homicide,2004,2.4
+Asian or Pacific Islander,Homicide,2005,2.8
+Asian or Pacific Islander,Homicide,2006,2.7
+Asian or Pacific Islander,Homicide,2007,2.2
+Asian or Pacific Islander,Homicide,2008,2.1
+Asian or Pacific Islander,Homicide,2009,2
+Asian or Pacific Islander,Homicide,2010,1.8
+Asian or Pacific Islander,Homicide,2011,2
+Asian or Pacific Islander,Homicide,2012,1.9
+Asian or Pacific Islander,Homicide,2013,1.5
+Asian or Pacific Islander,Homicide,2014,1.5
+Asian or Pacific Islander,Homicide,2015,1.6
+Asian or Pacific Islander,Homicide,2016,1.8
+Asian or Pacific Islander,Homicide,2017,1.7
+Hispanic or Latino,All causes,2000,665.7
+Hispanic or Latino,All causes,2001,662.6
+Hispanic or Latino,All causes,2002,652.2
+Hispanic or Latino,All causes,2003,645.3
+Hispanic or Latino,All causes,2004,616.8
+Hispanic or Latino,All causes,2005,627.6
+Hispanic or Latino,All causes,2006,604
+Hispanic or Latino,All causes,2007,586.1
+Hispanic or Latino,All causes,2008,579.8
+Hispanic or Latino,All causes,2009,559.7
+Hispanic or Latino,All causes,2010,558.6
+Hispanic or Latino,All causes,2011,540.7
+Hispanic or Latino,All causes,2012,539.1
+Hispanic or Latino,All causes,2013,535.4
+Hispanic or Latino,All causes,2014,523.3
+Hispanic or Latino,All causes,2015,525.3
+Hispanic or Latino,All causes,2016,525.8
+Hispanic or Latino,All causes,2017,524.7
+Hispanic or Latino,Diseases of heart,2000,196
+Hispanic or Latino,Diseases of heart,2001,193.7
+Hispanic or Latino,Diseases of heart,2002,188.8
+Hispanic or Latino,Diseases of heart,2003,182.1
+Hispanic or Latino,Diseases of heart,2004,169.1
+Hispanic or Latino,Diseases of heart,2005,170.4
+Hispanic or Latino,Diseases of heart,2006,157.8
+Hispanic or Latino,Diseases of heart,2007,149.5
+Hispanic or Latino,Diseases of heart,2008,141.4
+Hispanic or Latino,Diseases of heart,2009,135.8
+Hispanic or Latino,Diseases of heart,2010,132.8
+Hispanic or Latino,Diseases of heart,2011,123.9
+Hispanic or Latino,Diseases of heart,2012,122
+Hispanic or Latino,Diseases of heart,2013,121.2
+Hispanic or Latino,Diseases of heart,2014,116
+Hispanic or Latino,Diseases of heart,2015,116.9
+Hispanic or Latino,Diseases of heart,2016,115.8
+Hispanic or Latino,Diseases of heart,2017,114.1
+Hispanic or Latino,Ischemic heart disease,2000,153.2
+Hispanic or Latino,Ischemic heart disease,2001,151.1
+Hispanic or Latino,Ischemic heart disease,2002,144.7
+Hispanic or Latino,Ischemic heart disease,2003,136.8
+Hispanic or Latino,Ischemic heart disease,2004,127.4
+Hispanic or Latino,Ischemic heart disease,2005,127.9
+Hispanic or Latino,Ischemic heart disease,2006,116.4
+Hispanic or Latino,Ischemic heart disease,2007,107.5
+Hispanic or Latino,Ischemic heart disease,2008,100.8
+Hispanic or Latino,Ischemic heart disease,2009,94.7
+Hispanic or Latino,Ischemic heart disease,2010,92.3
+Hispanic or Latino,Ischemic heart disease,2011,84.2
+Hispanic or Latino,Ischemic heart disease,2012,81.1
+Hispanic or Latino,Ischemic heart disease,2013,80.3
+Hispanic or Latino,Ischemic heart disease,2014,75.3
+Hispanic or Latino,Ischemic heart disease,2015,74.5
+Hispanic or Latino,Ischemic heart disease,2016,72.7
+Hispanic or Latino,Ischemic heart disease,2017,70.7
+Hispanic or Latino,Cerebrovascular diseases,2000,46.4
+Hispanic or Latino,Cerebrovascular diseases,2001,45.3
+Hispanic or Latino,Cerebrovascular diseases,2002,43.2
+Hispanic or Latino,Cerebrovascular diseases,2003,42.5
+Hispanic or Latino,Cerebrovascular diseases,2004,40.8
+Hispanic or Latino,Cerebrovascular diseases,2005,38.6
+Hispanic or Latino,Cerebrovascular diseases,2006,37.2
+Hispanic or Latino,Cerebrovascular diseases,2007,35.8
+Hispanic or Latino,Cerebrovascular diseases,2008,34.4
+Hispanic or Latino,Cerebrovascular diseases,2009,32.2
+Hispanic or Latino,Cerebrovascular diseases,2010,32.1
+Hispanic or Latino,Cerebrovascular diseases,2011,30.7
+Hispanic or Latino,Cerebrovascular diseases,2012,30
+Hispanic or Latino,Cerebrovascular diseases,2013,29.6
+Hispanic or Latino,Cerebrovascular diseases,2014,30.2
+Hispanic or Latino,Cerebrovascular diseases,2015,32.3
+Hispanic or Latino,Cerebrovascular diseases,2016,32.1
+Hispanic or Latino,Cerebrovascular diseases,2017,31.8
+Hispanic or Latino,Malignant neoplasms,2000,134.9
+Hispanic or Latino,Malignant neoplasms,2001,133.1
+Hispanic or Latino,Malignant neoplasms,2002,131.9
+Hispanic or Latino,Malignant neoplasms,2003,130
+Hispanic or Latino,Malignant neoplasms,2004,126.1
+Hispanic or Latino,Malignant neoplasms,2005,127.9
+Hispanic or Latino,Malignant neoplasms,2006,123.7
+Hispanic or Latino,Malignant neoplasms,2007,121.8
+Hispanic or Latino,Malignant neoplasms,2008,121
+Hispanic or Latino,Malignant neoplasms,2009,119.7
+Hispanic or Latino,Malignant neoplasms,2010,119.7
+Hispanic or Latino,Malignant neoplasms,2011,117
+Hispanic or Latino,Malignant neoplasms,2012,116.9
+Hispanic or Latino,Malignant neoplasms,2013,114.5
+Hispanic or Latino,Malignant neoplasms,2014,112.4
+Hispanic or Latino,Malignant neoplasms,2015,110.3
+Hispanic or Latino,Malignant neoplasms,2016,110
+Hispanic or Latino,Malignant neoplasms,2017,108.1
+Hispanic or Latino,"Trachea, bronchus, and lung",2000,24.8
+Hispanic or Latino,"Trachea, bronchus, and lung",2001,24
+Hispanic or Latino,"Trachea, bronchus, and lung",2002,24.2
+Hispanic or Latino,"Trachea, bronchus, and lung",2003,23.7
+Hispanic or Latino,"Trachea, bronchus, and lung",2004,23.2
+Hispanic or Latino,"Trachea, bronchus, and lung",2005,23.3
+Hispanic or Latino,"Trachea, bronchus, and lung",2006,21.6
+Hispanic or Latino,"Trachea, bronchus, and lung",2007,21.9
+Hispanic or Latino,"Trachea, bronchus, and lung",2008,21.6
+Hispanic or Latino,"Trachea, bronchus, and lung",2009,20.4
+Hispanic or Latino,"Trachea, bronchus, and lung",2010,20.4
+Hispanic or Latino,"Trachea, bronchus, and lung",2011,19.8
+Hispanic or Latino,"Trachea, bronchus, and lung",2012,19.2
+Hispanic or Latino,"Trachea, bronchus, and lung",2013,18.7
+Hispanic or Latino,"Trachea, bronchus, and lung",2014,18.3
+Hispanic or Latino,"Trachea, bronchus, and lung",2015,17.8
+Hispanic or Latino,"Trachea, bronchus, and lung",2016,16.6
+Hispanic or Latino,"Trachea, bronchus, and lung",2017,15.6
+Hispanic or Latino,"Colon, rectum, and anus",2000,14.1
+Hispanic or Latino,"Colon, rectum, and anus",2001,14.2
+Hispanic or Latino,"Colon, rectum, and anus",2002,14.1
+Hispanic or Latino,"Colon, rectum, and anus",2003,13.8
+Hispanic or Latino,"Colon, rectum, and anus",2004,13.1
+Hispanic or Latino,"Colon, rectum, and anus",2005,13.1
+Hispanic or Latino,"Colon, rectum, and anus",2006,13.4
+Hispanic or Latino,"Colon, rectum, and anus",2007,12.8
+Hispanic or Latino,"Colon, rectum, and anus",2008,12.7
+Hispanic or Latino,"Colon, rectum, and anus",2009,12.7
+Hispanic or Latino,"Colon, rectum, and anus",2010,12.3
+Hispanic or Latino,"Colon, rectum, and anus",2011,11.9
+Hispanic or Latino,"Colon, rectum, and anus",2012,11.7
+Hispanic or Latino,"Colon, rectum, and anus",2013,11.7
+Hispanic or Latino,"Colon, rectum, and anus",2014,11.1
+Hispanic or Latino,"Colon, rectum, and anus",2015,10.9
+Hispanic or Latino,"Colon, rectum, and anus",2016,10.8
+Hispanic or Latino,"Colon, rectum, and anus",2017,10.9
+Hispanic or Latino,Chronic lower respiratory diseases,2000,21.1
+Hispanic or Latino,Chronic lower respiratory diseases,2001,20.9
+Hispanic or Latino,Chronic lower respiratory diseases,2002,21.5
+Hispanic or Latino,Chronic lower respiratory diseases,2003,21.3
+Hispanic or Latino,Chronic lower respiratory diseases,2004,19.7
+Hispanic or Latino,Chronic lower respiratory diseases,2005,20.9
+Hispanic or Latino,Chronic lower respiratory diseases,2006,19
+Hispanic or Latino,Chronic lower respiratory diseases,2007,19.3
+Hispanic or Latino,Chronic lower respiratory diseases,2008,20.5
+Hispanic or Latino,Chronic lower respiratory diseases,2009,19.8
+Hispanic or Latino,Chronic lower respiratory diseases,2010,19.6
+Hispanic or Latino,Chronic lower respiratory diseases,2011,19.1
+Hispanic or Latino,Chronic lower respiratory diseases,2012,18.5
+Hispanic or Latino,Chronic lower respiratory diseases,2013,18.7
+Hispanic or Latino,Chronic lower respiratory diseases,2014,17.5
+Hispanic or Latino,Chronic lower respiratory diseases,2015,17.7
+Hispanic or Latino,Chronic lower respiratory diseases,2016,17.1
+Hispanic or Latino,Chronic lower respiratory diseases,2017,17.2
+Hispanic or Latino,Influenza and pneumonia,2000,20.6
+Hispanic or Latino,Influenza and pneumonia,2001,20.7
+Hispanic or Latino,Influenza and pneumonia,2002,20.3
+Hispanic or Latino,Influenza and pneumonia,2003,19.5
+Hispanic or Latino,Influenza and pneumonia,2004,18.6
+Hispanic or Latino,Influenza and pneumonia,2005,18.5
+Hispanic or Latino,Influenza and pneumonia,2006,16.7
+Hispanic or Latino,Influenza and pneumonia,2007,14.7
+Hispanic or Latino,Influenza and pneumonia,2008,15.9
+Hispanic or Latino,Influenza and pneumonia,2009,15.6
+Hispanic or Latino,Influenza and pneumonia,2010,13.7
+Hispanic or Latino,Influenza and pneumonia,2011,13.6
+Hispanic or Latino,Influenza and pneumonia,2012,12
+Hispanic or Latino,Influenza and pneumonia,2013,13.2
+Hispanic or Latino,Influenza and pneumonia,2014,12.8
+Hispanic or Latino,Influenza and pneumonia,2015,11.4
+Hispanic or Latino,Influenza and pneumonia,2016,11.1
+Hispanic or Latino,Influenza and pneumonia,2017,11.3
+Hispanic or Latino,Chronic liver disease and cirrhosis,2000,16.5
+Hispanic or Latino,Chronic liver disease and cirrhosis,2001,15.9
+Hispanic or Latino,Chronic liver disease and cirrhosis,2002,15.7
+Hispanic or Latino,Chronic liver disease and cirrhosis,2003,14.9
+Hispanic or Latino,Chronic liver disease and cirrhosis,2004,14.1
+Hispanic or Latino,Chronic liver disease and cirrhosis,2005,14.1
+Hispanic or Latino,Chronic liver disease and cirrhosis,2006,13.6
+Hispanic or Latino,Chronic liver disease and cirrhosis,2007,14
+Hispanic or Latino,Chronic liver disease and cirrhosis,2008,14
+Hispanic or Latino,Chronic liver disease and cirrhosis,2009,14
+Hispanic or Latino,Chronic liver disease and cirrhosis,2010,13.7
+Hispanic or Latino,Chronic liver disease and cirrhosis,2011,14.1
+Hispanic or Latino,Chronic liver disease and cirrhosis,2012,14.1
+Hispanic or Latino,Chronic liver disease and cirrhosis,2013,14
+Hispanic or Latino,Chronic liver disease and cirrhosis,2014,14.5
+Hispanic or Latino,Chronic liver disease and cirrhosis,2015,14.9
+Hispanic or Latino,Chronic liver disease and cirrhosis,2016,14.7
+Hispanic or Latino,Chronic liver disease and cirrhosis,2017,14.3
+Hispanic or Latino,Diabetes mellitus,2000,36.9
+Hispanic or Latino,Diabetes mellitus,2001,37
+Hispanic or Latino,Diabetes mellitus,2002,36.7
+Hispanic or Latino,Diabetes mellitus,2003,36.2
+Hispanic or Latino,Diabetes mellitus,2004,33.5
+Hispanic or Latino,Diabetes mellitus,2005,35.4
+Hispanic or Latino,Diabetes mellitus,2006,31.7
+Hispanic or Latino,Diabetes mellitus,2007,30.6
+Hispanic or Latino,Diabetes mellitus,2008,29.8
+Hispanic or Latino,Diabetes mellitus,2009,27
+Hispanic or Latino,Diabetes mellitus,2010,27.1
+Hispanic or Latino,Diabetes mellitus,2011,27.2
+Hispanic or Latino,Diabetes mellitus,2012,26.9
+Hispanic or Latino,Diabetes mellitus,2013,26.3
+Hispanic or Latino,Diabetes mellitus,2014,25.1
+Hispanic or Latino,Diabetes mellitus,2015,25.2
+Hispanic or Latino,Diabetes mellitus,2016,24.7
+Hispanic or Latino,Diabetes mellitus,2017,25.5
+Hispanic or Latino,Alzheimer's disease,2000,10.4
+Hispanic or Latino,Alzheimer's disease,2001,10.8
+Hispanic or Latino,Alzheimer's disease,2002,12.4
+Hispanic or Latino,Alzheimer's disease,2003,14.5
+Hispanic or Latino,Alzheimer's disease,2004,14.4
+Hispanic or Latino,Alzheimer's disease,2005,15.6
+Hispanic or Latino,Alzheimer's disease,2006,16.1
+Hispanic or Latino,Alzheimer's disease,2007,15.6
+Hispanic or Latino,Alzheimer's disease,2008,18
+Hispanic or Latino,Alzheimer's disease,2009,16.9
+Hispanic or Latino,Alzheimer's disease,2010,18.5
+Hispanic or Latino,Alzheimer's disease,2011,17.7
+Hispanic or Latino,Alzheimer's disease,2012,17.4
+Hispanic or Latino,Alzheimer's disease,2013,17.7
+Hispanic or Latino,Alzheimer's disease,2014,19.8
+Hispanic or Latino,Alzheimer's disease,2015,24.2
+Hispanic or Latino,Alzheimer's disease,2016,24.3
+Hispanic or Latino,Alzheimer's disease,2017,24.7
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2000,6.7
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2001,6.2
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2002,6
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2003,6
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2004,5.3
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2005,4.8
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2006,4.5
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2007,4.1
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2008,3.6
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2009,3.2
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2010,2.8
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2011,2.7
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2012,2.2
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2013,2.1
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2014,2
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2015,1.8
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2016,1.7
+Hispanic or Latino,Human immunodeficiency virus (HIV) disease,2017,1.7
+Hispanic or Latino,Unintentional injuries,2000,30.1
+Hispanic or Latino,Unintentional injuries,2001,30.7
+Hispanic or Latino,Unintentional injuries,2002,31.2
+Hispanic or Latino,Unintentional injuries,2003,30.9
+Hispanic or Latino,Unintentional injuries,2004,30.2
+Hispanic or Latino,Unintentional injuries,2005,31.8
+Hispanic or Latino,Unintentional injuries,2006,32
+Hispanic or Latino,Unintentional injuries,2007,30.5
+Hispanic or Latino,Unintentional injuries,2008,28.4
+Hispanic or Latino,Unintentional injuries,2009,26.3
+Hispanic or Latino,Unintentional injuries,2010,25.8
+Hispanic or Latino,Unintentional injuries,2011,26.3
+Hispanic or Latino,Unintentional injuries,2012,26.5
+Hispanic or Latino,Unintentional injuries,2013,26.9
+Hispanic or Latino,Unintentional injuries,2014,26.8
+Hispanic or Latino,Unintentional injuries,2015,28.6
+Hispanic or Latino,Unintentional injuries,2016,31.4
+Hispanic or Latino,Unintentional injuries,2017,32.5
+Hispanic or Latino,Motor vehicle-related injuries,2000,14.7
+Hispanic or Latino,Motor vehicle-related injuries,2001,15
+Hispanic or Latino,Motor vehicle-related injuries,2002,15.3
+Hispanic or Latino,Motor vehicle-related injuries,2003,15.1
+Hispanic or Latino,Motor vehicle-related injuries,2004,14.4
+Hispanic or Latino,Motor vehicle-related injuries,2005,14.6
+Hispanic or Latino,Motor vehicle-related injuries,2006,14.6
+Hispanic or Latino,Motor vehicle-related injuries,2007,13.1
+Hispanic or Latino,Motor vehicle-related injuries,2008,11.2
+Hispanic or Latino,Motor vehicle-related injuries,2009,10.1
+Hispanic or Latino,Motor vehicle-related injuries,2010,9.6
+Hispanic or Latino,Motor vehicle-related injuries,2011,9.3
+Hispanic or Latino,Motor vehicle-related injuries,2012,9.6
+Hispanic or Latino,Motor vehicle-related injuries,2013,9.7
+Hispanic or Latino,Motor vehicle-related injuries,2014,9.6
+Hispanic or Latino,Motor vehicle-related injuries,2015,10.2
+Hispanic or Latino,Motor vehicle-related injuries,2016,11
+Hispanic or Latino,Motor vehicle-related injuries,2017,10.8
+Hispanic or Latino,Poisoning,2000,4.1
+Hispanic or Latino,Poisoning,2001,3.9
+Hispanic or Latino,Poisoning,2002,4.8
+Hispanic or Latino,Poisoning,2003,5
+Hispanic or Latino,Poisoning,2004,4.7
+Hispanic or Latino,Poisoning,2005,5.2
+Hispanic or Latino,Poisoning,2006,5.7
+Hispanic or Latino,Poisoning,2007,5.8
+Hispanic or Latino,Poisoning,2008,5.9
+Hispanic or Latino,Poisoning,2009,5.8
+Hispanic or Latino,Poisoning,2010,5.6
+Hispanic or Latino,Poisoning,2011,6.2
+Hispanic or Latino,Poisoning,2012,6.2
+Hispanic or Latino,Poisoning,2013,6.7
+Hispanic or Latino,Poisoning,2014,6.8
+Hispanic or Latino,Poisoning,2015,7.7
+Hispanic or Latino,Poisoning,2016,9.5
+Hispanic or Latino,Poisoning,2017,10.7
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2000,11.8
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2001,12.5
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2002,12
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2003,13.1
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2004,12.5
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2005,12.8
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2006,13.5
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2007,13.3
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2008,13.6
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2009,13.8
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2010,14.1
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2011,11.2
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2012,11.3
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2013,11.1
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2014,11.1
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2015,11.4
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2016,11.4
+Hispanic or Latino,"Nephritis, nephrotic syndrome and nephrosis",2017,11.3
+Hispanic or Latino,Suicide,2000,5.9
+Hispanic or Latino,Suicide,2001,5.7
+Hispanic or Latino,Suicide,2002,5.8
+Hispanic or Latino,Suicide,2003,5.6
+Hispanic or Latino,Suicide,2004,5.9
+Hispanic or Latino,Suicide,2005,5.6
+Hispanic or Latino,Suicide,2006,5.3
+Hispanic or Latino,Suicide,2007,6
+Hispanic or Latino,Suicide,2008,5.5
+Hispanic or Latino,Suicide,2009,5.8
+Hispanic or Latino,Suicide,2010,5.9
+Hispanic or Latino,Suicide,2011,5.7
+Hispanic or Latino,Suicide,2012,5.8
+Hispanic or Latino,Suicide,2013,5.7
+Hispanic or Latino,Suicide,2014,6.3
+Hispanic or Latino,Suicide,2015,6.2
+Hispanic or Latino,Suicide,2016,6.7
+Hispanic or Latino,Suicide,2017,6.9
+Hispanic or Latino,Homicide,2000,7.5
+Hispanic or Latino,Homicide,2001,8.2
+Hispanic or Latino,Homicide,2002,7.3
+Hispanic or Latino,Homicide,2003,7.6
+Hispanic or Latino,Homicide,2004,7.1
+Hispanic or Latino,Homicide,2005,7.4
+Hispanic or Latino,Homicide,2006,7.2
+Hispanic or Latino,Homicide,2007,6.8
+Hispanic or Latino,Homicide,2008,6.4
+Hispanic or Latino,Homicide,2009,6
+Hispanic or Latino,Homicide,2010,5.3
+Hispanic or Latino,Homicide,2011,5
+Hispanic or Latino,Homicide,2012,4.9
+Hispanic or Latino,Homicide,2013,4.5
+Hispanic or Latino,Homicide,2014,4.5
+Hispanic or Latino,Homicide,2015,4.9
+Hispanic or Latino,Homicide,2016,5.3
+Hispanic or Latino,Homicide,2017,5.2
+"White, not Hispanic or Latino",All causes,2000,855.5
+"White, not Hispanic or Latino",All causes,2001,847.1
+"White, not Hispanic or Latino",All causes,2002,846.4
+"White, not Hispanic or Latino",All causes,2003,834.9
+"White, not Hispanic or Latino",All causes,2004,807.6
+"White, not Hispanic or Latino",All causes,2005,810.1
+"White, not Hispanic or Latino",All causes,2006,789.1
+"White, not Hispanic or Latino",All causes,2007,775.3
+"White, not Hispanic or Latino",All causes,2008,779.4
+"White, not Hispanic or Latino",All causes,2009,755.1
+"White, not Hispanic or Latino",All causes,2010,755
+"White, not Hispanic or Latino",All causes,2011,754.3
+"White, not Hispanic or Latino",All causes,2012,745.8
+"White, not Hispanic or Latino",All causes,2013,747.1
+"White, not Hispanic or Latino",All causes,2014,742.8
+"White, not Hispanic or Latino",All causes,2015,753.2
+"White, not Hispanic or Latino",All causes,2016,749
+"White, not Hispanic or Latino",All causes,2017,755
+"White, not Hispanic or Latino",Diseases of heart,2000,255.5
+"White, not Hispanic or Latino",Diseases of heart,2001,247.2
+"White, not Hispanic or Latino",Diseases of heart,2002,242.5
+"White, not Hispanic or Latino",Diseases of heart,2003,234.2
+"White, not Hispanic or Latino",Diseases of heart,2004,220.1
+"White, not Hispanic or Latino",Diseases of heart,2005,215.5
+"White, not Hispanic or Latino",Diseases of heart,2006,204.5
+"White, not Hispanic or Latino",Diseases of heart,2007,195.5
+"White, not Hispanic or Latino",Diseases of heart,2008,192.4
+"White, not Hispanic or Latino",Diseases of heart,2009,182.9
+"White, not Hispanic or Latino",Diseases of heart,2010,179.9
+"White, not Hispanic or Latino",Diseases of heart,2011,175.6
+"White, not Hispanic or Latino",Diseases of heart,2012,172.3
+"White, not Hispanic or Latino",Diseases of heart,2013,171.8
+"White, not Hispanic or Latino",Diseases of heart,2014,169.9
+"White, not Hispanic or Latino",Diseases of heart,2015,171.9
+"White, not Hispanic or Latino",Diseases of heart,2016,168.7
+"White, not Hispanic or Latino",Diseases of heart,2017,168.9
+"White, not Hispanic or Latino",Ischemic heart disease,2000,186.6
+"White, not Hispanic or Latino",Ischemic heart disease,2001,178.5
+"White, not Hispanic or Latino",Ischemic heart disease,2002,173.2
+"White, not Hispanic or Latino",Ischemic heart disease,2003,165.5
+"White, not Hispanic or Latino",Ischemic heart disease,2004,153.3
+"White, not Hispanic or Latino",Ischemic heart disease,2005,148.3
+"White, not Hispanic or Latino",Ischemic heart disease,2006,138.6
+"White, not Hispanic or Latino",Ischemic heart disease,2007,129.9
+"White, not Hispanic or Latino",Ischemic heart disease,2008,127.4
+"White, not Hispanic or Latino",Ischemic heart disease,2009,118.9
+"White, not Hispanic or Latino",Ischemic heart disease,2010,115
+"White, not Hispanic or Latino",Ischemic heart disease,2011,111.1
+"White, not Hispanic or Latino",Ischemic heart disease,2012,107.4
+"White, not Hispanic or Latino",Ischemic heart disease,2013,104.6
+"White, not Hispanic or Latino",Ischemic heart disease,2014,101.2
+"White, not Hispanic or Latino",Ischemic heart disease,2015,99.7
+"White, not Hispanic or Latino",Ischemic heart disease,2016,96.6
+"White, not Hispanic or Latino",Ischemic heart disease,2017,95.5
+"White, not Hispanic or Latino",Cerebrovascular diseases,2000,59
+"White, not Hispanic or Latino",Cerebrovascular diseases,2001,56.4
+"White, not Hispanic or Latino",Cerebrovascular diseases,2002,55.5
+"White, not Hispanic or Latino",Cerebrovascular diseases,2003,52.6
+"White, not Hispanic or Latino",Cerebrovascular diseases,2004,49.3
+"White, not Hispanic or Latino",Cerebrovascular diseases,2005,46.2
+"White, not Hispanic or Latino",Cerebrovascular diseases,2006,42.9
+"White, not Hispanic or Latino",Cerebrovascular diseases,2007,41.7
+"White, not Hispanic or Latino",Cerebrovascular diseases,2008,40.5
+"White, not Hispanic or Latino",Cerebrovascular diseases,2009,38.3
+"White, not Hispanic or Latino",Cerebrovascular diseases,2010,37.8
+"White, not Hispanic or Latino",Cerebrovascular diseases,2011,36.7
+"White, not Hispanic or Latino",Cerebrovascular diseases,2012,35.8
+"White, not Hispanic or Latino",Cerebrovascular diseases,2013,35
+"White, not Hispanic or Latino",Cerebrovascular diseases,2014,35.4
+"White, not Hispanic or Latino",Cerebrovascular diseases,2015,36.4
+"White, not Hispanic or Latino",Cerebrovascular diseases,2016,36.1
+"White, not Hispanic or Latino",Cerebrovascular diseases,2017,36.4
+"White, not Hispanic or Latino",Malignant neoplasms,2000,200.6
+"White, not Hispanic or Latino",Malignant neoplasms,2001,197.8
+"White, not Hispanic or Latino",Malignant neoplasms,2002,196.1
+"White, not Hispanic or Latino",Malignant neoplasms,2003,192.9
+"White, not Hispanic or Latino",Malignant neoplasms,2004,189.2
+"White, not Hispanic or Latino",Malignant neoplasms,2005,187.8
+"White, not Hispanic or Latino",Malignant neoplasms,2006,185.1
+"White, not Hispanic or Latino",Malignant neoplasms,2007,182.6
+"White, not Hispanic or Latino",Malignant neoplasms,2008,179.9
+"White, not Hispanic or Latino",Malignant neoplasms,2009,177.4
+"White, not Hispanic or Latino",Malignant neoplasms,2010,176.5
+"White, not Hispanic or Latino",Malignant neoplasms,2011,173
+"White, not Hispanic or Latino",Malignant neoplasms,2012,170.6
+"White, not Hispanic or Latino",Malignant neoplasms,2013,167.7
+"White, not Hispanic or Latino",Malignant neoplasms,2014,166.2
+"White, not Hispanic or Latino",Malignant neoplasms,2015,163.7
+"White, not Hispanic or Latino",Malignant neoplasms,2016,160.8
+"White, not Hispanic or Latino",Malignant neoplasms,2017,157.9
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2000,58.2
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2001,57.7
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2002,57.4
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2003,56.7
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2004,55.9
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2005,55.5
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2006,54.5
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2007,53.7
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2008,52.6
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2009,51.6
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2010,50.8
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2011,49.2
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2012,48
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2013,46.6
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2014,45.4
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2015,43.8
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2016,41.6
+"White, not Hispanic or Latino","Trachea, bronchus, and lung",2017,39.9
+"White, not Hispanic or Latino","Colon, rectum, and anus",2000,20.5
+"White, not Hispanic or Latino","Colon, rectum, and anus",2001,20
+"White, not Hispanic or Latino","Colon, rectum, and anus",2002,19.6
+"White, not Hispanic or Latino","Colon, rectum, and anus",2003,18.9
+"White, not Hispanic or Latino","Colon, rectum, and anus",2004,18
+"White, not Hispanic or Latino","Colon, rectum, and anus",2005,17.4
+"White, not Hispanic or Latino","Colon, rectum, and anus",2006,17.1
+"White, not Hispanic or Latino","Colon, rectum, and anus",2007,16.9
+"White, not Hispanic or Latino","Colon, rectum, and anus",2008,16.4
+"White, not Hispanic or Latino","Colon, rectum, and anus",2009,15.8
+"White, not Hispanic or Latino","Colon, rectum, and anus",2010,15.5
+"White, not Hispanic or Latino","Colon, rectum, and anus",2011,15
+"White, not Hispanic or Latino","Colon, rectum, and anus",2012,14.7
+"White, not Hispanic or Latino","Colon, rectum, and anus",2013,14.5
+"White, not Hispanic or Latino","Colon, rectum, and anus",2014,14.3
+"White, not Hispanic or Latino","Colon, rectum, and anus",2015,14.1
+"White, not Hispanic or Latino","Colon, rectum, and anus",2016,13.9
+"White, not Hispanic or Latino","Colon, rectum, and anus",2017,13.7
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2000,47.2
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2001,47.1
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2002,47.2
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2003,47.2
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2004,45.2
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2005,47.7
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2006,44.8
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2007,45.3
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2008,49.1
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2009,47.1
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2010,46.6
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2011,47.2
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2012,46.3
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2013,47
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2014,45.4
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2015,46.9
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2016,45.8
+"White, not Hispanic or Latino",Chronic lower respiratory diseases,2017,46.4
+"White, not Hispanic or Latino",Influenza and pneumonia,2000,23.5
+"White, not Hispanic or Latino",Influenza and pneumonia,2001,21.9
+"White, not Hispanic or Latino",Influenza and pneumonia,2002,23.1
+"White, not Hispanic or Latino",Influenza and pneumonia,2003,22.5
+"White, not Hispanic or Latino",Influenza and pneumonia,2004,20.1
+"White, not Hispanic or Latino",Influenza and pneumonia,2005,21
+"White, not Hispanic or Latino",Influenza and pneumonia,2006,18.3
+"White, not Hispanic or Latino",Influenza and pneumonia,2007,16.7
+"White, not Hispanic or Latino",Influenza and pneumonia,2008,17.4
+"White, not Hispanic or Latino",Influenza and pneumonia,2009,16.2
+"White, not Hispanic or Latino",Influenza and pneumonia,2010,14.9
+"White, not Hispanic or Latino",Influenza and pneumonia,2011,15.7
+"White, not Hispanic or Latino",Influenza and pneumonia,2012,14.4
+"White, not Hispanic or Latino",Influenza and pneumonia,2013,15.9
+"White, not Hispanic or Latino",Influenza and pneumonia,2014,15.1
+"White, not Hispanic or Latino",Influenza and pneumonia,2015,15.4
+"White, not Hispanic or Latino",Influenza and pneumonia,2016,13.5
+"White, not Hispanic or Latino",Influenza and pneumonia,2017,14.4
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2000,9
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2001,9
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2002,9
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2003,9
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2004,8.7
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2005,8.7
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2006,8.6
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2007,8.9
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2008,9.1
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2009,9.1
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2010,9.4
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2011,9.7
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2012,10
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2013,10.3
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2014,10.6
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2015,11.1
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2016,11
+"White, not Hispanic or Latino",Chronic liver disease and cirrhosis,2017,11.3
+"White, not Hispanic or Latino",Diabetes mellitus,2000,21.8
+"White, not Hispanic or Latino",Diabetes mellitus,2001,22.1
+"White, not Hispanic or Latino",Diabetes mellitus,2002,22.3
+"White, not Hispanic or Latino",Diabetes mellitus,2003,22.2
+"White, not Hispanic or Latino",Diabetes mellitus,2004,21.6
+"White, not Hispanic or Latino",Diabetes mellitus,2005,21.8
+"White, not Hispanic or Latino",Diabetes mellitus,2006,20.6
+"White, not Hispanic or Latino",Diabetes mellitus,2007,19.9
+"White, not Hispanic or Latino",Diabetes mellitus,2008,19.3
+"White, not Hispanic or Latino",Diabetes mellitus,2009,18.5
+"White, not Hispanic or Latino",Diabetes mellitus,2010,18.2
+"White, not Hispanic or Latino",Diabetes mellitus,2011,19.1
+"White, not Hispanic or Latino",Diabetes mellitus,2012,18.5
+"White, not Hispanic or Latino",Diabetes mellitus,2013,18.6
+"White, not Hispanic or Latino",Diabetes mellitus,2014,18.6
+"White, not Hispanic or Latino",Diabetes mellitus,2015,18.9
+"White, not Hispanic or Latino",Diabetes mellitus,2016,18.6
+"White, not Hispanic or Latino",Diabetes mellitus,2017,18.8
+"White, not Hispanic or Latino",Alzheimer's disease,2000,19.1
+"White, not Hispanic or Latino",Alzheimer's disease,2001,20.4
+"White, not Hispanic or Latino",Alzheimer's disease,2002,22
+"White, not Hispanic or Latino",Alzheimer's disease,2003,23.2
+"White, not Hispanic or Latino",Alzheimer's disease,2004,23.7
+"White, not Hispanic or Latino",Alzheimer's disease,2005,25.1
+"White, not Hispanic or Latino",Alzheimer's disease,2006,24.9
+"White, not Hispanic or Latino",Alzheimer's disease,2007,25.1
+"White, not Hispanic or Latino",Alzheimer's disease,2008,27.2
+"White, not Hispanic or Latino",Alzheimer's disease,2009,25.4
+"White, not Hispanic or Latino",Alzheimer's disease,2010,26.4
+"White, not Hispanic or Latino",Alzheimer's disease,2011,26.1
+"White, not Hispanic or Latino",Alzheimer's disease,2012,25.1
+"White, not Hispanic or Latino",Alzheimer's disease,2013,24.8
+"White, not Hispanic or Latino",Alzheimer's disease,2014,26.8
+"White, not Hispanic or Latino",Alzheimer's disease,2015,30.8
+"White, not Hispanic or Latino",Alzheimer's disease,2016,31.8
+"White, not Hispanic or Latino",Alzheimer's disease,2017,32.8
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2000,2.2
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2001,2.1
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2002,2.1
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2003,2
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2004,1.9
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2005,1.8
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2006,1.7
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2007,1.5
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2008,1.4
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2009,1.2
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2010,1.1
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2011,1
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2012,1
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2013,0.9
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2014,0.9
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2015,0.9
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2016,0.8
+"White, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2017,0.7
+"White, not Hispanic or Latino",Unintentional injuries,2000,35.3
+"White, not Hispanic or Latino",Unintentional injuries,2001,36.3
+"White, not Hispanic or Latino",Unintentional injuries,2002,38.2
+"White, not Hispanic or Latino",Unintentional injuries,2003,39.1
+"White, not Hispanic or Latino",Unintentional injuries,2004,40.2
+"White, not Hispanic or Latino",Unintentional injuries,2005,41.5
+"White, not Hispanic or Latino",Unintentional injuries,2006,42.7
+"White, not Hispanic or Latino",Unintentional injuries,2007,43.6
+"White, not Hispanic or Latino",Unintentional injuries,2008,43.2
+"White, not Hispanic or Latino",Unintentional injuries,2009,41.3
+"White, not Hispanic or Latino",Unintentional injuries,2010,42.4
+"White, not Hispanic or Latino",Unintentional injuries,2011,44
+"White, not Hispanic or Latino",Unintentional injuries,2012,43.9
+"White, not Hispanic or Latino",Unintentional injuries,2013,44.2
+"White, not Hispanic or Latino",Unintentional injuries,2014,45.8
+"White, not Hispanic or Latino",Unintentional injuries,2015,49
+"White, not Hispanic or Latino",Unintentional injuries,2016,53.9
+"White, not Hispanic or Latino",Unintentional injuries,2017,56.2
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2000,15.6
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2001,15.5
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2002,16
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2003,15.6
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2004,15.7
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2005,15.7
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2006,15.4
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2007,15.1
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2008,13.7
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2009,12.2
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2010,11.9
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2011,11.9
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2012,12.1
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2013,11.5
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2014,11.3
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2015,11.8
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2016,12.4
+"White, not Hispanic or Latino",Motor vehicle-related injuries,2017,12.3
+"White, not Hispanic or Latino",Poisoning,2000,4.6
+"White, not Hispanic or Latino",Poisoning,2001,5.1
+"White, not Hispanic or Latino",Poisoning,2002,6.6
+"White, not Hispanic or Latino",Poisoning,2003,7.5
+"White, not Hispanic or Latino",Poisoning,2004,8.2
+"White, not Hispanic or Latino",Poisoning,2005,9.1
+"White, not Hispanic or Latino",Poisoning,2006,10.6
+"White, not Hispanic or Latino",Poisoning,2007,11.8
+"White, not Hispanic or Latino",Poisoning,2008,12.4
+"White, not Hispanic or Latino",Poisoning,2009,12.6
+"White, not Hispanic or Latino",Poisoning,2010,13.3
+"White, not Hispanic or Latino",Poisoning,2011,14.6
+"White, not Hispanic or Latino",Poisoning,2012,14.4
+"White, not Hispanic or Latino",Poisoning,2013,15.3
+"White, not Hispanic or Latino",Poisoning,2014,16.7
+"White, not Hispanic or Latino",Poisoning,2015,18.8
+"White, not Hispanic or Latino",Poisoning,2016,23
+"White, not Hispanic or Latino",Poisoning,2017,25.2
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2000,12
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2001,12.5
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2002,12.9
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2003,13
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2004,12.9
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2005,13.1
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2006,13.2
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2007,13.4
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2008,13.6
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2009,13.5
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2010,13.8
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2011,12.2
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2012,11.9
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2013,12.1
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2014,12.1
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2015,12.2
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2016,11.9
+"White, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2017,11.7
+"White, not Hispanic or Latino",Suicide,2000,12
+"White, not Hispanic or Latino",Suicide,2001,12.5
+"White, not Hispanic or Latino",Suicide,2002,12.9
+"White, not Hispanic or Latino",Suicide,2003,12.7
+"White, not Hispanic or Latino",Suicide,2004,13
+"White, not Hispanic or Latino",Suicide,2005,13
+"White, not Hispanic or Latino",Suicide,2006,13.3
+"White, not Hispanic or Latino",Suicide,2007,13.7
+"White, not Hispanic or Latino",Suicide,2008,14.3
+"White, not Hispanic or Latino",Suicide,2009,14.5
+"White, not Hispanic or Latino",Suicide,2010,15
+"White, not Hispanic or Latino",Suicide,2011,15.5
+"White, not Hispanic or Latino",Suicide,2012,15.7
+"White, not Hispanic or Latino",Suicide,2013,15.9
+"White, not Hispanic or Latino",Suicide,2014,16.4
+"White, not Hispanic or Latino",Suicide,2015,17
+"White, not Hispanic or Latino",Suicide,2016,17
+"White, not Hispanic or Latino",Suicide,2017,17.8
+"White, not Hispanic or Latino",Homicide,2000,2.8
+"White, not Hispanic or Latino",Homicide,2001,4
+"White, not Hispanic or Latino",Homicide,2002,2.8
+"White, not Hispanic or Latino",Homicide,2003,2.7
+"White, not Hispanic or Latino",Homicide,2004,2.7
+"White, not Hispanic or Latino",Homicide,2005,2.7
+"White, not Hispanic or Latino",Homicide,2006,2.7
+"White, not Hispanic or Latino",Homicide,2007,2.8
+"White, not Hispanic or Latino",Homicide,2008,2.9
+"White, not Hispanic or Latino",Homicide,2009,2.6
+"White, not Hispanic or Latino",Homicide,2010,2.5
+"White, not Hispanic or Latino",Homicide,2011,2.6
+"White, not Hispanic or Latino",Homicide,2012,2.6
+"White, not Hispanic or Latino",Homicide,2013,2.5
+"White, not Hispanic or Latino",Homicide,2014,2.5
+"White, not Hispanic or Latino",Homicide,2015,2.6
+"White, not Hispanic or Latino",Homicide,2016,2.9
+"White, not Hispanic or Latino",Homicide,2017,2.9
+"Black, not Hispanic or Latino",All causes,2000,"1,137.00"
+"Black, not Hispanic or Latino",All causes,2001,"1,122.30"
+"Black, not Hispanic or Latino",All causes,2002,"1,114.10"
+"Black, not Hispanic or Latino",All causes,2003,"1,099.00"
+"Black, not Hispanic or Latino",All causes,2004,"1,062.80"
+"Black, not Hispanic or Latino",All causes,2005,"1,055.10"
+"Black, not Hispanic or Latino",All causes,2006,"1,019.30"
+"Black, not Hispanic or Latino",All causes,2007,994.4
+"Black, not Hispanic or Latino",All causes,2008,969.2
+"Black, not Hispanic or Latino",All causes,2009,934.4
+"Black, not Hispanic or Latino",All causes,2010,920.4
+"Black, not Hispanic or Latino",All causes,2011,901.6
+"Black, not Hispanic or Latino",All causes,2012,887.1
+"Black, not Hispanic or Latino",All causes,2013,885.2
+"Black, not Hispanic or Latino",All causes,2014,870.7
+"Black, not Hispanic or Latino",All causes,2015,876.1
+"Black, not Hispanic or Latino",All causes,2016,882.8
+"Black, not Hispanic or Latino",All causes,2017,881
+"Black, not Hispanic or Latino",Diseases of heart,2000,328.4
+"Black, not Hispanic or Latino",Diseases of heart,2001,322.6
+"Black, not Hispanic or Latino",Diseases of heart,2002,317.1
+"Black, not Hispanic or Latino",Diseases of heart,2003,309.6
+"Black, not Hispanic or Latino",Diseases of heart,2004,290.9
+"Black, not Hispanic or Latino",Diseases of heart,2005,282.4
+"Black, not Hispanic or Latino",Diseases of heart,2006,268.2
+"Black, not Hispanic or Latino",Diseases of heart,2007,257.4
+"Black, not Hispanic or Latino",Diseases of heart,2008,248.1
+"Black, not Hispanic or Latino",Diseases of heart,2009,236.4
+"Black, not Hispanic or Latino",Diseases of heart,2010,229.5
+"Black, not Hispanic or Latino",Diseases of heart,2011,219.3
+"Black, not Hispanic or Latino",Diseases of heart,2012,216.3
+"Black, not Hispanic or Latino",Diseases of heart,2013,215.5
+"Black, not Hispanic or Latino",Diseases of heart,2014,210.8
+"Black, not Hispanic or Latino",Diseases of heart,2015,210.1
+"Black, not Hispanic or Latino",Diseases of heart,2016,210.7
+"Black, not Hispanic or Latino",Diseases of heart,2017,208
+"Black, not Hispanic or Latino",Ischemic heart disease,2000,220.4
+"Black, not Hispanic or Latino",Ischemic heart disease,2001,215
+"Black, not Hispanic or Latino",Ischemic heart disease,2002,208.5
+"Black, not Hispanic or Latino",Ischemic heart disease,2003,200.8
+"Black, not Hispanic or Latino",Ischemic heart disease,2004,186
+"Black, not Hispanic or Latino",Ischemic heart disease,2005,178.1
+"Black, not Hispanic or Latino",Ischemic heart disease,2006,168
+"Black, not Hispanic or Latino",Ischemic heart disease,2007,156.5
+"Black, not Hispanic or Latino",Ischemic heart disease,2008,149.4
+"Black, not Hispanic or Latino",Ischemic heart disease,2009,139.8
+"Black, not Hispanic or Latino",Ischemic heart disease,2010,133.4
+"Black, not Hispanic or Latino",Ischemic heart disease,2011,127.9
+"Black, not Hispanic or Latino",Ischemic heart disease,2012,123.4
+"Black, not Hispanic or Latino",Ischemic heart disease,2013,119.9
+"Black, not Hispanic or Latino",Ischemic heart disease,2014,114.8
+"Black, not Hispanic or Latino",Ischemic heart disease,2015,111.3
+"Black, not Hispanic or Latino",Ischemic heart disease,2016,110.8
+"Black, not Hispanic or Latino",Ischemic heart disease,2017,107.2
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2000,82.9
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2001,80.6
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2002,78.9
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2003,77.1
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2004,72.9
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2005,68.2
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2006,64.3
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2007,63
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2008,59.9
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2009,55.2
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2010,54.3
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2011,52.3
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2012,50.4
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2013,50.3
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2014,50.9
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2015,52.2
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2016,51.9
+"Black, not Hispanic or Latino",Cerebrovascular diseases,2017,52.7
+"Black, not Hispanic or Latino",Malignant neoplasms,2000,252
+"Black, not Hispanic or Latino",Malignant neoplasms,2001,247
+"Black, not Hispanic or Latino",Malignant neoplasms,2002,243.4
+"Black, not Hispanic or Latino",Malignant neoplasms,2003,238
+"Black, not Hispanic or Latino",Malignant neoplasms,2004,231.8
+"Black, not Hispanic or Latino",Malignant neoplasms,2005,227.7
+"Black, not Hispanic or Latino",Malignant neoplasms,2006,222
+"Black, not Hispanic or Latino",Malignant neoplasms,2007,219.8
+"Black, not Hispanic or Latino",Malignant neoplasms,2008,213
+"Black, not Hispanic or Latino",Malignant neoplasms,2009,209.2
+"Black, not Hispanic or Latino",Malignant neoplasms,2010,208.8
+"Black, not Hispanic or Latino",Malignant neoplasms,2011,204
+"Black, not Hispanic or Latino",Malignant neoplasms,2012,198.6
+"Black, not Hispanic or Latino",Malignant neoplasms,2013,194.4
+"Black, not Hispanic or Latino",Malignant neoplasms,2014,190.2
+"Black, not Hispanic or Latino",Malignant neoplasms,2015,185.1
+"Black, not Hispanic or Latino",Malignant neoplasms,2016,182.9
+"Black, not Hispanic or Latino",Malignant neoplasms,2017,178
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2000,64.9
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2001,63.4
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2002,62.9
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2003,61.8
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2004,60.7
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2005,59.4
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2006,57.5
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2007,56.3
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2008,54.1
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2009,52.6
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2010,52.6
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2011,50.5
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2012,49.6
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2013,48.2
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2014,45.7
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2015,43.1
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2016,41.2
+"Black, not Hispanic or Latino","Trachea, bronchus, and lung",2017,38.8
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2000,28.7
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2001,28.1
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2002,27.4
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2003,27
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2004,25.3
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2005,25.5
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2006,24.9
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2007,24.1
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2008,23.4
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2009,22.5
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2010,22.4
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2011,21.8
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2012,20.5
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2013,19.9
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2014,19.1
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2015,19.3
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2016,19
+"Black, not Hispanic or Latino","Colon, rectum, and anus",2017,18.4
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2000,32
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2001,31.4
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2002,31.8
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2003,30.8
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2004,29.1
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2005,31.6
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2006,29
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2007,29.1
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2008,31.5
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2009,29.6
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2010,29.6
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2011,29.9
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2012,29.7
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2013,30.2
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2014,28.9
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2015,29.7
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2016,30
+"Black, not Hispanic or Latino",Chronic lower respiratory diseases,2017,30.2
+"Black, not Hispanic or Latino",Influenza and pneumonia,2000,25.9
+"Black, not Hispanic or Latino",Influenza and pneumonia,2001,24.6
+"Black, not Hispanic or Latino",Influenza and pneumonia,2002,25
+"Black, not Hispanic or Latino",Influenza and pneumonia,2003,24.2
+"Black, not Hispanic or Latino",Influenza and pneumonia,2004,23.4
+"Black, not Hispanic or Latino",Influenza and pneumonia,2005,22.9
+"Black, not Hispanic or Latino",Influenza and pneumonia,2006,20.7
+"Black, not Hispanic or Latino",Influenza and pneumonia,2007,19.5
+"Black, not Hispanic or Latino",Influenza and pneumonia,2008,19.9
+"Black, not Hispanic or Latino",Influenza and pneumonia,2009,18.3
+"Black, not Hispanic or Latino",Influenza and pneumonia,2010,17.1
+"Black, not Hispanic or Latino",Influenza and pneumonia,2011,17.2
+"Black, not Hispanic or Latino",Influenza and pneumonia,2012,16.1
+"Black, not Hispanic or Latino",Influenza and pneumonia,2013,17.1
+"Black, not Hispanic or Latino",Influenza and pneumonia,2014,16.3
+"Black, not Hispanic or Latino",Influenza and pneumonia,2015,16.3
+"Black, not Hispanic or Latino",Influenza and pneumonia,2016,15.4
+"Black, not Hispanic or Latino",Influenza and pneumonia,2017,15.2
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2000,9.6
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2001,9.4
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2002,8.5
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2003,8.4
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2004,7.9
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2005,7.7
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2006,6.9
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2007,7.4
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2008,7
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2009,6.9
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2010,6.9
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2011,7.2
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2012,7
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2013,7.5
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2014,7.3
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2015,7.6
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2016,7.3
+"Black, not Hispanic or Latino",Chronic liver disease and cirrhosis,2017,7.5
+"Black, not Hispanic or Latino",Diabetes mellitus,2000,50.2
+"Black, not Hispanic or Latino",Diabetes mellitus,2001,50
+"Black, not Hispanic or Latino",Diabetes mellitus,2002,50.7
+"Black, not Hispanic or Latino",Diabetes mellitus,2003,50.4
+"Black, not Hispanic or Latino",Diabetes mellitus,2004,49.2
+"Black, not Hispanic or Latino",Diabetes mellitus,2005,48.3
+"Black, not Hispanic or Latino",Diabetes mellitus,2006,46.4
+"Black, not Hispanic or Latino",Diabetes mellitus,2007,44
+"Black, not Hispanic or Latino",Diabetes mellitus,2008,41.6
+"Black, not Hispanic or Latino",Diabetes mellitus,2009,40
+"Black, not Hispanic or Latino",Diabetes mellitus,2010,39.6
+"Black, not Hispanic or Latino",Diabetes mellitus,2011,40.6
+"Black, not Hispanic or Latino",Diabetes mellitus,2012,39.7
+"Black, not Hispanic or Latino",Diabetes mellitus,2013,39.5
+"Black, not Hispanic or Latino",Diabetes mellitus,2014,38.2
+"Black, not Hispanic or Latino",Diabetes mellitus,2015,38
+"Black, not Hispanic or Latino",Diabetes mellitus,2016,37.8
+"Black, not Hispanic or Latino",Diabetes mellitus,2017,38.7
+"Black, not Hispanic or Latino",Alzheimer's disease,2000,13.2
+"Black, not Hispanic or Latino",Alzheimer's disease,2001,15.1
+"Black, not Hispanic or Latino",Alzheimer's disease,2002,16
+"Black, not Hispanic or Latino",Alzheimer's disease,2003,17.7
+"Black, not Hispanic or Latino",Alzheimer's disease,2004,19.9
+"Black, not Hispanic or Latino",Alzheimer's disease,2005,21.1
+"Black, not Hispanic or Latino",Alzheimer's disease,2006,20
+"Black, not Hispanic or Latino",Alzheimer's disease,2007,20.9
+"Black, not Hispanic or Latino",Alzheimer's disease,2008,21.5
+"Black, not Hispanic or Latino",Alzheimer's disease,2009,21
+"Black, not Hispanic or Latino",Alzheimer's disease,2010,20.9
+"Black, not Hispanic or Latino",Alzheimer's disease,2011,21.3
+"Black, not Hispanic or Latino",Alzheimer's disease,2012,20.2
+"Black, not Hispanic or Latino",Alzheimer's disease,2013,20.5
+"Black, not Hispanic or Latino",Alzheimer's disease,2014,22.7
+"Black, not Hispanic or Latino",Alzheimer's disease,2015,27.3
+"Black, not Hispanic or Latino",Alzheimer's disease,2016,28.2
+"Black, not Hispanic or Latino",Alzheimer's disease,2017,28.5
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2000,23.6
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2001,23.2
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2002,23
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2003,21.6
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2004,20.7
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2005,19.7
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2006,18.9
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2007,17.6
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2008,15.4
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2009,14.2
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2010,12
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2011,10.7
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2012,9.8
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2013,9.2
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2014,8.6
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2015,8.2
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2016,7.5
+"Black, not Hispanic or Latino",Human immunodeficiency virus (HIV) disease,2017,6.9
+"Black, not Hispanic or Latino",Unintentional injuries,2000,38.4
+"Black, not Hispanic or Latino",Unintentional injuries,2001,38.3
+"Black, not Hispanic or Latino",Unintentional injuries,2002,37.8
+"Black, not Hispanic or Latino",Unintentional injuries,2003,37.1
+"Black, not Hispanic or Latino",Unintentional injuries,2004,37.3
+"Black, not Hispanic or Latino",Unintentional injuries,2005,39.7
+"Black, not Hispanic or Latino",Unintentional injuries,2006,39.4
+"Black, not Hispanic or Latino",Unintentional injuries,2007,37.7
+"Black, not Hispanic or Latino",Unintentional injuries,2008,34.1
+"Black, not Hispanic or Latino",Unintentional injuries,2009,32.5
+"Black, not Hispanic or Latino",Unintentional injuries,2010,32.4
+"Black, not Hispanic or Latino",Unintentional injuries,2011,32.7
+"Black, not Hispanic or Latino",Unintentional injuries,2012,32.5
+"Black, not Hispanic or Latino",Unintentional injuries,2013,33.9
+"Black, not Hispanic or Latino",Unintentional injuries,2014,34.9
+"Black, not Hispanic or Latino",Unintentional injuries,2015,38.2
+"Black, not Hispanic or Latino",Unintentional injuries,2016,44.2
+"Black, not Hispanic or Latino",Unintentional injuries,2017,47.6
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2000,16
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2001,15.7
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2002,15.3
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2003,15.3
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2004,15.1
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2005,14.9
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2006,15
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2007,14.5
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2008,12.6
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2009,11.9
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2010,11.4
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2011,11.3
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2012,11.8
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2013,11.5
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2014,11.6
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2015,12.7
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2016,14.1
+"Black, not Hispanic or Latino",Motor vehicle-related injuries,2017,14.3
+"Black, not Hispanic or Latino",Poisoning,2000,6.1
+"Black, not Hispanic or Latino",Poisoning,2001,6.4
+"Black, not Hispanic or Latino",Poisoning,2002,6.9
+"Black, not Hispanic or Latino",Poisoning,2003,6.9
+"Black, not Hispanic or Latino",Poisoning,2004,7.1
+"Black, not Hispanic or Latino",Poisoning,2005,8.2
+"Black, not Hispanic or Latino",Poisoning,2006,9.6
+"Black, not Hispanic or Latino",Poisoning,2007,8.7
+"Black, not Hispanic or Latino",Poisoning,2008,7.8
+"Black, not Hispanic or Latino",Poisoning,2009,7.6
+"Black, not Hispanic or Latino",Poisoning,2010,7.5
+"Black, not Hispanic or Latino",Poisoning,2011,8.2
+"Black, not Hispanic or Latino",Poisoning,2012,8.3
+"Black, not Hispanic or Latino",Poisoning,2013,9.2
+"Black, not Hispanic or Latino",Poisoning,2014,9.9
+"Black, not Hispanic or Latino",Poisoning,2015,11.5
+"Black, not Hispanic or Latino",Poisoning,2016,15.9
+"Black, not Hispanic or Latino",Poisoning,2017,19.3
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2000,29.1
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2001,30.1
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2002,30.5
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2003,31.4
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2004,30.6
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2005,30.9
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2006,31.5
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2007,30.6
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2008,30.6
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2009,30.6
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2010,30.1
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2011,26.6
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2012,25.9
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2013,25.8
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2014,25.3
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2015,26.2
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2016,25.8
+"Black, not Hispanic or Latino","Nephritis, nephrotic syndrome and nephrosis",2017,25.8
+"Black, not Hispanic or Latino",Suicide,2000,5.6
+"Black, not Hispanic or Latino",Suicide,2001,5.5
+"Black, not Hispanic or Latino",Suicide,2002,5.5
+"Black, not Hispanic or Latino",Suicide,2003,5.4
+"Black, not Hispanic or Latino",Suicide,2004,5.5
+"Black, not Hispanic or Latino",Suicide,2005,5.4
+"Black, not Hispanic or Latino",Suicide,2006,5.2
+"Black, not Hispanic or Latino",Suicide,2007,5.1
+"Black, not Hispanic or Latino",Suicide,2008,5.4
+"Black, not Hispanic or Latino",Suicide,2009,5.3
+"Black, not Hispanic or Latino",Suicide,2010,5.4
+"Black, not Hispanic or Latino",Suicide,2011,5.5
+"Black, not Hispanic or Latino",Suicide,2012,5.8
+"Black, not Hispanic or Latino",Suicide,2013,5.6
+"Black, not Hispanic or Latino",Suicide,2014,5.7
+"Black, not Hispanic or Latino",Suicide,2015,5.8
+"Black, not Hispanic or Latino",Suicide,2016,6.3
+"Black, not Hispanic or Latino",Suicide,2017,6.9
+"Black, not Hispanic or Latino",Homicide,2000,21.1
+"Black, not Hispanic or Latino",Homicide,2001,21.8
+"Black, not Hispanic or Latino",Homicide,2002,21.7
+"Black, not Hispanic or Latino",Homicide,2003,21.8
+"Black, not Hispanic or Latino",Homicide,2004,20.9
+"Black, not Hispanic or Latino",Homicide,2005,21.9
+"Black, not Hispanic or Latino",Homicide,2006,22.5
+"Black, not Hispanic or Latino",Homicide,2007,21.9
+"Black, not Hispanic or Latino",Homicide,2008,20.3
+"Black, not Hispanic or Latino",Homicide,2009,19
+"Black, not Hispanic or Latino",Homicide,2010,18.6
+"Black, not Hispanic or Latino",Homicide,2011,18.6
+"Black, not Hispanic or Latino",Homicide,2012,19.4
+"Black, not Hispanic or Latino",Homicide,2013,18.8
+"Black, not Hispanic or Latino",Homicide,2014,18.2
+"Black, not Hispanic or Latino",Homicide,2015,20.9
+"Black, not Hispanic or Latino",Homicide,2016,22.8
+"Black, not Hispanic or Latino",Homicide,2017,22.7

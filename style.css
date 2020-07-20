@@ -1,0 +1,105 @@
+body{
+    background-color: whitesmoke;
+ }
+    .chart-labels {
+font-size: 12px;
+font-family: sans-serif;
+}
+.line {
+fill: none;
+stroke: #3172bc;
+stroke-width: 1px;
+}
+
+tspan {
+fill: black;
+}
+svg {
+border: 1px solid #ccc;
+background-color: white;
+}
+
+text {
+font-family: 'Avenir', sans-serif;
+
+}
+
+.axis .domain {
+stroke: #bbb;
+}
+
+.axis .tick line {
+stroke: #bbb;
+stroke-width: 0.5;
+stroke-dasharray: 4, 2;
+}
+/* Buttons */
+
+button {
+outline: none;
+color: #555;
+border-color: #eee;
+background: #fefefe;
+padding: 3px 10px;
+font-family: Avenir;
+transition: all 200ms;
+cursor: pointer;
+}
+
+button:hover {
+background: #f7f7f7;
+}
+
+button:focus {
+background: #e7e7e7;
+}
+
+/* Tooltip CSS */
+
+.tooltip {
+position: fixed;
+opacity: 0;
+pointer-events: none;
+background: #eee;
+max-width: 300px;
+
+}
+
+.tip-header {
+border-bottom: 2px solid white;
+padding: 0.9rem 1rem;
+}
+
+.tip-body {
+padding: 0.2rem 0;
+font-family: Avenir;
+}
+
+h3,
+h4 {
+font-size: 0.9em;
+color: #555;
+margin: 0;
+font-family: Avenir;
+}
+
+h4 {
+font-weight: normal;
+}
+
+.series-label {
+ 
+    font-size: 0.7em;
+    font-family: Avenir;
+    }
+
+.tip-info {
+margin: 0;
+padding: 0.3rem 1em;
+font-size: 0.9em;
+font-family: Avenir;
+}
+
+.tip-info:nth-of-type(even) {
+background: #e0e0e0;
+}

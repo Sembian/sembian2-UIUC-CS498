@@ -1,10 +1,44 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script src="https://d3js.org/d3.v5.min.js"></script>
-</head>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="generator" content="">
+    <title>Title</title>
+    <link rel="canonical" href="https://sembian.github.io/sembian2-UIUC-CS498/">
+    <!-- Bootstrap core CSS 
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">-->
+    <!-- D3 JS V@5 -->
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v5.js"></script>
+    <script src="https://d3js.org/d3-array.v2.min.js"></script>
+  </head>
+    <body>
+        <!-- Start Application with Containers-->
 
-<body>
-    <script src="app.js"></script>
-</body>
+        <!-- chart's container -->
+        <div>
+        <div class="line-chart-container"></div>
+        <!-- This is your tooltip's base structure -->
+         <!-- Controls -->
+    <div class="controls">
+      <button data-name="1">All Causes</button>
+      <button data-name="2">Gender</button>
+      <button data-name="3">Race</button>
+      <button data-name="4">Explore</button>
+    </div>
+    </div>
+        <div class="tooltip">
+            <div class="tip-header">
+              <h3></h3>
+              <h4></h4>
+            </div>
+            <div class="tip-body"></div>
+          </div>
+    </body>
+    <!-- Application Start -->
+
+    <script src="app.js" defer></script>
+</html>
+      
