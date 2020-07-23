@@ -19,6 +19,7 @@ function filterData(data) {
   return data.filter(d => {
     return (
       d.cause != "All causes" 
+
     );
   });
 }
@@ -68,18 +69,21 @@ function mouseout() {
 function prepareLineChartData(data, scene) {
   // Group by year and extract revenue and budget.
   // Group by year and extract revenue and budget.
+  
   chartGroup.selectAll('.line-series')
   var filterData = {};
   var categoryFilter = {};
   var originFilter = {}
+  var focus = {"Alzheimer's disease": true};
   if (scene == "SCENE-1") {
     filterData = {}
     categoryFilter ={}
     filterData = { "Alzheimer's disease": true, "Diseases of heart": true, "Malignant neoplasms": true, "Unintentional injuries": true, "Chronic lower respiratory diseases": true };
-    data = data.filter(function (d) {
+    data = data.filter(function (d,i) {
       return d.category == "All" &&
         d.cause != "All causes"
-        && filterData[d.cause] == true
+        && filterData[d.cause] == true && 
+        i > 5
       
         
     });
@@ -97,7 +101,7 @@ function prepareLineChartData(data, scene) {
         return d.cause != "All causes" &&
 
           filterData[d.cause] == true &&
-          categoryFilter[d.category] == true
+          categoryFilter[d.category] == true 
         
       });
     }
@@ -120,14 +124,14 @@ function prepareLineChartData(data, scene) {
       else {
         if (scene == "SCENE-4") {
           filterData = {}
-          originFilter = {}
-          
-          categoryFilter = { "All": true}
-    
+          categoryFilter ={}
+          filterData = { "Alzheimer's disease": true, "Diseases of heart": true, "Malignant neoplasms": true, "Unintentional injuries": true, "Chronic lower respiratory diseases": true };
           data = data.filter(function (d) {
-    
-            return d.cause != "All causes" &&
-            d.category == "All" 
+            return d.category == "All" &&
+              d.cause != "All causes"
+              && filterData[d.cause] == true
+            
+            
            
 
 
@@ -137,7 +141,8 @@ function prepareLineChartData(data, scene) {
       }
     }
   }
-
+  
+debugger;
   var nested = d3.nest()
     .key(function (d) { return d.label; })
     .entries(data);
@@ -161,6 +166,10 @@ function prepareLineChartData(data, scene) {
   var lineData = {}
   // Produce final data object.
    lineData = {
+    focus:focus,
+    filterData : filterData,
+    categoryFilter: categoryFilter,
+    originFilter : originFilter,
      scene:scene,
     data: data,
     series: nested,
@@ -219,6 +228,9 @@ xAxisG.append('text')
   
 
     function navigateTo() {
+      chartGroup.selectAll('.series-label')
+          .transition().duration(100)
+          .remove();
       metric = this.dataset.name;
       navigation = metric;
       sceneData = prepareLineChartData(dataLoaded, "SCENE-" + metric );
@@ -250,7 +262,7 @@ xAxisG.append('text')
       .domain(res)
       .range(d3.schemeDark2)
    
-    chartGroup.selectAll(".path")
+    var path = chartGroup.selectAll(".path")
       .data(scenedata.series, d=>navigation+d.key)
       .join(
         enter => { enter 
@@ -258,13 +270,9 @@ xAxisG.append('text')
           .attr('class','path')
           .style("fill", "none")
           .style("mix-blend-mode", "multiply")
-         
-          
           .style("stroke", function (d) { 
-          
             return color(d.key) })
           .attr('d', d => lineGenerator(d.values))
-          .transition().duration(1000)
           .attr("stroke-width", 1)
           
           
@@ -278,7 +286,7 @@ xAxisG.append('text')
           .attr("fill", "none")
           .style("stroke", function (d) { return color(d.key) })
           .attr('d', d => lineGenerator(d.values))
-          .transition().duration(100)
+          
           
         },
         exit => { exit.remove();
@@ -295,25 +303,13 @@ xAxisG.append('text')
           .attr('class', 'circle')
           .attr("cx", function (d) { return xScale(+d.year); })
           .attr("cy", function (d) { return yScale(+d.rate); })
-          .attr("r", 0)
-          .style('cursor', 'pointer')
-          .transition().duration(500)
-          .attr("r", function (d) {            // <== Add these
-            if (+d.year >= 2013 && d.cause === "Alzheimer's disease") {
-              return 4
-            }  // <== Add these
-            else {
-              if (+d.year >= 2013 && d.cause === "Unintentional injuries") {
-                return 4
-              }
-              else { return 3; }
-
-            }
-            // <== Add these
-            
-          })
-         
-          .style("fill", "gray")                                           // <== Add these
+          .attr("r", 3)
+          .style("fill", "gray") 
+          .filter(function(d) { return d.cause === "Alzheimer's disease" && +d.year >= 2013})  // <== This line
+          .attr("r", 0)  
+          .transition().duration(1000)
+          .style("fill", "red")   
+          .attr("r", 5)                                        // <== Add these
           // Tooltip interaction.
 
           
@@ -325,20 +321,13 @@ xAxisG.append('text')
           .attr("cx", function (d) { return xScale(+d.year); })
           .attr("cy", function (d) { return yScale(+d.rate); })
           .attr('class', 'circle')
-          .attr("r", function (d) {            // <== Add these
-            if (+d.year >= 2013 && d.cause === "Alzheimer's disease") {
-              return 4
-            }  // <== Add these
-            else {
-              if (+d.year >= 2013 && d.cause === "Unintentional injuries") {
-                return 4
-              }
-              else { return 3; }
-
-            }
-            // <== Add these
-            
-          })
+          .attr("r", 3)
+          .style("fill", "gray") 
+          .filter(function(d) { return d.cause === "Alzheimer's disease" && +d.year >= 2013})  // <== This line
+          .attr("r", 0)  
+          .transition().duration(1000)
+          .style("fill", "red")   
+          .attr("r", 5)                   
         },
         exit => { exit.remove();
         }
@@ -348,9 +337,7 @@ xAxisG.append('text')
 
       ;
       
-          chartGroup.selectAll('.series-label')
-          .transition().duration(100)
-          .remove();
+          
 
           chartGroup.append('g')
           .attr('class', 'series-labels')
@@ -366,13 +353,16 @@ xAxisG.append('text')
               .text(function (d,i) { return d.values[i].label})
               .style('dominant-baseline', 'central')
               .style('font-size', '0.7em')
-          
-              .style('fill', d => d.color);
+              .style('fill', d => d.color)
+              .filter(function(d,i) { return d.values[i].cause == "Alzheimer's disease" && +d.values[i].year >= 2013})  // <== This line
+              .attr('class','series-label')
+              .style('font-size', '0.9em')
+              
               
             },
 
             update => { update
-              .transition().duration(2000)
+              .transition().duration(1000)
               
               .attr('x', d => xScale(d.values[d.values.length - 1].year) + 5)
               .attr('y', d => yScale(d.values[d.values.length - 1].rate))
@@ -393,12 +383,19 @@ xAxisG.append('text')
     yAxisG.transition().duration(1000).call(yAxis)
     xAxisG.call(xAxis)
     .attr('transform', `translate(0,${innerHeight})`)
+     if(scenedata.scene === "SCENE-4") {
+      /*chartGroup.selectAll('.series-label')
+      .transition().duration(100)
+      .remove();*/
+      d3.selectAll('.circle')
+      .style('cursor', 'pointer')
+      .on('mouseover', mouseover)
+      .on('mousemove', mousemove)
+      .on('mouseout', mouseout);
 
+     }      
       // Tooltip interaction.
-d3.selectAll('.circle')
-.on('mouseover', mouseover)
-.on('mousemove', mousemove)
-.on('mouseout', mouseout);
+
       
   }
   
@@ -430,13 +427,13 @@ const header = svg
   .attr('transform', `translate(0,${-margin.top * 0.6})`)
   .append('text');
 
-header.append('tspan').text('Health, United States - Causes of Deaths');
+header.append('tspan').text('Death rate for Alzeimer\'s Disease is on the Rise in United States');
 
 header
   .append('tspan')
   .attr('x', 0)
   .attr('dy', '1.5em')
-  .style('font-size', '0.9em')
+  .style('font-size', '0.8em')
   .style('fill', '#555')
   .text('Age-adjusted death rates for selected causes of death, by sex, race, and Hispanic origin: United States, 2000–2017');
 

@@ -92,7 +92,12 @@ font-weight: normal;
     font-size: 0.7em;
     font-family: Avenir;
     }
-
+    .focus-label {
+ 
+        font-size: 0.7em;
+        font-family: Avenir;
+        color: #555;
+        }
 .tip-info {
 margin: 0;
 padding: 0.3rem 1em;
@@ -100,6 +105,20 @@ font-size: 0.9em;
 font-family: Avenir;
 }
 
+.line-chart-header {
+    font-size: 1.2em;
+    font-family: Avenir;
+    font: #fc5a03;
+
+}
+
+
 .tip-info:nth-of-type(even) {
 background: #e0e0e0;
+}
+.explore-controls {
+    background: #e0e0e0;
+}
+.invisible{
+    display: none;
 }
