@@ -341,10 +341,10 @@ All,Homicide,2014,5.1
 All,Homicide,2015,5.7
 All,Homicide,2016,6.2
 All,Homicide,2017,6.2
-Male,All causes,2000,"1,053.80"
-Male,All causes,2001,"1,035.40"
-Male,All causes,2002,"1,030.60"
-Male,All causes,2003,"1,010.30"
+Male,All causes,2000,1053.80
+Male,All causes,2001,1035.40
+Male,All causes,2002,1030.60
+Male,All causes,2003,1010.30
 Male,All causes,2004,973.3
 Male,All causes,2005,971.9
 Male,All causes,2006,943.5
@@ -1403,12 +1403,12 @@ White,Homicide,2014,3
 White,Homicide,2015,3.3
 White,Homicide,2016,3.5
 White,Homicide,2017,3.6
-Black or African American,All causes,2000,"1,121.40"
-Black or African American,All causes,2001,"1,106.20"
-Black or African American,All causes,2002,"1,097.30"
-Black or African American,All causes,2003,"1,080.50"
-Black or African American,All causes,2004,"1,043.80"
-Black or African American,All causes,2005,"1,035.10"
+Black or African American,All causes,2000,1121.40
+Black or African American,All causes,2001,1106.20
+Black or African American,All causes,2002,1097.30
+Black or African American,All causes,2003,1080.50
+Black or African American,All causes,2004,1043.80
+Black or African American,All causes,2005,1035.10
 Black or African American,All causes,2006,997.9
 Black or African American,All causes,2007,972
 Black or African American,All causes,2008,947.7

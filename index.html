@@ -2,73 +2,62 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="UIUC 498 Final Project Narrative Visualization">
+    <meta name="author" content="sembian2-UIUC-CS498">
     <meta name="generator" content="">
-    <title>Leading causes of Death in Unites States</title>
+    <title>CDC - Causes of Death in US</title>
     <link rel="canonical" href="https://sembian.github.io/sembian2-UIUC-CS498/">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <!-- Bootstrap core CSS 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">-->
+    
     <!-- D3 JS V@5 -->
     <link rel="stylesheet" href="style.css">
     <script src="https://d3js.org/d3.v5.js"></script>
-    <script src="https://d3js.org/d3-array.v2.min.js"></script>
+
   </head>
     <body>
-        <!-- Start Application with Containers-->
-        <div class='container'>
-        <!-- chart's container -->
-        <div>
-          <div class="controls">
-            <button data-name="prev" disabled=true>Previous</button>
-            <button data-name="1">All Causes of Death</button>
-            <button data-name="2">Gender</button>
-            <button data-name="3">Race</button>
-            <button data-name="4">Explore</button>
-            <button data-name="next" >Next</button>
+      <main class="mars-current-weather">
+        <h1 class="main-title" id="main-title-text">Causes of Death in United States 2000-2017</h1>
+        <div id="data-info" class="data-info" visibility="hidden">
+          <div  class="custom-select"></div>
+            <select id="cause-select">
+             
+            </select>
+            <button id="e-all" data-id="all" data-name="7" class="btn btn--primary">All</button> 
+            <button id="e-gender" data-id="gender" data-name="5" class="btn btn--primary">By Gender</button> 
+            <button id="e-race"class="btn btn-outline" data-name="6">By Race</button>
           </div>
-          <div>
-            <br>
-          </div>
-          <div class="explore-controls">
-            <div>
-              <div class="item">
-                <input type="checkbox" id="close" checked>
-                <label for="close">Close Price</label>
-              </div>
-              <div class="item">
-                <input type="checkbox" id="moving-average" checked>
-                <label for="moving-average">Moving Average (50 Periods)</label>
-              </div>
-              <div class="item">
-                <input type="checkbox" id="bollinger-bands">
-                <label for="bollinger-bands">Bollinger Bands (20 Periods)</label>
-              </div>
-              <div class="item">
-                <input type="checkbox" id="ohlc">
-                <label for="ohlc">OHLC</label>
-              </div>
-              <div class="item">
-                <input type="checkbox" id="candlesticks">
-                <label for="candlesticks">Candlesticks</label>
-              </div>
-            </div>
-          </div>
-          <br>
-        <div class="line-chart-container"></div>
+          
+        </div>
+        
+        <div class="info">
+          <!--<h2 class="section-title">Death rate for Alzeimer's Disease is on the Rise in United States since 2013</h2>
+          <p>Heart disease & Malignant neoplasms are the leading causes of death among all population in the US, <span class="spotlight-text">Alzheimer's disease</span> has reached Its 17-year high in 2017 Years in the United States with a steady increase in Age-adjusted death rates per 100,000 population starting 2014 and unintentional Injuries are also in the rise  </p>
+          <p>Click Next to see Alzeimer's death rates by Gender</p>
+          <button id="a-gender" data-name="2" class="btn btn--primary">By Gender</button> 
+          <button id="a-race" class="btn btn-outline" data-name="3">By Race</button> 
+          <button id="a-explore" class="btn btn-outline" data-name="4">Explore</button> 
+          <button id="a-restart" class="btn btn-outline" data-name="1">Restart</button> </p>-->
+        </div>
+        <div class="temp">
+          
+          <div class="line-chart-container"></div>
+        </div>
+        <div class="data-source-info data-source-info-text">
+          <p>Data Source Centers for Disease Control and Prevention - National Center for Health Statistics - Table 005</p>
+        </div>
+       
+       
         <!-- This is your tooltip's base structure -->
          <!-- Controls -->
-   
-    </div>
-        <div class="tooltip">
-            <div class="tip-header">
-              <h3></h3>
-              <h4></h4>
-            </div>
-            <div class="tip-body"></div>
-          </div>
-        </div>   
+        </div>
+      </main>  
+      <div class="tooltip">
+        <div class="tip-header">
+          <h3></h3>
+          <h4></h4>
+        </div>
+        <div class="tip-body"></div>
+      </div>
+    </div>   
     </body>
     <!-- Application Start -->
 
