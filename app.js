@@ -257,8 +257,210 @@ var story4Data = {
 
 
 }
+const annotations = {
+  "scene-1":
+      {
+          text: ["Alzeimer's Disease death rate increasing since 2013-2017"],
+          textCenter: {
+              year: 2013,
+              rate: 23.5
+          },
+          aimingPoints: [
+              {
+                  year: 2013,
+                  rate: 23.5
+              },
+              {
+                year: 2017,
+                rate: 31
+            }
+          ]
+      },
+      "scene-2":
+      {
+          text: ["Alzeimer's Disease death rate in Women up by 8.9% from 2013"],
+          textCenter: {
+              year: 2008,
+              rate: 13
+          },
+          aimingPoints: [
+            {
+              year: 2013,
+              rate: 25.9
+          },
+              {
+                  year: 2017,
+                  rate: 34.8
+              },
+              
+          ]
+      },
+      "scene-3":
+      {
+          text: ["Alzeimers Disease hghest and prevelant in White race population"],
+          textCenter: {
+              year: 2008,
+              rate: 2
+          },
+          aimingPoints: [
+            {
+              year: 2013,
+              rate: 24.4
+          },
+              {
+                  year: 2017,
+                  rate: 32.3
+              },
+              
+          ]
+      },
+    }
 
+function insertAnnotation( annotationName ) {
+      const rectName = "annotation-rect-" + annotationName;
+      const textName = "annotation-text-" + annotationName;
+      const lineSetName = "annotation-lines-" + annotationName;
+      const lineClass = "annotation-line-" + annotationName;
+      const tspanClass = "annotation-tspan-" + annotationName;
+  
+      const annotation = annotations[annotationName];
+      // First add the text lines to the graph so we can calculate the geometry
+      // of it
+     
+      d3.select(".line-chart-container").select('svg')
+          .append("text")
+          .attr("id",textName)
+          .selectAll("tspan").data(annotation.text)
+          .enter()
+          .append("tspan")
+          .attr("class",tspanClass)
+          .attr("opacity",0)
+          .attr("text-anchor","start")
+          .attr("x",10)
+  
+          .attr("y",function(d,i) { return (i*25) })
+          .text(function(d,i) { return annotation.text[i]});
+  
+      // Now calculate the bounding rectangle of this text area
+      const annotationText = document.getElementById(textName);
+      const SVGRect = annotationText.getBoundingClientRect();
+      const rectDimensions = {
+        height: (10 + SVGRect.height + 10),
+        width: (10 + SVGRect.width + 10)
+      };
+      const textBlockDimensions = annotationText.getBoundingClientRect();
+  
+      // Remove the text, as we will want to add it in a different order so that z layering works
+      d3.select("#"+textName).remove();
+  
+      const textBlockTopLeft = {
+        x: (margin.left+(xScale(annotation.textCenter.year))-textBlockDimensions.width/2),
+        y: (margin.top+height-yScale(annotation.textCenter.rate)+textBlockDimensions.height/2)
+      };
+  
+      const lineStartingPoint = {
+        x: (textBlockTopLeft.x + (textBlockDimensions.width/2)),
+        y: (textBlockTopLeft.y + (textBlockDimensions.height/2))
+      };
+  
+      d3.select(".line-chart-container").select('svg')
+          .append("g")
+          .attr("id",lineSetName)
+          .selectAll("line").data(annotation.aimingPoints)
+          .enter()
+          .append("line")
+          .attr("class",lineClass)
+          .attr("opacity",0)
+          .attr("style","stroke:rgb(0,0,0);stroke-width:0.5px")
+          .attr("x1",lineStartingPoint.x+10)
+          .attr("y1",lineStartingPoint.y+10)
+          .transition().duration(500)
+          .attr("x2",function(d,i) {
+            var x2 = xScale(d.year)
+            debugger;
+            return x2+60;
+        })
+        .attr("y2",function(d,i) {
+            return yScale(d.rate)+20
+        });
+  
+      d3.select(".line-chart-container").select('svg')
+          .append("rect")
+          .attr("id",rectName)
+          .attr("opacity",0)
+          .attr("x",textBlockTopLeft.x-10)
+          .attr("y",textBlockTopLeft.y-20)
+          .attr("height",rectDimensions.height)
+          .attr("width", rectDimensions.width)
+          .attr("fill","lightgrey");
+  
+      // Under our text section create tspans for every line of text in the annotation
+      d3.select(".line-chart-container").select('svg')
+          .append("text")
+          .attr("id",textName)
+          .selectAll("tspan").data(annotation.text)
+          .enter()
+          .append("tspan")
+          .attr("class",tspanClass)
+          .attr("opacity",0)
+          .attr("text-anchor","start")
+          .attr("x",textBlockTopLeft.x)
+          .attr("y",function(d,i) { return (textBlockTopLeft.y + i*15) })
+          .text(function(d,i) { return annotation.text[i]});
+  
+      d3.selectAll("." + lineClass)
+          .transition()
+          .delay(500)
+          .duration(500)
+          .attr("opacity",1);
+  
+      d3.select("#" + rectName)
+          .transition()
+          .duration(500)
+          .attr("opacity",1);
+  
+      d3.selectAll("." + tspanClass)
+          .transition()
+          .duration(500)
+          .attr("opacity",1);
+  }
+  function removeAnnotation( annotationName ) {
+    const rectName = "annotation-rect-" + annotationName;
+    const textName = "annotation-text-" + annotationName;
+    const lineSetName = "annotation-lines-" + annotationName;
+    const lineClass = "annotation-line-" + annotationName;
+    const tspanClass = "annotation-tspan-" + annotationName;
+
+    d3.selectAll("." + tspanClass)
+        .transition()
+        .duration(300)
+        .attr("opacity",0)
+        .remove();
+    d3.select("#" + rectName)
+        .transition()
+        .duration(300)
+        .attr("opacity",0)
+        .remove();
+    d3.selectAll("." + lineClass)
+        .transition()
+        .duration(300)
+        .attr("opacity",0)
+        .remove();
+    d3.select("#" + textName)
+        .transition()
+        .delay(300)
+        .duration(0)
+        .attr("opacity",0)
+        .remove();
+    d3.select("#" + lineSetName)
+        .transition()
+        .delay(300)
+        .duration(0)
+        .remove();
+}
 function ready(lineChartData) {
+
+  
   d3.select('#data-info')
   .style("visibility","hidden");
   renderStory(story1Data);
@@ -340,19 +542,23 @@ xAxisG.append('text')
       chartGroup.selectAll('.series-label')
           .transition().duration(100)
           .remove();
-      
+          removeAnnotation("scene-1");
       metric = this.dataset.name;
       if(parseInt(metric) === 1){
+        
         d3.select("#cause-select")
         .attr("selectedIndex",0);
         d3.select('#data-info')
   .style("visibility","hidden");
         renderStory(story1Data);
+        
       }
       if(parseInt(metric) === 2){
+        
         d3.select('#data-info')
   .style("visibility","hidden");
         renderStory(story2Data);
+        
       }
       if(parseInt(metric) === 3){
         d3.select('#data-info')
@@ -407,14 +613,28 @@ xAxisG.append('text')
     
     xScale.domain([d3.min(scenedata.dates), d3.max(scenedata.dates)])
     .rangeRound([0, innerWidth])
-
-
   yScale.domain([scenedata.yMin, scenedata.yMax])
     .range([innerHeight, 0])
     .nice();
       // Update Axes.
-      
-  
+      if(scenedata.scene === "SCENE-1"){
+        removeAnnotation("scene-1");
+        insertAnnotation("scene-1");
+      }
+      if(scenedata.scene === "SCENE-2"){
+        removeAnnotation("scene-1");
+        insertAnnotation("scene-2");
+      }
+      if(scenedata.scene === "SCENE-3"){
+        removeAnnotation("scene-1");
+        removeAnnotation("scene-2");
+        insertAnnotation("scene-3");
+      }
+      if(scenedata.scene === "SCENE-4"){
+        removeAnnotation("scene-1");
+        removeAnnotation("scene-2");
+        removeAnnotation("scene-3");
+      }
       var symbolGenerator = d3.symbol()
       .size(50);
   // Line generator.
