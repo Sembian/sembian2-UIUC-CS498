@@ -49,15 +49,10 @@ function mouseover() {
     .transition()
     .style('opacity', 0.98);
 
-  tip.select('h3').html(`YEAR: ${barData.year}, ${barData.category}`);
-  tip.select('h4').html(`${barData.cause}, ${barData.rate}`);
+  tip.select('h3').html(`${barData.cause}, ${barData.rate}`);
+  tip.select('h4').html(`${barData.year}, ${barData.category}`);
 
-  d3.select('.tip-body')
-    .selectAll('p')
-    .data(bodyData)
-    .join('p')
-    .attr('class', 'tip-info')
-    .html(d => `${d[0]}: ${d[1]}`);
+  
 }
 
 function mousemove() {
@@ -420,7 +415,8 @@ xAxisG.append('text')
       // Update Axes.
       
   
-  
+      var symbolGenerator = d3.symbol()
+      .size(50);
   // Line generator.
     const nestedmap = d3.nest()
       .key(colorValue)
@@ -451,7 +447,7 @@ xAxisG.append('text')
         update => { update
           .transition().duration(750)
           .delay((d, i) => i * 20)
-          .style("fill", "none")
+          .style("fill", "black")
           .attr("stroke-width", 1)
           .attr("fill", "none")
           .style("stroke", function (d) { return color(d.key) })
@@ -464,8 +460,9 @@ xAxisG.append('text')
 
       )
     
+     
 
-    chartGroup.selectAll(".circle")
+    var circles = chartGroup.selectAll(".circle")
       .data(scenedata.data, d=>d.label)
       .join(
         enter => { enter 
@@ -478,10 +475,11 @@ xAxisG.append('text')
           .filter(function(d) { return d.cause === "Alzheimer's disease" && +d.year >= 2013})  // <== This line
           .attr("r", 0)  
           .transition().duration(1000)
-          .style("fill", "red")   
-          .attr("r", 5)                                        // <== Add these
-          // Tooltip interaction.
+          .style("stroke","black")
+          .style("fill", "blue")   
+          .attr("r", 5)
 
+                                                  // <== Add these
           
         },
 
@@ -495,9 +493,11 @@ xAxisG.append('text')
           .style("fill", "gray") 
           .filter(function(d) { return d.cause === "Alzheimer's disease" && +d.year >= 2013})  // <== This line
           .attr("r", 0)  
+          .style("stroke","black")
           .transition().duration(1000)
-          .style("fill", "red")   
-          .attr("r", 5)                   
+          .style("fill", "blue")   
+          .attr("r", 5)
+                           
         },
         exit => { exit.remove();
         }
@@ -517,16 +517,19 @@ xAxisG.append('text')
             enter => { enter 
               .append('text')
               .attr('class','series-label')
-              .attr('x', d => xScale(d.values[d.values.length - 1].year) + 5)
+              .attr('x', d => xScale(d.values[d.values.length - 1].year) + 10)
               .attr('y', d => yScale(d.values[d.values.length - 1].rate))
 
               .text(function (d,i) { return d.values[i].label})
               .style('dominant-baseline', 'central')
               .style('font-size', '0.7em')
-              .style('fill', d => d.color)
+              .style('fill', function (d) { 
+                return color(d.key) })
               .filter(function(d,i) { return d.values[i].cause == "Alzheimer's disease" && +d.values[i].year >= 2013})  // <== This line
               .attr('class','series-label')
-              .style('font-size', '0.9em')
+              .style('font-size', '1em')
+              .attr('x', d => xScale(d.values[d.values.length - 1].year) + 10)
+              .attr('y', d => yScale(d.values[d.values.length - 1].rate))
               
               
             },
@@ -541,7 +544,8 @@ xAxisG.append('text')
               .style('font-size', '0.7em')
         
               .style('dominant-baseline', 'central')
-              .style('fill', d => d.color);
+              .style('fill', function (d) { 
+                return color(d.key) });
 
             },
             exit => { exit.remove();
@@ -591,30 +595,6 @@ const svg = d3.select('.line-chart-container')
   .append('g')
   .attr('transform', `translate(${margin.left}, ${margin.top})`);
 
-// Draw header.
-/*const header = d3.select(".temp")
-  .append('h1')
-  .attr('class', 'section-title')
-  .attr('transform', `translate(0,${-margin.top * 0.6})`)
-  .append('text')
-  .text('');
-
-header
-  .append('tspan')
-  .attr('x', 0)
-  .attr('dy', '1.5em')
-  .style('font-size', '0.8em')
-  .style('fill', '#555')
-  .text('Age-adjusted death rates for selected causes of death, by sex, race, and Hispanic origin: United States, 2000–2017');
-
-header
-  .append('tspan')
-  .attr('x', 0)
-  .attr('dy', '1.5em')
-  .style('font-size', '0.7em')
-  .style('fill', '#555')
-  .text('Data Source Centers for Disease Control and Prevention - National Center for Health Statistics - Table 005');
-*/
 const xValue = d => +d.year;
 
 const yValue = d => +d.rate;

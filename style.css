@@ -179,12 +179,12 @@ a:hover {
   
   .tip-header {
   border-bottom: 2px solid white;
-  padding: 0.9rem 1rem;
+  padding: 0.4rem 1rem;
   }
   
   .tip-body {
   padding: 0.2rem 0;
-  font-family: Avenir;
+  
   }
   
 
@@ -195,7 +195,7 @@ a:hover {
     display: grid;
     row-gap: 1em;
     -ms-grid-columns: (12fr)[12];
-        grid-template-columns: repeat(12, 12fr);
+    grid-template-columns: repeat(12, 12fr);
   }
   .temp {
     -ms-grid-column: 3;
