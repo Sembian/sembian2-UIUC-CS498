@@ -690,14 +690,14 @@ xAxisG.append('text')
           .attr('class', 'circle')
           .attr("cx", function (d) { return xScale(+d.year); })
           .attr("cy", function (d) { return yScale(+d.rate); })
-          .attr("r", 3)
+          .attr("r", 4)
           .style("fill", "gray") 
           .filter(function(d) { return d.cause === "Alzheimer's disease" && +d.year >= 2013})  // <== This line
           .attr("r", 0)  
           .transition().duration(1000)
           .style("stroke","black")
           .style("fill", "blue")   
-          .attr("r", 5)
+          .attr("r", 6)
 
                                                   // <== Add these
           
@@ -709,14 +709,14 @@ xAxisG.append('text')
           .attr("cx", function (d) { return xScale(+d.year); })
           .attr("cy", function (d) { return yScale(+d.rate); })
           .attr('class', 'circle')
-          .attr("r", 3)
+          .attr("r", 4)
           .style("fill", "gray") 
           .filter(function(d) { return d.cause === "Alzheimer's disease" && +d.year >= 2013})  // <== This line
           .attr("r", 0)  
           .style("stroke","black")
           .transition().duration(1000)
           .style("fill", "blue")   
-          .attr("r", 5)
+          .attr("r", 6)
                            
         },
         exit => { exit.remove();
