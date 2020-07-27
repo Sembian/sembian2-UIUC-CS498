@@ -297,7 +297,7 @@ const annotations = {
       },
       "scene-3":
       {
-          text: ["Alzeimers Disease hghest and prevelant in White race population"],
+          text: ["Alzeimers Disease highest and prevelant in White race population"],
           textCenter: {
               year: 2008,
               rate: 2
@@ -800,8 +800,8 @@ xAxisG.append('text')
 
 // Dimensions.
 const margin = { top: 20, right: 100, bottom: 30, left: 60 };
-const width = 910 - margin.right - margin.left;
-const height = 600- margin.top - margin.bottom;
+const width = 875 - margin.right - margin.left;
+const height = 575- margin.top - margin.bottom;
 const innerWidth = width - margin.left - margin.right;
 const innerHeight = height - margin.bottom 
 // Scale data.

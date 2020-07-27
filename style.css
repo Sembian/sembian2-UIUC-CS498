@@ -145,7 +145,7 @@ a:hover {
 .mars-current-weather {
   background: var(--clr-light);
   padding: 2em 2em 2em;
-  max-width: 1300px;
+  max-width: 1200px;
   margin: 1em;
 }
 
@@ -159,7 +159,7 @@ a:hover {
 
 .info{
   background: var(--clr-info-bg);
-  border-radius: 0.2rem;
+  border-radius: 1rem;
 }
 .spotlight-text{
   font-size: var(--fs-body);
@@ -178,7 +178,7 @@ a:hover {
   }
   
   .tip-header {
-  border-bottom: 2px solid white;
+  border-bottom: 1px solid white;
   padding: 0.4rem 1rem;
   }
   
@@ -193,7 +193,7 @@ a:hover {
   .mars-current-weather {
     display: -ms-grid;
     display: grid;
-    row-gap: 1em;
+    row-gap: .5em;
     -ms-grid-columns: (12fr)[12];
     grid-template-columns: repeat(12, 12fr);
   }
@@ -237,8 +237,8 @@ a:hover {
     fill: black;
 }
   .mars-current-weather {
-    padding: 2em;
-    margin: 1em 1em 0 1em;
+    padding: 0.5em;
+    margin: .5em .5em 0 .5em;
     -ms-grid-columns: (12fr)[12];
         grid-template-columns: repeat(12, 12fr);
     grid-gap: 0.5em;
