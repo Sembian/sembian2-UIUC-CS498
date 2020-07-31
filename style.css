@@ -36,11 +36,11 @@ h1, h2, h3 {
   line-height: 1.2;
 }
 .data-source-info-text {
-  font-size: .9rem;
+  font-size: .7rem;
   margin: 0;
   padding: -10px;
   color:var(--clr-dark);
-
+  line-height: 1;
 }
 .yaxis-label-text {
   font-size: .8rem;
@@ -145,7 +145,7 @@ a:hover {
 .mars-current-weather {
   background: var(--clr-light);
   padding: 2em 2em 2em;
-  max-width: 1200px;
+  max-width: 1300px;
   margin: 1em;
 }
 
@@ -165,6 +165,12 @@ a:hover {
   font-size: var(--fs-body);
   color: var(--clr-primary);
   font-weight: var(--fw-bold);
+}
+
+.datalabel-text{
+  font-size: .6rem;
+  text-anchor: middle;
+  color: var(--clr-accent);
 }
 /* Tooltip CSS */
 
@@ -235,6 +241,21 @@ a:hover {
   }
   tspan {
     fill: black;
+}
+.overlay {
+  fill: none;
+  stroke: none;
+  pointer-events: all;
+}
+
+.focusLine {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 0.5px;
+}
+
+.focusCircle {
+  fill: red;
 }
   .mars-current-weather {
     padding: 0.5em;

@@ -2,9 +2,10 @@
 const parseDate = string => d3.utcParse('%Y-%m-%d')(string);
 const parseNA = string => (string === 'NA' ? undefined : string);
 
-
 var yearcount;
 function type(d) {
+
+  
 
   
         return {
@@ -13,9 +14,11 @@ function type(d) {
           year: +d.Year,
           rate: +d.Rate,
           label:d['Category'] +"-"+d['Cause of death'],
-          labelkey: d['Category'] +"-"+d['Cause of death']+d.Year+d.Rate
+          labelkey: d['Category'] +"-"+d['Cause of death']+d.Year+d.Rate,
+          increase:0,
+          datalabelkey: "datalabel-"+d.Year+d.Rate,
         };
-
+      
 }
 var navigation = 1;
 
@@ -32,7 +35,12 @@ function filterData(data) {
 function mouseover() {
   // Get data.
   const barData = d3.select(this).data()[0];
-  //debugger;
+  d3.select(this)
+  .attr('r', 8)
+  .transition().duration(500)
+   
+  
+ 
   const bodyData = [
     ['Cause', barData.cause],
     ['Adjusted Rate of Death', barData.rate],
@@ -62,6 +70,12 @@ function mousemove() {
 }
 
 function mouseout() {
+  d3.select(this)
+  .attr('r', 5)
+  .transition().duration(1000)
+  
+  
+  
   d3.select('.tooltip')
     .transition()
     .style('opacity', 0);
@@ -135,8 +149,10 @@ function prepareLineChartData(data, scene) {
       }
       else {
         if (scene == "SCENE-4") {
+          
           filterData = {}
           categoryFilter ={}
+          
           if(explore.cause === "All causes"){
             explore.gender == false;
             explore.race == false;
@@ -160,6 +176,7 @@ function prepareLineChartData(data, scene) {
 
             
           });
+          
         }
       }
     }
@@ -179,7 +196,10 @@ function prepareLineChartData(data, scene) {
     .key(function (d) { return d.rate; })
     .entries(data);
   console.log('Local CSV in ready!:', allRates);
+  
 
+  
+ 
   const dates = allYears.map(d => +d.key)
   const xMax = d3.max(dates);
   const xMin = d3.min(dates);
@@ -217,7 +237,7 @@ var story1Data = {
   title:"Death rate for Alzeimer\'s Disease is on the Rise in United States since 2013",
   spotlightbefore:"Heart disease & Malignant neoplasms are the leading causes of death among all population in the US, ",
   spotlight:"Alzheimer's disease",
-  spotlightafter:" has reached Its 17-year high in 2017, with a steady increase in Age-adjusted death rates per 100,000 population starting 2014 and unintentional Injuries are also in the rise",
+  spotlightafter:" has reached Its 17-year high reaching an age-adjusted death rate of 31% in 2017, with a steady increase starting 2013.",
   nexttext:"View By Gender",
   nextdataname:"2",
 
@@ -225,10 +245,10 @@ var story1Data = {
 }
 
 var story2Data = {
-  title:"Alzeimers death rate are plummeting in Women in recent years",
+  title:"Alzeimers death rates are plummeting in Female population in recent years",
   spotlightbefore:"Age-adjusted death rates per 100,000 population related ",
   spotlight:"Alzheimer's Disease",
-  spotlightafter:" are plummeting among Women population with death rates up from 25.9% in 2013 to 34.2%  when compared to Men from 19.3% in 2013 with 24% in 2017 in the United States ",
+  spotlightafter:" are plummeting among Women population with death rates up from 25.9% in 2013 to 34.8%  when compared to Men from 19.3% in 2013 to 24.9% in 2017 in the United States ",
   nexttext:"View By Race",
   nextdataname:"3",
  
@@ -377,7 +397,7 @@ function insertAnnotation( annotationName ) {
           .transition().duration(500)
           .attr("x2",function(d,i) {
             var x2 = xScale(d.year)
-            debugger;
+           
             return x2+60;
         })
         .attr("y2",function(d,i) {
@@ -471,18 +491,33 @@ function ready(lineChartData) {
   document.getElementById("a-explore").style.visibility = "hidden";
   document.getElementById("a-restart").style.visibility = "hidden";
   */
+  d3.select("#cause-select").property("selectedIndex", 0);
   var selector = d3.select("#cause-select")
   .selectAll(".cdcOptions")
   .data(lineChartData.selectdata)
-  .enter().append("option")
-  .text(function(d) { return d.key; })
-  .attr("value", function (d) { return d.key; }) // corresponding value returned by the button
-  // When the button is changed, run the updateChart function
-  d3.select("#cause-select").on("change", function(d) {
-    // recover the option that has been chosen
-    var selectedOption = d3.select(this).property("value")
-    // run the updateChart function with this selected option
-    updateselection(selectedOption)
+  .join(
+    enter => {
+      enter
+      .append("option")
+      .text(function(d) { return d.key; })
+      .attr("value", function (d) { return d.key; }) // corresponding value returned by the button
+      // When the button is changed, run the updateChart function
+      d3.select("#cause-select").on("change", function(d) {
+        // recover the option that has been chosen
+        var selectedOption = d3.select(this).property("value")
+        // run the updateChart function with this selected option
+        updateselection(selectedOption)
+    },
+    update => {
+      
+    },
+    exit => {
+      exit.remove()
+    }
+
+  );
+
+    
 })
  yAxisG.append('text')
  .attr('y', -40)
@@ -526,14 +561,7 @@ xAxisG.append('text')
       .text(storydata.nexttext)
       .attr("data-name",storydata.nextdataname)
       
-      /*<h2 class="section-title">D</h2>
-      <p></p>
-      <p>Click Next to see Alzeimer's death rates by Gender</p>
-      <button id="a-gender" data-name="2" class="btn btn--primary">By Gender</button> 
-      <button id="a-race" class="btn btn-outline" data-name="3">By Race</button> 
-      <button id="a-explore" class="btn btn-outline" data-name="4">Explore</button> 
-      <button id="a-restart" class="btn btn-outline" data-name="1">Restart</button> </p>
-    </div>*/
+      
     }
     function navigateTo() {
       d3.selectAll('button').transition().duration(500)
@@ -567,6 +595,10 @@ xAxisG.append('text')
       }
       if(parseInt(metric) === 4){
         d3.select('#e-all').transition().attr('class','btn btn--primary');
+        var sel = document.getElementById('cause-select');
+        sel.selectedIndex = 0; 
+
+        updateselection(sel.options[sel.selectedIndex].value);  
         d3.select('#data-info')
   .style("visibility","visible");
         renderStory(story4Data);
@@ -606,11 +638,16 @@ xAxisG.append('text')
           .remove();
       
       sceneData = prepareLineChartData(dataLoaded, "SCENE-4" );
+
       update(sceneData);
-      //debugger;
+   
     }
+
   function update(scenedata) {
     
+    var xDomain = d3.extent(scenedata.dates)
+    var yDomain = d3.extent(scenedata.yMin,scenedata.yMax)
+
     xScale.domain([d3.min(scenedata.dates), d3.max(scenedata.dates)])
     .rangeRound([0, innerWidth])
   yScale.domain([scenedata.yMin, scenedata.yMax])
@@ -631,12 +668,12 @@ xAxisG.append('text')
         insertAnnotation("scene-3");
       }
       if(scenedata.scene === "SCENE-4"){
+       
         removeAnnotation("scene-1");
         removeAnnotation("scene-2");
         removeAnnotation("scene-3");
       }
-      var symbolGenerator = d3.symbol()
-      .size(50);
+     
   // Line generator.
     const nestedmap = d3.nest()
       .key(colorValue)
@@ -647,7 +684,7 @@ xAxisG.append('text')
     var color = d3.scaleOrdinal()
       .domain(res)
       .range(d3.schemeDark2)
-   
+      
     var path = chartGroup.selectAll(".path")
       .data(scenedata.series, d=>navigation+d.key)
       .join(
@@ -660,28 +697,62 @@ xAxisG.append('text')
             return color(d.key) })
           .attr('d', d => lineGenerator(d.values))
           .attr("stroke-width", 1)
-          
+          .transition()
+          .duration(1500)
+          .ease(d3.easeCubic)
+          .attrTween("stroke-dasharray", function() {
+            const length = this.getTotalLength();
+            return d3.interpolate(`0,${length}`, `${length},${length}`);
+          })
           
         },
 
         update => { update
-          .transition().duration(750)
-          .delay((d, i) => i * 20)
-          .style("fill", "black")
+          
+          .style("fill", "none")
           .attr("stroke-width", 1)
+          .style("mix-blend-mode", "multiply")
           .attr("fill", "none")
           .style("stroke", function (d) { return color(d.key) })
           .attr('d', d => lineGenerator(d.values))
-          
+          .transition()
+          .duration(1500)
+          .ease(d3.easeCubic)
+          .attrTween("stroke-dasharray", function() {
+            const length = this.getTotalLength();
+            return d3.interpolate(`0,${length}`, `${length},${length}`);
+          })
           
         },
-        exit => { exit.remove();
+        exit => { exit.transition().duration(100).remove();
         }
 
       )
-    
      
-
+    //   chartGroup.append("g")
+    //   .attr("font-family", "sans-serif")
+    //   .attr("font-size", 10)
+    //   .attr("stroke-linecap", "round")
+    //   .attr("stroke-linejoin", "round")
+    //   .attr("text-anchor", "middle")
+    // .selectAll("text")
+    // .data(d => scenedata.series, d=>d.labelkey)
+    // .join("text")
+    //   .text(function (d,i) { return d.values[i].rate})
+    //   .attr("dy", "0.35em")
+    //   .attr("x", function(d,i) {
+            
+    //     return xScale(+d.values[i].year)
+    // })
+    //   .attr("y", function(d,i) {
+    //     return yScale(+d.values[i].rate)
+    // })
+    // .call(text => text.filter((d, i, data) => i === data.length - 1)
+    //     .append("tspan")
+    //       .attr("font-weight", "bold")
+    //       .text(d => ` ${d.key}`))
+      
+    
     var circles = chartGroup.selectAll(".circle")
       .data(scenedata.data, d=>d.label)
       .join(
@@ -690,14 +761,17 @@ xAxisG.append('text')
           .attr('class', 'circle')
           .attr("cx", function (d) { return xScale(+d.year); })
           .attr("cy", function (d) { return yScale(+d.rate); })
+          .transition().duration(1700)
           .attr("r", 4)
-          .style("fill", "gray") 
-          .filter(function(d) { return d.cause === "Alzheimer's disease" && +d.year >= 2013})  // <== This line
+          .style("fill", function (d) { return color(d.label) }) 
+          .filter(function(d) { return d.cause === "Alzheimer's disease" && +d.year >= 2013})  // <== This lin
           .attr("r", 0)  
-          .transition().duration(1000)
-          .style("stroke","black")
+          .transition().duration(750)
+          
           .style("fill", "blue")   
-          .attr("r", 6)
+          .attr("r", 5)
+         
+          
 
                                                   // <== Add these
           
@@ -709,14 +783,17 @@ xAxisG.append('text')
           .attr("cx", function (d) { return xScale(+d.year); })
           .attr("cy", function (d) { return yScale(+d.rate); })
           .attr('class', 'circle')
+          .transition().duration(1900)
           .attr("r", 4)
           .style("fill", "gray") 
           .filter(function(d) { return d.cause === "Alzheimer's disease" && +d.year >= 2013})  // <== This line
           .attr("r", 0)  
-          .style("stroke","black")
-          .transition().duration(1000)
+         
+          .transition().duration(750)
           .style("fill", "blue")   
-          .attr("r", 6)
+          .attr("r", 5)
+        
+         
                            
         },
         exit => { exit.remove();
@@ -724,11 +801,66 @@ xAxisG.append('text')
 
       )                               // <== Add these
 
+     
 
-      ;
+        d3.selectAll(".datalabel-text").remove();
+        var datalabels = chartGroup.append("g").selectAll(".datalabel-text")
+        .data(scenedata.data, d=>d.rate)
+        .join(
+          enter => {
+            enter
+            .filter(function(d) { return d.cause === "Alzheimer's disease" && +d.year >= 2013})  // <== This line
+            .append("text")
+            .attr("opacity",0)
+            .attr('id',function (d,i) { return d.datalabelkey})
+            .attr('class', 'datalabel-text')
+            
+            .attr("x", function(d,i) {
+            
+                return xScale(+d.year)+5
+            })
+            .attr("y", function(d,i) {
+                return yScale(+d.rate) + 20
+            })
+            .text("")
+
+            .transition().duration(1900)
+            .attr("opacity",1)
+            
+            .text(function (d,i) { return "↑ " + d.rate})
+          },
+          update => {
+              update
+              .filter(function(d) { return d.cause === "Alzheimer's disease" && +d.year >= 2013})  // <== This line
+               
+              .attr('class', 'datalabel-text')
+              .attr("opacity",0)
+              .attr("x", function(d,i) {
+              
+                  return xScale(+d.year)
+              })
+              .attr("y", function(d,i) {
+                  return yScale(+d.rate) + 20
+              })
+              
+              .text("")
+            .transition().duration(1000)
+            .attr("opacity",1)
+            
+            .text(function (d,i) { return "↑ " + d.rate})
+              ;
+          },
+          exit => {
+            exit.
+            remove();
+          }
+
+        )
+        
+        
       
-       
-
+    
+     
           chartGroup.append('g')
           .attr('class', 'series-labels')
           .selectAll('.series-label')
@@ -736,6 +868,7 @@ xAxisG.append('text')
           .join(
             enter => { enter 
               .append('text')
+              
               .attr('class','series-label')
               .attr('x', d => xScale(d.values[d.values.length - 1].year) + 10)
               .attr('y', d => yScale(d.values[d.values.length - 1].rate))
@@ -743,11 +876,13 @@ xAxisG.append('text')
               .text(function (d,i) { return d.values[i].label})
               .style('dominant-baseline', 'central')
               .style('font-size', '0.7em')
+              .transition().duration(1000)
               .style('fill', function (d) { 
                 return color(d.key) })
               .filter(function(d,i) { return d.values[i].cause == "Alzheimer's disease" && +d.values[i].year >= 2013})  // <== This line
               .attr('class','series-label')
               .style('font-size', '1em')
+              
               .attr('x', d => xScale(d.values[d.values.length - 1].year) + 10)
               .attr('y', d => yScale(d.values[d.values.length - 1].rate))
               
@@ -755,7 +890,7 @@ xAxisG.append('text')
             },
 
             update => { update
-              .transition().duration(1000)
+              .transition().duration(1200)
               
               .attr('x', d => xScale(d.values[d.values.length - 1].year) + 5)
               .attr('y', d => yScale(d.values[d.values.length - 1].rate))
@@ -764,6 +899,7 @@ xAxisG.append('text')
               .style('font-size', '0.7em')
         
               .style('dominant-baseline', 'central')
+              .transition().duration(1000)
               .style('fill', function (d) { 
                 return color(d.key) });
 
@@ -774,9 +910,8 @@ xAxisG.append('text')
           )   
       
        
-    yAxisG.transition().duration(1000).call(yAxis)
-    xAxisG.call(xAxis)
-    .attr('transform', `translate(0,${innerHeight})`)
+        
+    
      if(scenedata.scene === "SCENE-4") {
       /*chartGroup.selectAll('.series-label')
       .transition().duration(100)
@@ -788,7 +923,9 @@ xAxisG.append('text')
       .on('mouseout', mouseout);
 
      }      
-  
+     yAxisG.transition().duration(1000).call(yAxis)
+     xAxisG.call(xAxis)
+     .attr('transform', `translate(0,${innerHeight})`)
       // Tooltip interaction.
 
       
@@ -799,8 +936,8 @@ xAxisG.append('text')
 }
 
 // Dimensions.
-const margin = { top: 20, right: 100, bottom: 30, left: 60 };
-const width = 875 - margin.right - margin.left;
+const margin = { top: 20, right: 120, bottom: 30, left: 60 };
+const width = 925 - margin.right - margin.left;
 const height = 575- margin.top - margin.bottom;
 const innerWidth = width - margin.left - margin.right;
 const innerHeight = height - margin.bottom 
@@ -826,12 +963,14 @@ const chartGroup = svg.append('g').attr('class', 'line-chart');
 const lineGenerator = d3.line()
   .x(d => xScale(xValue(d)))
   .y(d => yScale(yValue(d)))
-  .curve(d3.curveLinear);
+  .curve(d3.curveMonotoneX);
 
 
 const yAxisG = svg.append('g')
 // Main function.
 const xAxisG = svg.append('g')
+
+
 const yAxis = d3.axisLeft(yScale)
 const xAxis = d3.axisBottom(xScale).ticks(18).tickSizeOuter(0).tickFormat(d3.format("d"));
 // Load data.
