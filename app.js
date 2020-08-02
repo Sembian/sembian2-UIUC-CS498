@@ -259,7 +259,7 @@ var story3Data = {
 }
 var story4Data = {
   title: "Explore the leading causes of death in United states by gender and race",
-  spotlightbefore: "Use controls to select other causes of deaths in United States and view by gender or Race. Click restart to restart the ",
+  spotlightbefore: "Use controls to select other causes of deaths in United States and view by gender or Race, hover over the data points in the line chart to get more details on the actual death rate & year values for selected cause and group. Click the Restart button below to restart the ",
   spotlight: "Alzeimer's Disease ",
   spotlightafter: "story ",
   nexttext: "Restart",
@@ -289,7 +289,7 @@ const annotations = {
   },
   "scene-2":
   {
-    text: ["Alzeimer's Disease death rate in Women up by 8.9% from 2013"],
+    text: ["Alzeimer's Disease death rate in Women are up by 8.9% from 2013"],
     textCenter: {
       year: 2008,
       rate: 13
