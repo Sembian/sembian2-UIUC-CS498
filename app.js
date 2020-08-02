@@ -252,7 +252,7 @@ var story2Data = {
 }
 
 var story3Data = {
-  title: "Prevelance of Alzeimers Disease is more prevelant in White race population in United States",
+  title: "Alzeimers Disease is more prevelant in White race population in United States",
   spotlightbefore: "In United States, ",
   spotlight: "Alzheimer's Disease",
   spotlightafter: " is more prevalent and highest among White & Black or African American population and Asian descendants are seeing the lowest with 15% Age-adjusted death rate per 100,000 population, all race groups are seeing a steady increase in death rates are starting 2013",
