@@ -222,15 +222,10 @@ function prepareLineChartData(data, scene) {
     xMin: xMin,
     yMin: yMin
   };
-
   return lineData;
-
-
-
 }
-
 var story1Data = {
-  title: "Death rate for Alzeimer\'s Disease is on the Rise in United States since 2013",
+  title: "Alzeimer\'s Disease deaths are on the Rise in United States",
   spotlightbefore: "Heart disease & Malignant neoplasms are the leading causes of death among all population in the US, ",
   spotlight: "Alzheimer's disease",
   spotlightafter: " has reached Its 17-year high reaching an age-adjusted death rate of 31% in 2017, with a steady increase starting 2013.",
