@@ -522,6 +522,7 @@ function ready(lineChartData) {
 
   d3.selectAll('button').on('click', navigateTo)
     .attr('class', 'btn btn-outline');
+
   function renderStory(storydata) {
     d3.select(".info").selectAll('.section-title').remove();
     d3.select(".info").selectAll('p').remove();
@@ -628,8 +629,7 @@ function ready(lineChartData) {
 
   function update(scenedata) {
 
-    var xDomain = d3.extent(scenedata.dates)
-    var yDomain = d3.extent(scenedata.yMin, scenedata.yMax)
+
 
     xScale.domain([d3.min(scenedata.dates), d3.max(scenedata.dates)])
       .rangeRound([0, innerWidth])
