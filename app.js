@@ -2,7 +2,7 @@
  *
  *
  * @param {*} d
- * @returns
+ * @returns formatted data
  */
 function type(d) {
   return {
